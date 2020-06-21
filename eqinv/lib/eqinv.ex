@@ -346,6 +346,11 @@ defmodule EQInv do
         File.open(itemsPath, [:read], fn file ->
             handleItemLine(:headers, file, IO.read(file, :line))
         end)
+
+        itemsPath = "#{privPath}/items/items2.txt"
+        File.open(itemsPath, [:read], fn file ->
+            handleItemLine(:body, file, IO.read(file, :line))
+        end)
     end
 
     def handleItemLine(_, _, :eof) do
