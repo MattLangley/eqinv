@@ -1,0 +1,1 @@
+docker-compose -f ./docker/docker-compose.yml down && docker-compose -f ./docker/docker-compose.yml up -d eqinv-local && docker exec -ti eqinv-local /bin/bash

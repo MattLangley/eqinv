@@ -1,0 +1,39 @@
+version: "3.7"
+networks:
+  backend:
+    attachable: true
+services:
+  # Riak ----------------------------------------------------------------------
+  eqinv-riak-kv:
+    container_name: eqinv-riak-kv
+    image: basho/riak-kv
+    networks:
+      - backend
+    # depends_on:
+    #   - consul_server
+    ports:
+      - "8087:8087"
+      - "8098:8098"
+    environment:
+      - CLUSTER_NAME=riakkv
+    labels:
+      - com.basho.riak.cluster.name=riakkv
+    volumes:
+      - "./schemas:/etc/riak/schemas"
+    # network_mode: "host"
+  # App --------------------------------------------------------------------
+  eqinv-local:
+    build: ./images/app-local
+    container_name: eqinv-local
+    networks:
+      - backend
+    volumes:
+      - "../eqinv:/home/eqinv"
+      - "~/.ssh:/root/.ssh"
+    depends_on:
+      - eqinv-riak-kv
+    ports:
+      - '8099:8099'
+    image: "eqinv-local"
+    stdin_open: true
+    tty: true

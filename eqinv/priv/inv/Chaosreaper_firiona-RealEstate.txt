@@ -1,0 +1,133 @@
+RealEstateLocation	RealEstateName	ItemName	ItemOwner	Status	ID	Count
+Neighborhood	Chivalry Village, 116 Vanward Street	Monel Style Plaster Domicile, Wood Interior	Chaosreaper	Placed	61887	1
+Neighborhood	Chivalry Village, 116 Vanward Street	Estate Storage Crate	Chaosreaper	Placed	62595	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Crude Defiant Plate Helm	Chaosreaper	Stored	50008	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Crude Defiant Plate Bracer	Chaosreaper	Stored	50005	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Crude Defiant Plate Bracer	Chaosreaper	Stored	50005	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Rough Defiant Chain Bracer	Chaosreaper	Stored	50068	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Rough Defiant Chain Bracer	Chaosreaper	Stored	50068	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Rough Defiant Chain Gauntlets	Chaosreaper	Stored	50069	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Rough Defiant Chain Leggings	Chaosreaper	Stored	50073	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Rough Defiant Leather Cap	Chaosreaper	Stored	50078	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Rough Defiant Plate Bracer	Chaosreaper	Stored	50061	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Rough Defiant Plate Boots	Chaosreaper	Stored	50063	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Rough Defiant Plate Gauntlets	Chaosreaper	Stored	50062	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Rough Defiant Plate Helm	Chaosreaper	Stored	50064	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Rough Defiant Plate Helm	Chaosreaper	Stored	50064	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elaborate Adept's Hood	Chaosreaper	Stored	50436	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elaborate Adept's Hood	Chaosreaper	Stored	50436	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elaborate Combatant's Cloak	Chaosreaper	Stored	50427	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elaborate Defiant Coldstone	Chaosreaper	Stored	50603	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elaborate Defiant Chain Sleeves	Chaosreaper	Stored	50193	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elaborate Defiant Plate Bracer	Chaosreaper	Stored	50179	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elaborate Defiant Plate Gauntlets	Chaosreaper	Stored	50182	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elaborate Defiant Plate Greaves	Chaosreaper	Stored	50186	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elaborate Defiant Plate Wristband	Chaosreaper	Stored	50181	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elaborate Defiant Silk Gloves	Chaosreaper	Stored	50207	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elaborate Defiant Silk Sandals	Chaosreaper	Stored	50208	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elaborate Defiant Silk Wristguard	Chaosreaper	Stored	50204	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Flawed Defiant Chain Coif	Chaosreaper	Stored	50127	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Flawed Defiant Chain Boots	Chaosreaper	Stored	50126	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Flawed Defiant Chain Coif	Chaosreaper	Stored	50127	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Flawed Defiant Chain Leggings	Chaosreaper	Stored	50129	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Flawed Defiant Chain Tunic	Chaosreaper	Stored	50130	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Flawed Defiant Chain Leggings	Chaosreaper	Stored	50129	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Flawed Defiant Charm	Chaosreaper	Stored	50585	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Flawed Defiant Silk Wristwrap	Chaosreaper	Stored	50138	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Intricate Defiant Chain Gauntlets	Chaosreaper	Stored	50156	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Intricate Defiant Chain Gauntlets	Chaosreaper	Stored	50156	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Intricate Defiant Chain Sleeves	Chaosreaper	Stored	50159	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Intricate Defiant Plate Vambraces	Chaosreaper	Stored	50151	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Intricate Defiant Plate Helm	Chaosreaper	Stored	50150	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Intricate Defiant Silk Sleeves	Chaosreaper	Stored	50176	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Ornate Defiant Chain Leggings	Chaosreaper	Stored	50101	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Ornate Defiant Cloth Gloves	Chaosreaper	Stored	50111	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Ornate Defiant Cloth Gloves	Chaosreaper	Stored	50111	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Ornate Defiant Plate Gauntlets	Chaosreaper	Stored	50090	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Ornate Defiant Plate Bracer	Chaosreaper	Stored	50089	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Ornate Defiant Plate Vambraces	Chaosreaper	Stored	50093	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Ornate Defiant Plate Gauntlets	Chaosreaper	Stored	50090	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elegant Defiant Silk Pantaloons	Necrall	Stored	50245	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Intricate Defiant Silk Sleeves	Necrall	Stored	50176	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Intricate Defiant Chain Leggings	Kaalix	Stored	50160	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Ornate Defiant Harmonagate	Kaalix	Stored	50554	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elaborate Defiant Chain Gauntlets	Kaalix	Stored	50190	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Intricate Defiant Chain Tunic	Kaalix	Stored	50161	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elegant Defiant Chain Sleeves	Kaalix	Stored	50227	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elaborate Defiant Chain Coif	Kaalix	Stored	50192	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Intricate Defiant Chain Bracer	Kaalix	Stored	50154	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Crude Defiant Chain Leggings	Kaalix	Stored	50017	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elegant Defiant Plate Wristguard	Kaalix	Stored	50214	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elegant Defiant Plate Wristband	Kaalix	Stored	50215	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Distillate of Skinspikes VI	Kaalix	Stored	96425	20
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Distillate of Skinspikes VI	Kaalix	Stored	96425	20
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Distillate of Skinspikes VI	Kaalix	Stored	96425	20
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Distillate of Skinspikes VI	Kaalix	Stored	96425	20
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Philter of the Wolf V	Kaalix	Stored	96477	20
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Philter of the Wolf V	Kaalix	Stored	96477	20
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Distillate of Skinspikes IV	Kaalix	Stored	96423	20
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Distillate of Skinspikes V	Kaalix	Stored	96424	20
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Ornate Defiant Plate Vambraces	Felerando	Stored	50093	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Crude Defiant Leather Sleeves	Felerando	Stored	50023	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Apothic Kilt	Felerando	Stored	1244	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Rough Defiant Plate Gauntlets	Felerando	Stored	50062	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Intricate Defiant Plate Greaves	Felerando	Stored	50152	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Crude Defiant Plate Gauntlets	Felerando	Stored	50006	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Intricate Defiant Silk Pantaloons	Felerando	Stored	50177	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Ornate Defiant Leather Sleeves	Felerando	Stored	50107	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Recondite Remnant of Fear	Waerian	Stored	56191	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Recondite Remnant of Greed	Waerian	Stored	56187	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Recondite Remnant of Greed	Waerian	Stored	56187	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Recondite Remnant of Survival	Waerian	Stored	56188	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Recondite Remnant of Truth	Waerian	Stored	56186	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Recondite Remnant of Truth	Waerian	Stored	56186	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Recondite Remnant of Devotion	Waerian	Stored	56190	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Recondite Remnant of Truth	Waerian	Stored	56186	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Recondite Remnant of Fear	Waerian	Stored	56191	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Abstruse Remnant of Truth	Waerian	Stored	56179	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Abstruse Remnant of Truth	Waerian	Stored	56179	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Abstruse Remnant of Fear	Waerian	Stored	56184	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Abstruse Remnant of Survival	Waerian	Stored	56181	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Abstruse Remnant of Desire	Waerian	Stored	56185	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Abstruse Remnant of Devotion	Waerian	Stored	56183	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Abstruse Remnant of Desire	Waerian	Stored	56185	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Obscure Remnant of Truth	Waerian	Stored	56221	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Obscure Remnant of Survival	Waerian	Stored	56223	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Obscure Remnant of Survival	Waerian	Stored	56223	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Obscure Remnant of Desire	Waerian	Stored	56227	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Obscure Remnant of Fear	Waerian	Stored	56226	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Obscure Remnant of Truth	Waerian	Stored	56221	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Obscure Remnant of Truth	Waerian	Stored	56221	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Obscure Remnant of Truth	Waerian	Stored	56221	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Obscure Remnant of Truth	Waerian	Stored	56221	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Obscure Remnant of Truth	Waerian	Stored	56221	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Obscure Remnant of Truth	Waerian	Stored	56221	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Obscure Remnant of Truth	Waerian	Stored	56221	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Obscure Remnant of Truth	Waerian	Stored	56221	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elaborate Defiant Silk Sandals	Zhekk	Stored	50208	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Gleaming Energeiac Chain Boots	Zhekk	Stored	80523	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elegant Defiant Plate Wristguard	Zhekk	Stored	50214	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elaborate Combatant's Belt	Zhekk	Stored	50431	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Rough Defiant Hammer	Chaosreaper	Stored	50540	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Rough Defiant Round Shield	Chaosreaper	Stored	50552	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Rough Defiant Spiked Staff	Chaosreaper	Stored	50547	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Rough Defiant Spiked Staff	Chaosreaper	Stored	50547	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Elaborate Defiant Cutlass	Chaosreaper	Stored	50607	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Elaborate Defiant Dragonrod	Chaosreaper	Stored	50605	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Elaborate Defiant Heater	Chaosreaper	Stored	50616	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Flawed Defiant Carapace	Chaosreaper	Stored	50584	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Flawed Adept's Rake	Chaosreaper	Stored	50396	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Flawed Defiant Dagger	Chaosreaper	Stored	50577	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Flawed Defiant Glass Shard	Chaosreaper	Stored	50576	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Flawed Defiant Emeraldblade	Chaosreaper	Stored	50581	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Intricate Defiant Katana	Chaosreaper	Stored	50590	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Intricate Defiant Trident	Chaosreaper	Stored	50596	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Ornate Defiant Bone Sledgehammer	Chaosreaper	Stored	50556	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Ornate Defiant Bone Sledgehammer	Chaosreaper	Stored	50556	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Ornate Combatant's Globe	Chaosreaper	Stored	50366	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Ornate Combatant's Globe	Chaosreaper	Stored	50366	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Ornate Combatant's Globe	Chaosreaper	Stored	50366	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Ornate Defiant Harpoon	Chaosreaper	Stored	50564	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Ornate Defiant Orb	Chaosreaper	Stored	50562	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Elegant Defiant Sceptre	Necrall	Stored	50620	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Crude Defiant Axe	Kaalix	Stored	50509	1
