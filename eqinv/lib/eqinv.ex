@@ -167,6 +167,26 @@ defmodule EQInv do
         end)
     end
 
+    def searchInvName(name) do
+        items = get(@bucket, @invKey)
+        items = Enum.reduce(items, [], fn {_id, item}, acc ->
+            data = item["data"]
+            if data do
+                itemName = field(data, "name")
+                {:ok, search} = Regex.compile(name)
+                if String.match?(itemName, search) do
+                    [statBlock(item) | acc]
+                else
+                    acc
+                end
+            else
+                acc
+            end
+        end)
+
+        items
+    end
+
     # EQInv.findInvName("Deepwater Helmet")
     def findInvName(name) do
         items = get(@bucket, @invKey)
@@ -190,7 +210,7 @@ defmodule EQInv do
     end
 
     def statBlock(item) do
-        Logger.debug("item: #{inspect item}")
+        # Logger.debug("item: #{inspect item}")
         count = length(item["locs"])
         data = item["data"]
         name = field(data, "name")
