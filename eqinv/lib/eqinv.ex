@@ -167,6 +167,14 @@ defmodule EQInv do
         end)
     end
 
+    def invCount() do
+        items = get(@bucket, @invKey)
+        Enum.reduce(items, 0, fn {_id, item}, acc ->
+            count = item["locs"] |> length
+            acc + count
+        end)
+    end
+
     def searchInvName(name) do
         items = get(@bucket, @invKey)
         items = Enum.reduce(items, [], fn {_id, item}, acc ->
