@@ -1,0 +1,567 @@
+Location	Name	ID	Count	Slots
+Charm	Heroic Seal of the Adventurer	93849	1	6
+Charm-Slot1	Empty	0	0	0
+Charm-Slot2	Empty	0	0	0
+Ear	Heroic Earring of the Summoner	93828	1	6
+Ear-Slot1	Empty	0	0	0
+Ear-Slot2	Empty	0	0	0
+Head	Heroic Conjuredflame Cap	93792	1	6
+Head-Slot1	Empty	0	0	0
+Head-Slot2	Empty	0	0	0
+Face	Heroic Mask of the Agile	93830	1	6
+Face-Slot1	Empty	0	0	0
+Face-Slot2	Empty	0	0	0
+Ear	Heroic Earring of the Adept	93826	1	6
+Ear-Slot1	Empty	0	0	0
+Ear-Slot2	Empty	0	0	0
+Neck	Heroic Gorget of the Adept	93833	1	6
+Neck-Slot1	Empty	0	0	0
+Neck-Slot2	Empty	0	0	0
+Shoulders	Heroic Shoulders of the Agile	93836	1	6
+Shoulders-Slot1	Empty	0	0	0
+Shoulders-Slot2	Empty	0	0	0
+Arms	Heroic Conjuredflame Sleeves	93793	1	6
+Arms-Slot1	Empty	0	0	0
+Arms-Slot2	Empty	0	0	0
+Back	Heroic Cloak of the Adept	93838	1	6
+Back-Slot1	Empty	0	0	0
+Back-Slot2	Empty	0	0	0
+Wrist	Heroic Conjuredflame Wristguard	93789	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Wrist	Heroic Conjuredflame Wristguard	93789	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Range	Heroic Rod of the Adept	93842	1	6
+Range-Slot1	Empty	0	0	0
+Range-Slot2	Empty	0	0	0
+Hands	Heroic Conjuredflame Gloves	93790	1	6
+Hands-Slot1	Empty	0	0	0
+Hands-Slot2	Empty	0	0	0
+Primary	Heroic Darkdreamer's Rod	93855	1	6
+Primary-Slot1	Empty	0	0	0
+Primary-Slot2	Empty	0	0	0
+Secondary	Heroic Guard	93823	1	6
+Secondary-Slot1	Empty	0	0	0
+Secondary-Slot2	Empty	0	0	0
+Secondary-Slot3	Empty	0	0	0
+Fingers	Heroic Ring of the Adept	93845	1	6
+Fingers-Slot1	Empty	0	0	0
+Fingers-Slot2	Empty	0	0	0
+Fingers	Heroic Ring of the Adventurer	93843	1	6
+Fingers-Slot1	Empty	0	0	0
+Fingers-Slot2	Empty	0	0	0
+Chest	Heroic Conjuredflame Robe	93795	1	6
+Chest-Slot1	Empty	0	0	0
+Chest-Slot2	Empty	0	0	0
+Chest-Slot3	Empty	0	0	0
+Legs	Heroic Conjuredflame Pants	93794	1	6
+Legs-Slot1	Empty	0	0	0
+Legs-Slot2	Empty	0	0	0
+Feet	Heroic Conjuredflame Sandals	93791	1	6
+Feet-Slot1	Empty	0	0	0
+Feet-Slot2	Empty	0	0	0
+Waist	Heroic Belt of the Adept	93848	1	6
+Waist-Slot1	Empty	0	0	0
+Waist-Slot2	Empty	0	0	0
+Power Source	Pure Energeian Light Orb	66277	1	6
+Ammo	Jungle Raptor Saddle	93862	1	6
+General 1	Extraplanar Trade Satchel	67633	1	32
+General 1-Slot1	Malachite	10015	100	6
+General 1-Slot2	Malachite	10015	100	6
+General 1-Slot3	Black Marble	25805	4	6
+General 1-Slot4	Opal	10030	1	6
+General 1-Slot5	Peridot	10028	1	6
+General 1-Slot6	Rubicite Ore	34243	5	6
+General 1-Slot7	Spell: Monster Summoning II	30402	1	6
+General 1-Slot8	Sunshard Pebble	33791	1	6
+General 1-Slot9	Fire Emerald	10033	1	6
+General 1-Slot10	Fire Opal	10031	1	6
+General 1-Slot11	Sapphire	10034	1	6
+General 1-Slot12	Star Ruby	10032	1	6
+General 1-Slot13	Empty	0	0	0
+General 1-Slot14	Empty	0	0	0
+General 1-Slot15	Empty	0	0	0
+General 1-Slot16	Empty	0	0	0
+General 1-Slot17	Empty	0	0	0
+General 1-Slot18	Empty	0	0	0
+General 1-Slot19	Empty	0	0	0
+General 1-Slot20	Empty	0	0	0
+General 1-Slot21	Empty	0	0	0
+General 1-Slot22	Empty	0	0	0
+General 1-Slot23	Empty	0	0	0
+General 1-Slot24	Empty	0	0	0
+General 1-Slot25	Empty	0	0	0
+General 1-Slot26	Empty	0	0	0
+General 1-Slot27	Empty	0	0	0
+General 1-Slot28	Empty	0	0	0
+General 1-Slot29	Empty	0	0	0
+General 1-Slot30	Empty	0	0	0
+General 1-Slot31	Empty	0	0	0
+General 1-Slot32	Empty	0	0	0
+General 2	Heroic Satchel of the Adventurer	93861	1	24
+General 2-Slot1	Fellspine's Tail	24734	1	6
+General 2-Slot1-Slot1	Empty	0	0	0
+General 2-Slot1-Slot2	Empty	0	0	0
+General 2-Slot2	Gold Gem Dusted Rune	38700	1	6
+General 2-Slot3	Crushed Opal	25836	1	6
+General 2-Slot4	Swordfish Bill	7019	1	6
+General 2-Slot4-Slot1	Empty	0	0	0
+General 2-Slot4-Slot2	Empty	0	0	0
+General 2-Slot5	Swordfish Bill	7019	1	6
+General 2-Slot5-Slot1	Empty	0	0	0
+General 2-Slot5-Slot2	Empty	0	0	0
+General 2-Slot6	Crushed Topaz	25832	2	6
+General 2-Slot7	Chipped Black Marble	25819	1	6
+General 2-Slot8	Spell: Translocate: Group	19474	1	6
+General 2-Slot9	Exquisite Gem Dusted Rune	38699	3	6
+General 2-Slot10	Flawed Opal	25822	1	6
+General 2-Slot11	Nephrite	25816	1	6
+General 2-Slot12	Flawed Flame Opal	25823	1	6
+General 2-Slot13	Flawed Emerald	25821	1	6
+General 2-Slot14	Flawed Chrysolite	25820	1	6
+General 2-Slot15	Flawless Diamond	25814	2	6
+General 2-Slot16	Ornately Runed Shell Necklace	28515	1	6
+General 2-Slot16-Slot1	Empty	0	0	0
+General 2-Slot17	Siren's Shield	24722	1	6
+General 2-Slot17-Slot1	Empty	0	0	0
+General 2-Slot17-Slot2	Empty	0	0	0
+General 2-Slot18	Pristine Emerald	25807	3	6
+General 2-Slot19	Spell: Gift of Insight	30409	2	6
+General 2-Slot20	Complex Gold Gem Dusted Rune	38701	1	6
+General 2-Slot21	Exquisite Gold Gem Dusted Rune	38702	2	6
+General 2-Slot22	Spell: Augmentation of Death	30414	3	6
+General 2-Slot23	Spell: Wrath of the Elements	30405	3	6
+General 2-Slot24	Emerald Ring	10045	1	6
+General 2-Slot24-Slot1	Empty	0	0	0
+General 3	Heroic Satchel of the Adventurer	93861	1	24
+General 3-Slot1	Rusted Ring of Power	62271	1	6
+General 3-Slot1-Slot1	Empty	0	0	0
+General 3-Slot2	Velium Gem Dusted Rune	38706	2	6
+General 3-Slot3	Pearl Earring	10002	1	6
+General 3-Slot3-Slot1	Empty	0	0	0
+General 3-Slot4	Crushed Emerald	25835	1	6
+General 3-Slot5	Crushed Jaundice Gem	25829	2	6
+General 3-Slot6	Spell: Sha's Restoration	7724	1	6
+General 3-Slot7	Spell: Call of Fire	30463	2	6
+General 3-Slot8	Spell: Wave of Healing	30455	2	6
+General 3-Slot9	Sontalak's Talisman	27256	1	6
+General 3-Slot9-Slot1	Empty	0	0	0
+General 3-Slot10	Peerless Dragonhide Gauntlets	27143	1	6
+General 3-Slot10-Slot1	Empty	0	0	0
+General 3-Slot10-Slot2	Empty	0	0	0
+General 3-Slot11	Exquisite Velium Battle Axe	27086	1	6
+General 3-Slot11-Slot1	Empty	0	0	0
+General 3-Slot11-Slot2	Empty	0	0	0
+General 3-Slot12	Reinforced Dragonleg Breeches	27119	1	6
+General 3-Slot12-Slot1	Empty	0	0	0
+General 3-Slot12-Slot2	Empty	0	0	0
+General 3-Slot13	Spell: Demi Lich	19314	1	6
+General 3-Slot14	Spell: Devouring Darkness	19312	1	6
+General 3-Slot15	Spell: Word of Redemption	19229	1	6
+General 3-Slot16	Spell: Winds of Gelid	19343	1	6
+General 3-Slot17	Spell: Pox of Bertoxxulous	19288	1	6
+General 3-Slot18	Song: Composition of Ervaj	30452	1	6
+General 3-Slot19	Spell: Arch Lich	30416	1	6
+General 3-Slot20	Great Dragon's Head	25119	1	6
+General 3-Slot21	Spell: Gift of Brilliance	30410	1	6
+General 3-Slot22	Reinforced Dragonhorn Bracers	27122	1	6
+General 3-Slot22-Slot1	Empty	0	0	0
+General 3-Slot22-Slot2	Empty	0	0	0
+General 3-Slot23	Ancient Tarnished Chain Bracer	24911	1	6
+General 3-Slot23-Slot1	Empty	0	0	0
+General 3-Slot23-Slot2	Empty	0	0	0
+General 3-Slot24	Ancient Tarnished Chain Boots	24910	1	6
+General 3-Slot24-Slot1	Empty	0	0	0
+General 3-Slot24-Slot2	Empty	0	0	0
+General 4	Tailored Immaculate Backpack	124462	1	10
+General 4-Slot1	Ancient Silk Turban	24926	1	6
+General 4-Slot1-Slot1	Empty	0	0	0
+General 4-Slot1-Slot2	Empty	0	0	0
+General 4-Slot2	Poison Soaked Tunic	31391	1	6
+General 4-Slot2-Slot1	Empty	0	0	0
+General 4-Slot2-Slot2	Empty	0	0	0
+General 4-Slot3	Ancient Wyvern Hide Tunic	31385	1	6
+General 4-Slot3-Slot1	Empty	0	0	0
+General 4-Slot3-Slot2	Empty	0	0	0
+General 4-Slot4	Unadorned Chain Gauntlets	24969	1	6
+General 4-Slot4-Slot1	Empty	0	0	0
+General 4-Slot4-Slot2	Empty	0	0	0
+General 4-Slot5	White Symbol	31250	1	6
+General 4-Slot6	Poison Tear	31266	1	6
+General 4-Slot7	Serrated Tear	31265	1	6
+General 4-Slot8	Silver Tear	31264	1	6
+General 4-Slot9	Runed Symbol	31252	1	6
+General 4-Slot10	Emerald Symbol	31257	1	6
+General 5	Backpack*	32601	1	8
+General 5-Slot1	Platinum Tear	31269	1	6
+General 5-Slot2	Runed Tear	31263	1	6
+General 5-Slot3	Runed Tear	31263	1	6
+General 5-Slot4	Serrated Tear	31265	1	6
+General 5-Slot5	Empty	0	0	0
+General 5-Slot6	Empty	0	0	0
+General 5-Slot7	Empty	0	0	0
+General 5-Slot8	Empty	0	0	0
+General 6	Tailored Immaculate Backpack	124462	1	10
+General 6-Slot1	Empty	0	0	0
+General 6-Slot2	Empty	0	0	0
+General 6-Slot3	Empty	0	0	0
+General 6-Slot4	Empty	0	0	0
+General 6-Slot5	Empty	0	0	0
+General 6-Slot6	Empty	0	0	0
+General 6-Slot7	Empty	0	0	0
+General 6-Slot8	Empty	0	0	0
+General 6-Slot9	Empty	0	0	0
+General 6-Slot10	Empty	0	0	0
+General 7	Backpack*	32601	1	8
+General 7-Slot1	Empty	0	0	0
+General 7-Slot2	Empty	0	0	0
+General 7-Slot3	Empty	0	0	0
+General 7-Slot4	Empty	0	0	0
+General 7-Slot5	Empty	0	0	0
+General 7-Slot6	Empty	0	0	0
+General 7-Slot7	Empty	0	0	0
+General 7-Slot8	Empty	0	0	0
+General 8	Tailored Immaculate Backpack	124462	1	10
+General 8-Slot1	Empty	0	0	0
+General 8-Slot2	Empty	0	0	0
+General 8-Slot3	Empty	0	0	0
+General 8-Slot4	Empty	0	0	0
+General 8-Slot5	Empty	0	0	0
+General 8-Slot6	Empty	0	0	0
+General 8-Slot7	Empty	0	0	0
+General 8-Slot8	Empty	0	0	0
+General 8-Slot9	Empty	0	0	0
+General 8-Slot10	Empty	0	0	0
+General 9	Tailored Immaculate Backpack	124462	1	10
+General 9-Slot1	Tailored Immaculate Backpack	124462	1	10
+General 9-Slot1-Slot1	Empty	0	0	0
+General 9-Slot1-Slot2	Empty	0	0	0
+General 9-Slot1-Slot3	Empty	0	0	0
+General 9-Slot1-Slot4	Empty	0	0	0
+General 9-Slot1-Slot5	Empty	0	0	0
+General 9-Slot1-Slot6	Empty	0	0	0
+General 9-Slot1-Slot7	Empty	0	0	0
+General 9-Slot1-Slot8	Empty	0	0	0
+General 9-Slot1-Slot9	Empty	0	0	0
+General 9-Slot1-Slot10	Empty	0	0	0
+General 9-Slot2	Pearl Earring	10002	1	6
+General 9-Slot2-Slot1	Empty	0	0	0
+General 9-Slot3	Empty	0	0	0
+General 9-Slot4	Empty	0	0	0
+General 9-Slot5	Empty	0	0	0
+General 9-Slot6	Fellowship Registration Insignia	34023	1	6
+General 9-Slot7	Empty	0	0	0
+General 9-Slot8	Sealed Pure Energeian Light Orb	66279	5	6
+General 9-Slot9	Erollisi's Idol of Friendship	17797	1	6
+General 9-Slot10	Primary Anchor Transport Device	57851	1	6
+General 10	Trader's Satchel	17899	1	10
+General 10-Slot1	Empty	0	0	0
+General 10-Slot2	Empty	0	0	0
+General 10-Slot3	Empty	0	0	0
+General 10-Slot4	Empty	0	0	0
+General 10-Slot5	Empty	0	0	0
+General 10-Slot6	Empty	0	0	0
+General 10-Slot7	Empty	0	0	0
+General 10-Slot8	Empty	0	0	0
+General 10-Slot9	Empty	0	0	0
+General 10-Slot10	Empty	0	0	0
+Held	Empty	0	0	0
+Bank1	Trader's Satchel	17899	1	10
+Bank1-Slot1	Empty	0	0	0
+Bank1-Slot2	Empty	0	0	0
+Bank1-Slot3	Empty	0	0	0
+Bank1-Slot4	Empty	0	0	0
+Bank1-Slot5	Empty	0	0	0
+Bank1-Slot6	Empty	0	0	0
+Bank1-Slot7	Empty	0	0	0
+Bank1-Slot8	Empty	0	0	0
+Bank1-Slot9	Empty	0	0	0
+Bank1-Slot10	Empty	0	0	0
+Bank2	Trader's Satchel	17899	1	10
+Bank2-Slot1	Empty	0	0	0
+Bank2-Slot2	Empty	0	0	0
+Bank2-Slot3	Empty	0	0	0
+Bank2-Slot4	Empty	0	0	0
+Bank2-Slot5	Empty	0	0	0
+Bank2-Slot6	Empty	0	0	0
+Bank2-Slot7	Empty	0	0	0
+Bank2-Slot8	Empty	0	0	0
+Bank2-Slot9	Empty	0	0	0
+Bank2-Slot10	Empty	0	0	0
+Bank3	Trader's Satchel	17899	1	10
+Bank3-Slot1	Empty	0	0	0
+Bank3-Slot2	Empty	0	0	0
+Bank3-Slot3	Empty	0	0	0
+Bank3-Slot4	Empty	0	0	0
+Bank3-Slot5	Empty	0	0	0
+Bank3-Slot6	Empty	0	0	0
+Bank3-Slot7	Empty	0	0	0
+Bank3-Slot8	Empty	0	0	0
+Bank3-Slot9	Empty	0	0	0
+Bank3-Slot10	Empty	0	0	0
+Bank4	Trader's Satchel	17899	1	10
+Bank4-Slot1	Empty	0	0	0
+Bank4-Slot2	Empty	0	0	0
+Bank4-Slot3	Empty	0	0	0
+Bank4-Slot4	Empty	0	0	0
+Bank4-Slot5	Empty	0	0	0
+Bank4-Slot6	Empty	0	0	0
+Bank4-Slot7	Empty	0	0	0
+Bank4-Slot8	Empty	0	0	0
+Bank4-Slot9	Empty	0	0	0
+Bank4-Slot10	Empty	0	0	0
+Bank5	Trader's Satchel	17899	1	10
+Bank5-Slot1	Empty	0	0	0
+Bank5-Slot2	Empty	0	0	0
+Bank5-Slot3	Empty	0	0	0
+Bank5-Slot4	Empty	0	0	0
+Bank5-Slot5	Empty	0	0	0
+Bank5-Slot6	Empty	0	0	0
+Bank5-Slot7	Empty	0	0	0
+Bank5-Slot8	Empty	0	0	0
+Bank5-Slot9	Empty	0	0	0
+Bank5-Slot10	Empty	0	0	0
+Bank6	Trader's Satchel	17899	1	10
+Bank6-Slot1	Empty	0	0	0
+Bank6-Slot2	Empty	0	0	0
+Bank6-Slot3	Empty	0	0	0
+Bank6-Slot4	Empty	0	0	0
+Bank6-Slot5	Empty	0	0	0
+Bank6-Slot6	Empty	0	0	0
+Bank6-Slot7	Empty	0	0	0
+Bank6-Slot8	Empty	0	0	0
+Bank6-Slot9	Empty	0	0	0
+Bank6-Slot10	Empty	0	0	0
+Bank7	Trader's Satchel	17899	1	10
+Bank7-Slot1	Empty	0	0	0
+Bank7-Slot2	Empty	0	0	0
+Bank7-Slot3	Empty	0	0	0
+Bank7-Slot4	Empty	0	0	0
+Bank7-Slot5	Empty	0	0	0
+Bank7-Slot6	Empty	0	0	0
+Bank7-Slot7	Empty	0	0	0
+Bank7-Slot8	Empty	0	0	0
+Bank7-Slot9	Empty	0	0	0
+Bank7-Slot10	Empty	0	0	0
+Bank8	Trader's Satchel	17899	1	10
+Bank8-Slot1	Empty	0	0	0
+Bank8-Slot2	Empty	0	0	0
+Bank8-Slot3	Empty	0	0	0
+Bank8-Slot4	Empty	0	0	0
+Bank8-Slot5	Empty	0	0	0
+Bank8-Slot6	Empty	0	0	0
+Bank8-Slot7	Empty	0	0	0
+Bank8-Slot8	Empty	0	0	0
+Bank8-Slot9	Empty	0	0	0
+Bank8-Slot10	Empty	0	0	0
+Bank9	Trader's Satchel	17899	1	10
+Bank9-Slot1	Empty	0	0	0
+Bank9-Slot2	Empty	0	0	0
+Bank9-Slot3	Empty	0	0	0
+Bank9-Slot4	Empty	0	0	0
+Bank9-Slot5	Empty	0	0	0
+Bank9-Slot6	Empty	0	0	0
+Bank9-Slot7	Empty	0	0	0
+Bank9-Slot8	Empty	0	0	0
+Bank9-Slot9	Empty	0	0	0
+Bank9-Slot10	Empty	0	0	0
+Bank10	Trader's Satchel	17899	1	10
+Bank10-Slot1	Empty	0	0	0
+Bank10-Slot2	Empty	0	0	0
+Bank10-Slot3	Empty	0	0	0
+Bank10-Slot4	Empty	0	0	0
+Bank10-Slot5	Empty	0	0	0
+Bank10-Slot6	Empty	0	0	0
+Bank10-Slot7	Empty	0	0	0
+Bank10-Slot8	Empty	0	0	0
+Bank10-Slot9	Empty	0	0	0
+Bank10-Slot10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Trader's Satchel	17899	1	10
+Bank12-Slot1	Empty	0	0	0
+Bank12-Slot2	Empty	0	0	0
+Bank12-Slot3	Empty	0	0	0
+Bank12-Slot4	Empty	0	0	0
+Bank12-Slot5	Empty	0	0	0
+Bank12-Slot6	Empty	0	0	0
+Bank12-Slot7	Empty	0	0	0
+Bank12-Slot8	Empty	0	0	0
+Bank12-Slot9	Empty	0	0	0
+Bank12-Slot10	Empty	0	0	0
+Bank13	Trader's Satchel	17899	1	10
+Bank13-Slot1	Empty	0	0	0
+Bank13-Slot2	Empty	0	0	0
+Bank13-Slot3	Empty	0	0	0
+Bank13-Slot4	Empty	0	0	0
+Bank13-Slot5	Empty	0	0	0
+Bank13-Slot6	Empty	0	0	0
+Bank13-Slot7	Empty	0	0	0
+Bank13-Slot8	Empty	0	0	0
+Bank13-Slot9	Empty	0	0	0
+Bank13-Slot10	Empty	0	0	0
+Bank14	Trader's Satchel	17899	1	10
+Bank14-Slot1	Empty	0	0	0
+Bank14-Slot2	Empty	0	0	0
+Bank14-Slot3	Empty	0	0	0
+Bank14-Slot4	Empty	0	0	0
+Bank14-Slot5	Empty	0	0	0
+Bank14-Slot6	Empty	0	0	0
+Bank14-Slot7	Empty	0	0	0
+Bank14-Slot8	Empty	0	0	0
+Bank14-Slot9	Empty	0	0	0
+Bank14-Slot10	Empty	0	0	0
+Bank15	Trader's Satchel	17899	1	10
+Bank15-Slot1	Empty	0	0	0
+Bank15-Slot2	Empty	0	0	0
+Bank15-Slot3	Empty	0	0	0
+Bank15-Slot4	Empty	0	0	0
+Bank15-Slot5	Empty	0	0	0
+Bank15-Slot6	Empty	0	0	0
+Bank15-Slot7	Empty	0	0	0
+Bank15-Slot8	Empty	0	0	0
+Bank15-Slot9	Empty	0	0	0
+Bank15-Slot10	Empty	0	0	0
+Bank16	Trader's Satchel	17899	1	10
+Bank16-Slot1	Empty	0	0	0
+Bank16-Slot2	Empty	0	0	0
+Bank16-Slot3	Empty	0	0	0
+Bank16-Slot4	Empty	0	0	0
+Bank16-Slot5	Empty	0	0	0
+Bank16-Slot6	Empty	0	0	0
+Bank16-Slot7	Empty	0	0	0
+Bank16-Slot8	Empty	0	0	0
+Bank16-Slot9	Empty	0	0	0
+Bank16-Slot10	Empty	0	0	0
+Bank17	Trader's Satchel	17899	1	10
+Bank17-Slot1	Empty	0	0	0
+Bank17-Slot2	Empty	0	0	0
+Bank17-Slot3	Empty	0	0	0
+Bank17-Slot4	Empty	0	0	0
+Bank17-Slot5	Empty	0	0	0
+Bank17-Slot6	Empty	0	0	0
+Bank17-Slot7	Empty	0	0	0
+Bank17-Slot8	Empty	0	0	0
+Bank17-Slot9	Empty	0	0	0
+Bank17-Slot10	Empty	0	0	0
+Bank18	Trader's Satchel	17899	1	10
+Bank18-Slot1	Empty	0	0	0
+Bank18-Slot2	Bladesman's Axe	25074	1	6
+Bank18-Slot2-Slot1	Empty	0	0	0
+Bank18-Slot2-Slot2	Empty	0	0	0
+Bank18-Slot3	Bladesman's Sword	25073	1	6
+Bank18-Slot3-Slot1	Empty	0	0	0
+Bank18-Slot3-Slot2	Empty	0	0	0
+Bank18-Slot4	Empty	0	0	0
+Bank18-Slot5	Empty	0	0	0
+Bank18-Slot6	Empty	0	0	0
+Bank18-Slot7	Empty	0	0	0
+Bank18-Slot8	Empty	0	0	0
+Bank18-Slot9	Empty	0	0	0
+Bank18-Slot10	Empty	0	0	0
+Bank19	Trader's Satchel	17899	1	10
+Bank19-Slot1	Eyepatch of the Shadows	25031	1	6
+Bank19-Slot1-Slot1	Empty	0	0	0
+Bank19-Slot2	Glimmering War Axe	25025	1	6
+Bank19-Slot2-Slot1	Empty	0	0	0
+Bank19-Slot2-Slot2	Empty	0	0	0
+Bank19-Slot3	Empty	0	0	0
+Bank19-Slot4	Empty	0	0	0
+Bank19-Slot5	Empty	0	0	0
+Bank19-Slot6	Empty	0	0	0
+Bank19-Slot7	Empty	0	0	0
+Bank19-Slot8	Empty	0	0	0
+Bank19-Slot9	Empty	0	0	0
+Bank19-Slot10	Empty	0	0	0
+Bank20	Trader's Satchel	17899	1	10
+Bank20-Slot1	Empty	0	0	0
+Bank20-Slot2	Empty	0	0	0
+Bank20-Slot3	Empty	0	0	0
+Bank20-Slot4	Empty	0	0	0
+Bank20-Slot5	Empty	0	0	0
+Bank20-Slot6	Empty	0	0	0
+Bank20-Slot7	Empty	0	0	0
+Bank20-Slot8	Sarnak Ceremonial Sword	11900	1	6
+Bank20-Slot8-Slot1	Empty	0	0	0
+Bank20-Slot8-Slot2	Empty	0	0	0
+Bank20-Slot9	Sarnak Eitchatka	11905	1	6
+Bank20-Slot9-Slot1	Empty	0	0	0
+Bank20-Slot9-Slot2	Empty	0	0	0
+Bank20-Slot10	Stein of Bitter Cold	25577	1	6
+Bank20-Slot10-Slot1	Empty	0	0	0
+Bank21	Trader's Satchel	17899	1	10
+Bank21-Slot1	Empty	0	0	0
+Bank21-Slot2	Empty	0	0	0
+Bank21-Slot3	Empty	0	0	0
+Bank21-Slot4	Empty	0	0	0
+Bank21-Slot5	Empty	0	0	0
+Bank21-Slot6	Empty	0	0	0
+Bank21-Slot7	Empty	0	0	0
+Bank21-Slot8	Empty	0	0	0
+Bank21-Slot9	Empty	0	0	0
+Bank21-Slot10	Empty	0	0	0
+Bank22	Trader's Satchel	17899	1	10
+Bank22-Slot1	Empty	0	0	0
+Bank22-Slot2	Empty	0	0	0
+Bank22-Slot3	Ceremonial Giant War Sword	25086	1	6
+Bank22-Slot3-Slot1	Empty	0	0	0
+Bank22-Slot3-Slot2	Empty	0	0	0
+Bank22-Slot4	Giant Scalemail Helm	25005	1	6
+Bank22-Slot4-Slot1	Empty	0	0	0
+Bank22-Slot4-Slot2	Empty	0	0	0
+Bank22-Slot5	Giant Scalemail Helm	25005	1	6
+Bank22-Slot5-Slot1	Empty	0	0	0
+Bank22-Slot5-Slot2	Empty	0	0	0
+Bank22-Slot6	Giant Scalemail Helm	25005	1	6
+Bank22-Slot6-Slot1	Empty	0	0	0
+Bank22-Slot6-Slot2	Empty	0	0	0
+Bank22-Slot7	Giant Scalemail Tunic	25018	1	6
+Bank22-Slot7-Slot1	Empty	0	0	0
+Bank22-Slot7-Slot2	Empty	0	0	0
+Bank22-Slot8	Ceremonial Giant War Sword	25086	1	6
+Bank22-Slot8-Slot1	Empty	0	0	0
+Bank22-Slot8-Slot2	Empty	0	0	0
+Bank22-Slot9	Cerulean Gauntlets	25089	1	6
+Bank22-Slot9-Slot1	Empty	0	0	0
+Bank22-Slot9-Slot2	Empty	0	0	0
+Bank22-Slot10	Empty	0	0	0
+Bank23	Trader's Satchel	17899	1	10
+Bank23-Slot1	Empty	0	0	0
+Bank23-Slot2	Empty	0	0	0
+Bank23-Slot3	Empty	0	0	0
+Bank23-Slot4	Empty	0	0	0
+Bank23-Slot5	Empty	0	0	0
+Bank23-Slot6	Empty	0	0	0
+Bank23-Slot7	Empty	0	0	0
+Bank23-Slot8	Empty	0	0	0
+Bank23-Slot9	Empty	0	0	0
+Bank23-Slot10	Empty	0	0	0
+Bank24	Trader's Satchel	17899	1	10
+Bank24-Slot1	Thunder Runed Dagger	31210	1	6
+Bank24-Slot1-Slot1	Empty	0	0	0
+Bank24-Slot1-Slot2	Empty	0	0	0
+Bank24-Slot2	Empty	0	0	0
+Bank24-Slot3	Empty	0	0	0
+Bank24-Slot4	Lieutenant's Helm	25003	1	6
+Bank24-Slot4-Slot1	Empty	0	0	0
+Bank24-Slot4-Slot2	Empty	0	0	0
+Bank24-Slot5	Empty	0	0	0
+Bank24-Slot6	Empty	0	0	0
+Bank24-Slot7	Empty	0	0	0
+Bank24-Slot8	Empty	0	0	0
+Bank24-Slot9	Empty	0	0	0
+Bank24-Slot10	Empty	0	0	0
+SharedBank1	Backpack	17005	1	8
+SharedBank1-Slot1	Empty	0	0	0
+SharedBank1-Slot2	Empty	0	0	0
+SharedBank1-Slot3	Empty	0	0	0
+SharedBank1-Slot4	Empty	0	0	0
+SharedBank1-Slot5	Empty	0	0	0
+SharedBank1-Slot6	Empty	0	0	0
+SharedBank1-Slot7	Empty	0	0	0
+SharedBank1-Slot8	Empty	0	0	0
+SharedBank2	Empty	0	0	0
+SharedBank3	Empty	0	0	0
+SharedBank4	Empty	0	0	0
+SharedBank5	Empty	0	0	0
+SharedBank6	Empty	0	0	0

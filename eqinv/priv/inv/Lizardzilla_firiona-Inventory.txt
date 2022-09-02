@@ -1,0 +1,165 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Fingerbone Hoop	14751	1	6
+Ear-Slot1	Empty	0	0	0
+Head	Cowl of Mortality	26025	1	6
+Head-Slot1	Empty	0	0	0
+Head-Slot2	Empty	0	0	0
+Face	Eyepatch of the Shadows	25031	1	6
+Face-Slot1	Empty	0	0	0
+Ear	Empty	0	0	0
+Neck	Silent Fang Necklace	31221	1	6
+Neck-Slot1	Empty	0	0	0
+Shoulders	Cloak of Fading Hues	19726	1	6
+Shoulders-Slot1	Empty	0	0	0
+Arms	Empty	0	0	0
+Back	Cloak of Scales	1546	1	6
+Back-Slot1	Empty	0	0	0
+Wrist	Wrist Guard of Thunder	25200	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Wrist	Bracelet of Quickness	7941	1	6
+Wrist-Slot1	Minor Stone of Power	32940	1	6
+Wrist-Slot2	Empty	0	0	0
+Range	Goranga Idol	32334	1	6
+Range-Slot1	Empty	0	0	0
+Hands	Velium Encrusted Gauntlets	25201	1	6
+Hands-Slot1	Empty	0	0	0
+Hands-Slot2	Empty	0	0	0
+Primary	Fist of Iron	26846	1	6
+Primary-Slot1	Empty	0	0	0
+Primary-Slot2	Empty	0	0	0
+Secondary	Adamantite Club	6604	1	6
+Secondary-Slot1	Empty	0	0	0
+Secondary-Slot2	Empty	0	0	0
+Fingers	Ring of Chaos	19728	1	6
+Fingers-Slot1	Empty	0	0	0
+Fingers	Thorn Ring of the Seer	32324	1	6
+Fingers-Slot1	Empty	0	0	0
+Chest	Fungus Covered Scale Tunic	2735	1	6
+Chest-Slot1	Empty	0	0	0
+Legs	Flayed Barbarian Skin Leggings	25212	1	6
+Legs-Slot1	Empty	0	0	0
+Legs-Slot2	Empty	0	0	0
+Feet	Footpads of the Tiger	6954	1	6
+Feet-Slot1	Empty	0	0	0
+Feet-Slot2	Empty	0	0	0
+Waist	Axgoreth's Belt of Defense	32311	1	6
+Waist-Slot1	Empty	0	0	0
+Power Source	Empty	0	0	0
+Ammo	Lava Braxi Saddle	54807	1	6
+General 1	Backpack*	32601	1	8
+General 1-Slot1	Bread Cakes*	9991	10	6
+General 1-Slot2	Skin of Milk	9990	10	6
+General 1-Slot3	Peacebringer	6646	1	6
+General 1-Slot3-Slot1	Empty	0	0	0
+General 1-Slot3-Slot2	Empty	0	0	0
+General 1-Slot4	Iron Ore	34238	1	6
+General 1-Slot5	Bandages*	21779	20	6
+General 1-Slot6	Tarnished Fer`Esh	5075	1	6
+General 1-Slot6-Slot1	Empty	0	0	0
+General 1-Slot6-Slot2	Empty	0	0	0
+General 1-Slot7	Spider Silk	13041	2	6
+General 1-Slot8	Giant Wood Spider Femur	19659	1	6
+General 2	Backpack	17005	1	8
+General 2-Slot1	Tacky Silk	34213	1	6
+General 2-Slot2	Rough Silk	34212	1	6
+General 2-Slot3	Crude Defiant Chain Coif	50015	1	6
+General 2-Slot3-Slot1	Empty	0	0	0
+General 2-Slot3-Slot2	Empty	0	0	0
+General 2-Slot4	Large Scorpion Pincer	12659	1	6
+General 2-Slot5	Brittle Iksar Skull	12739	1	6
+General 2-Slot6	Simple Defiant Leather Cap	50050	1	6
+General 2-Slot6-Slot1	Empty	0	0	0
+General 2-Slot6-Slot2	Empty	0	0	0
+General 2-Slot7	Excavator Claws	12811	1	6
+General 2-Slot8	Scarab Legs	13848	1	6
+General 3	Pod of Water	13044	1	6
+General 4	Ton Po's Bo Stick of Understanding	6631	1	6
+General 4-Slot1	Empty	0	0	0
+General 4-Slot2	Empty	0	0	0
+General 5	Cracked Femur	12844	1	6
+General 5-Slot1	Empty	0	0	0
+General 5-Slot2	Empty	0	0	0
+General 6	Knuckle Dusters	6615	1	6
+General 6-Slot1	Empty	0	0	0
+General 6-Slot2	Empty	0	0	0
+General 7	Empty	0	0	0
+General 8	Fishing Grubs	13106	1	6
+General 9	Empty	0	0	0
+General 10	Empty	0	0	0
+Held	Empty	0	0	0
+Bank1	Backpack*	32601	1	8
+Bank1-Slot1	Empty	0	0	0
+Bank1-Slot2	Empty	0	0	0
+Bank1-Slot3	Empty	0	0	0
+Bank1-Slot4	Empty	0	0	0
+Bank1-Slot5	Empty	0	0	0
+Bank1-Slot6	Empty	0	0	0
+Bank1-Slot7	Empty	0	0	0
+Bank1-Slot8	Empty	0	0	0
+Bank2	Empty	0	0	0
+Bank3	Empty	0	0	0
+Bank4	Empty	0	0	0
+Bank5	Empty	0	0	0
+Bank6	Empty	0	0	0
+Bank7	Empty	0	0	0
+Bank8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Trader's Satchel	17899	1	10
+Bank10-Slot1	Iksar Bandit Mask	12428	1	6
+Bank10-Slot1-Slot1	Empty	0	0	0
+Bank10-Slot2	Empty	0	0	0
+Bank10-Slot3	Empty	0	0	0
+Bank10-Slot4	Empty	0	0	0
+Bank10-Slot5	Empty	0	0	0
+Bank10-Slot6	Empty	0	0	0
+Bank10-Slot7	Empty	0	0	0
+Bank10-Slot8	Empty	0	0	0
+Bank10-Slot9	Whitened Treant Fists	6502	1	6
+Bank10-Slot9-Slot1	Empty	0	0	0
+Bank10-Slot9-Slot2	Empty	0	0	0
+Bank10-Slot10	Empty	0	0	0
+Bank11	Trader's Satchel	17899	1	10
+Bank11-Slot1	Empty	0	0	0
+Bank11-Slot2	Empty	0	0	0
+Bank11-Slot3	Empty	0	0	0
+Bank11-Slot4	Empty	0	0	0
+Bank11-Slot5	Empty	0	0	0
+Bank11-Slot6	Empty	0	0	0
+Bank11-Slot7	Empty	0	0	0
+Bank11-Slot8	Gloomingdeep Lantern	9979	1	6
+Bank11-Slot8-Slot1	Empty	0	0	0
+Bank11-Slot9	Empty	0	0	0
+Bank11-Slot10	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+Bank17	Empty	0	0	0
+Bank18	Empty	0	0	0
+Bank19	Empty	0	0	0
+Bank20	Empty	0	0	0
+Bank21	Empty	0	0	0
+Bank22	Empty	0	0	0
+Bank23	Empty	0	0	0
+Bank24	Empty	0	0	0
+SharedBank1	Trader's Satchel	17899	1	10
+SharedBank1-Slot1	Distillate of Skinspikes V	96424	8	6
+SharedBank1-Slot2	Distillate of Skinspikes IV	96423	8	6
+SharedBank1-Slot3	Distillate of Skinspikes VI	96425	20	6
+SharedBank1-Slot4	Distillate of Skinspikes VI	96425	20	6
+SharedBank1-Slot5	Distillate of Skinspikes VI	96425	20	6
+SharedBank1-Slot6	Distillate of Skinspikes VI	96425	20	6
+SharedBank1-Slot7	Empty	0	0	0
+SharedBank1-Slot8	Empty	0	0	0
+SharedBank1-Slot9	Empty	0	0	0
+SharedBank1-Slot10	Empty	0	0	0
+SharedBank2	Rebreather	16889	1	6
+SharedBank2-Slot1	Empty	0	0	0
+SharedBank2-Slot2	Empty	0	0	0
+SharedBank3	Sebilisian Dagger Ornamentation	43517	1	6
+SharedBank4	Empty	0	0	0
+SharedBank5	Empty	0	0	0
+SharedBank6	Empty	0	0	0

@@ -1,0 +1,348 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Joen's Earring of the Hollow	53501	1	6
+Ear-Slot1	Crude Defiant Emerald	50501	1	6
+Head	Crude Defiant Cloth Cap	50029	1	6
+Head-Slot1	Empty	0	0	0
+Head-Slot2	Empty	0	0	0
+Face	Empty	0	0	0
+Ear	Simple Scryer's Earring	108330	1	6
+Ear-Slot1	Empty	0	0	0
+Neck	Kamilah's Amulet of Love	53493	1	6
+Neck-Slot1	Crude Defiant Stone Fragment	50504	1	6
+Shoulders	Mucktail Mantle	46224	1	6
+Shoulders-Slot1	Empty	0	0	0
+Arms	Simple Defiant Cloth Sleeves	50058	1	6
+Arms-Slot1	Empty	0	0	0
+Arms-Slot2	Empty	0	0	0
+Back	Tattered Nokk Cloak	46226	1	6
+Back-Slot1	Empty	0	0	0
+Wrist	Quill-Studded Bracer	53486	1	6
+Wrist-Slot1	Dragon Scale Sliver	51917	1	6
+Wrist-Slot2	Empty	0	0	0
+Wrist	Empty	0	0	0
+Range	Simple Scryer's Figurine	108336	1	6
+Range-Slot1	Empty	0	0	0
+Hands	Simple Defiant Cloth Gloves	50055	1	6
+Hands-Slot1	Empty	0	0	0
+Hands-Slot2	Empty	0	0	0
+Primary	Staff of the Dark Apprentice	53494	1	6
+Primary-Slot1	Empty	0	0	0
+Primary-Slot2	Empty	0	0	0
+Secondary	Empty	0	0	0
+Fingers	Farmer Joen's Entrapment Ring	53497	1	6
+Fingers-Slot1	Empty	0	0	0
+Fingers	Simple Scryer's Band	108338	1	6
+Fingers-Slot1	Empty	0	0	0
+Chest	Bezuth's Crocskin Tunic	53489	1	6
+Chest-Slot1	Empty	0	0	0
+Chest-Slot2	Empty	0	0	0
+Legs	Simple Consigned Cloth Pantaloons	108059	1	6
+Legs-Slot1	Empty	0	0	0
+Legs-Slot2	Empty	0	0	0
+Feet	Simple Defiant Cloth Sandals	50056	1	6
+Feet-Slot1	Empty	0	0	0
+Feet-Slot2	Empty	0	0	0
+Waist	Drake Tail Belt	46202	1	6
+Waist-Slot1	Empty	0	0	0
+Power Source	Empty	0	0	0
+Ammo	Verdant Hedgerow Leaf	52096	1	6
+General 1	Malachite	10015	81	6
+General 2	Backpack	17005	1	8
+General 2-Slot1	Crystalline Silk Belt	25553	1	6
+General 2-Slot1-Slot1	Empty	0	0	0
+General 2-Slot2	Ichor Encrusted Chain Gloves	46235	1	6
+General 2-Slot2-Slot1	Empty	0	0	0
+General 2-Slot2-Slot2	Empty	0	0	0
+General 2-Slot3	Head of Plaguebringer	64093	1	6
+General 2-Slot4	The Ogres Come of Age	57975	1	6
+General 2-Slot5	Blightfire Legging Pattern	64114	1	6
+General 2-Slot6	Section of Rat Pancreas	97348	1	6
+General 2-Slot7	Rat Meat	13408	1	6
+General 2-Slot8	Crown of Elemental Mastery	20764	1	6
+General 2-Slot8-Slot1	Empty	0	0	0
+General 2-Slot8-Slot2	Empty	0	0	0
+General 3	Backpack	17005	1	8
+General 3-Slot1	Sporeling Essence Potion	53485	10	6
+General 3-Slot2	Simple Scryer's Belt	108339	1	6
+General 3-Slot2-Slot1	Empty	0	0	0
+General 3-Slot3	Foul Ichor Residue	87298	1	6
+General 3-Slot4	Treant Bark	97366	2	6
+General 3-Slot5	Slashclaw Cub Trap	85753	1	6
+General 3-Slot6	Jinkin's Hearty Elixir	53484	9	6
+General 3-Slot7	Ratwork Power Core	85755	1	6
+General 3-Slot8	Empty	0	0	0
+General 4	Backpack	17005	1	8
+General 4-Slot1	Empty	0	0	0
+General 4-Slot2	High Quality Cat Pelt	12086	1	6
+General 4-Slot3	Empty	0	0	0
+General 4-Slot4	Simple Defiant Garnet	50522	1	6
+General 4-Slot5	Empty	0	0	0
+General 4-Slot6	Empty	0	0	0
+General 4-Slot7	Fine Bone Powder	87299	1	6
+General 4-Slot8	Medium Quality Cat Pelt	12085	2	6
+General 5	Backpack	17005	1	8
+General 5-Slot1	Low Quality Cat Pelt	12084	1	6
+General 5-Slot2	Empty	0	0	0
+General 5-Slot3	Bog Rat Pelt	85745	3	6
+General 5-Slot4	Empty	0	0	0
+General 5-Slot5	Empty	0	0	0
+General 5-Slot6	Empty	0	0	0
+General 5-Slot7	Empty	0	0	0
+General 5-Slot8	Spider Egg	54657	5	6
+General 6	Backpack	17005	1	8
+General 6-Slot1	Tarnished Nokk Bracelet	46232	1	6
+General 6-Slot1-Slot1	Empty	0	0	0
+General 6-Slot1-Slot2	Empty	0	0	0
+General 6-Slot2	Empty	0	0	0
+General 6-Slot3	Empty	0	0	0
+General 6-Slot4	Empty	0	0	0
+General 6-Slot5	Empty	0	0	0
+General 6-Slot6	Thought Elixir of the Council	53495	10	6
+General 6-Slot7	Empty	0	0	0
+General 6-Slot8	Potion of Quickened Thought	53482	5	6
+General 7	Backpack	17005	1	8
+General 7-Slot1	Empty	0	0	0
+General 7-Slot2	Canyon Queen Crown	53496	1	6
+General 7-Slot2-Slot1	Empty	0	0	0
+General 7-Slot2-Slot2	Empty	0	0	0
+General 7-Slot3	Tasty Truffles	52637	1	6
+General 7-Slot4	Poisonous Nettle	84212	1	6
+General 7-Slot5	Low Quality Bear Skin	13750	2	6
+General 7-Slot6	Enchanted Essence of Shadow	84215	1	6
+General 7-Slot7	Medium Quality Bear Skin	13751	1	6
+General 7-Slot8	Hollows Mushroom	54652	1	6
+General 8	Backpack	17005	1	8
+General 8-Slot1	Ceremonial Crystalwing Cloak	53492	1	6
+General 8-Slot1-Slot1	Empty	0	0	0
+General 8-Slot2	Dusty Skeleton Bone	84216	1	6
+General 8-Slot3	Potion of Minor Relief	53481	5	6
+General 8-Slot4	Dakkan's Tonic	53483	5	6
+General 8-Slot5	Potion of Minor Quickening	53490	10	6
+General 8-Slot6	Spiderling Silk	13099	33	6
+General 8-Slot7	Simple Scryer's Ear Stud	108331	1	6
+General 8-Slot7-Slot1	Empty	0	0	0
+General 8-Slot8	Empty	0	0	0
+General 9	Dreamweave Satchel	52142	1	16
+General 9-Slot1	Empty	0	0	0
+General 9-Slot2	Empty	0	0	0
+General 9-Slot3	Empty	0	0	0
+General 9-Slot4	Netted Kelp Tunic	31503	1	6
+General 9-Slot4-Slot1	Empty	0	0	0
+General 9-Slot4-Slot2	Empty	0	0	0
+General 9-Slot5	Empty	0	0	0
+General 9-Slot6	Spell: Rain of Spikes	15409	1	6
+General 9-Slot7	Spell: Expedience	19503	1	6
+General 9-Slot8	Spell: Sword of Runes	15617	1	6
+General 9-Slot9	Spell: Greater Summoning: Air	15576	1	6
+General 9-Slot10	Spell: Burnout II	15106	1	6
+General 9-Slot11	Spell: Inferno Shield	15479	1	6
+General 9-Slot12	Empty	0	0	0
+General 9-Slot13	Empty	0	0	0
+General 9-Slot14	Simple Scryer's Ring	108337	1	6
+General 9-Slot14-Slot1	Empty	0	0	0
+General 9-Slot15	Smithy's Ring	53491	1	6
+General 9-Slot15-Slot1	Empty	0	0	0
+General 9-Slot16	Empty	0	0	0
+General 10	Lize's Crocheted Doily	53500	1	6
+General 10-Slot1	Empty	0	0	0
+Held	Empty	0	0	0
+Bank1	Smithing Chisel	7052	1	6
+Bank2	Pattern for Drakkin Wristguards	98441	20	6
+Bank3	Pattern for Drakkin Sleeves	98442	20	6
+Bank4	Pattern for Drakkin Gloves	98443	20	6
+Bank5	File	12011	1	6
+Bank6	Pattern for Drakkin Wristguards	98441	20	6
+Bank7	Water Flask	13006	19	6
+Bank8	Small Piece of High Quality Ore	22229	1	6
+Bank9	Backpack	17005	1	8
+Bank9-Slot1	Empty	0	0	0
+Bank9-Slot2	Empty	0	0	0
+Bank9-Slot3	Empty	0	0	0
+Bank9-Slot4	Empty	0	0	0
+Bank9-Slot5	Empty	0	0	0
+Bank9-Slot6	Empty	0	0	0
+Bank9-Slot7	Empty	0	0	0
+Bank9-Slot8	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Backpack	17005	1	8
+Bank11-Slot1	Thalium Ore	34240	3	6
+Bank11-Slot2	One of Lize's Trinkets	36196	1	6
+Bank11-Slot3	High Quality Cat Pelt	12086	5	6
+Bank11-Slot4	Quill	13051	1	6
+Bank11-Slot5	Simple Pants	58109	8	6
+Bank11-Slot6	Rough Silk	34212	7	6
+Bank11-Slot7	Simple Defiant Leather Trousers	50052	1	6
+Bank11-Slot7-Slot1	Empty	0	0	0
+Bank11-Slot7-Slot2	Empty	0	0	0
+Bank11-Slot8	Simple Shirt	58114	4	6
+Bank12	Backpack	17005	1	8
+Bank12-Slot1	Empty	0	0	0
+Bank12-Slot2	Empty	0	0	0
+Bank12-Slot3	Hand of the Reaper	14742	1	6
+Bank12-Slot3-Slot1	Empty	0	0	0
+Bank12-Slot4	Empty	0	0	0
+Bank12-Slot5	Empty	0	0	0
+Bank12-Slot6	Small Brick of Unrefined Ore	10396	1	6
+Bank12-Slot7	Pattern for Drakkin Helms	98445	20	6
+Bank12-Slot8	Crude Defiant Chain Bracer	50012	1	6
+Bank12-Slot8-Slot1	Empty	0	0	0
+Bank12-Slot8-Slot2	Empty	0	0	0
+Bank13	Backpack	17005	1	8
+Bank13-Slot1	Elaborate Defiant Leather Sleeves	50201	1	6
+Bank13-Slot1-Slot1	Empty	0	0	0
+Bank13-Slot1-Slot2	Empty	0	0	0
+Bank13-Slot1-Slot3	Empty	0	0	0
+Bank13-Slot2	Pattern for Drakkin Tunics	98446	20	6
+Bank13-Slot3	Spell: Sacred Touch Rk. II	78493	1	6
+Bank13-Slot4	Pattern for Drakkin Boots	98444	20	6
+Bank13-Slot5	Empty	0	0	0
+Bank13-Slot6	Nightshade Wreath	1408	1	6
+Bank13-Slot6-Slot1	Empty	0	0	0
+Bank13-Slot6-Slot2	Empty	0	0	0
+Bank13-Slot7	Distillate of Celestial Healing X	77788	18	6
+Bank13-Slot8	Stonebladed Axe of Dismay	27914	1	6
+Bank13-Slot8-Slot1	Empty	0	0	0
+Bank13-Slot8-Slot2	Empty	0	0	0
+Bank14	Backpack	17005	1	8
+Bank14-Slot1	Medium Quality Folded Sheet Metal	10463	5	6
+Bank14-Slot2	Empty	0	0	0
+Bank14-Slot3	Simple Defiant Plate Vambraces	50037	1	6
+Bank14-Slot3-Slot1	Empty	0	0	0
+Bank14-Slot3-Slot2	Empty	0	0	0
+Bank14-Slot4	Large Brick of High Quality Ore	10469	14	6
+Bank14-Slot5	Empty	0	0	0
+Bank14-Slot6	Simple Defiant Plate Helm	50036	1	6
+Bank14-Slot6-Slot1	Empty	0	0	0
+Bank14-Slot6-Slot2	Empty	0	0	0
+Bank14-Slot7	Empty	0	0	0
+Bank14-Slot8	Empty	0	0	0
+Bank15	Large Sewing Kit	17880	1	8
+Bank15-Slot1	Empty	0	0	0
+Bank15-Slot2	Empty	0	0	0
+Bank15-Slot3	Empty	0	0	0
+Bank15-Slot4	Empty	0	0	0
+Bank15-Slot5	Empty	0	0	0
+Bank15-Slot6	Empty	0	0	0
+Bank15-Slot7	Empty	0	0	0
+Bank15-Slot8	Empty	0	0	0
+Bank16	Backpack	17005	1	8
+Bank16-Slot1	Cloth Cap	1001	1	6
+Bank16-Slot1-Slot1	Empty	0	0	0
+Bank16-Slot1-Slot2	Empty	0	0	0
+Bank16-Slot2	Empty	0	0	0
+Bank16-Slot3	Ghostly Shroud	83176	1	6
+Bank16-Slot3-Slot1	Empty	0	0	0
+Bank16-Slot4	Empty	0	0	0
+Bank16-Slot5	Empty	0	0	0
+Bank16-Slot6	Empty	0	0	0
+Bank16-Slot7	Darkforge Greaves	3145	1	6
+Bank16-Slot7-Slot1	Empty	0	0	0
+Bank16-Slot7-Slot2	Empty	0	0	0
+Bank16-Slot8	Empty	0	0	0
+Bank17	Empty	0	0	0
+Bank18	Huge Disenchanted Backpack	77778	1	10
+Bank18-Slot1	Sullied Animal Pelt	34227	3	6
+Bank18-Slot2	Spider Silk	13041	93	6
+Bank18-Slot3	Spider Venom Sac	14018	20	6
+Bank18-Slot4	Thick Silk	34215	2	6
+Bank18-Slot5	Simple Defiant Claw Dagger	50527	1	6
+Bank18-Slot5-Slot1	Empty	0	0	0
+Bank18-Slot5-Slot2	Empty	0	0	0
+Bank18-Slot6	Complex Embossed Rune	38679	1	6
+Bank18-Slot7	Simple Defiant Leather Gloves	50048	1	6
+Bank18-Slot7-Slot1	Empty	0	0	0
+Bank18-Slot7-Slot2	Empty	0	0	0
+Bank18-Slot8	Desiccated Marrow	34890	1	6
+Bank18-Slot9	Empty	0	0	0
+Bank18-Slot10	Ancestral Drakkin Armor	98436	1	6
+Bank19	Smithy Hammer	10489	1	6
+Bank20	Empty	0	0	0
+Bank21	Empty	0	0	0
+Bank22	Backpack*	32601	1	8
+Bank22-Slot1	Ruined Cat Pelt	13783	2	6
+Bank22-Slot2	Dusty Marrow	34891	2	6
+Bank22-Slot3	High Quality Metal Rings	10426	16	6
+Bank22-Slot4	Simple Belt	58086	8	6
+Bank22-Slot5	Makeshift Binding Powder	36278	7	6
+Bank22-Slot6	Silvril Ore	34239	8	6
+Bank22-Slot7	Simple Defiant Chain Boots	50042	1	6
+Bank22-Slot7-Slot1	Empty	0	0	0
+Bank22-Slot7-Slot2	Empty	0	0	0
+Bank22-Slot8	Water Flask	13006	6	6
+Bank23	Hand Made Backpack	17969	1	10
+Bank23-Slot1	Tattered Animal Pelt	34226	8	6
+Bank23-Slot2	Raw Rough Hide	97859	2	6
+Bank23-Slot3	Mangled Animal Pelt	34225	7	6
+Bank23-Slot4	Sullied Silk	34214	24	6
+Bank23-Slot5	Pond Alligator Hide	54654	1	6
+Bank23-Slot6	Tome of the Hero's Journey	66666	1	6
+Bank23-Slot7	Tacky Silk	34213	28	6
+Bank23-Slot8	Simple Socks	58121	8	6
+Bank23-Slot9	Gnoll Teeth	97287	3	6
+Bank23-Slot10	Chainmail Glove Pattern	22042	1	6
+Bank24	Backpack*	32601	1	8
+Bank24-Slot1	Empty	0	0	0
+Bank24-Slot2	Sullied Spinneret Fluid	34904	3	6
+Bank24-Slot3	Crude Binding Powder	36277	5	6
+Bank24-Slot4	Skin of Milk	9990	16	6
+Bank24-Slot5	Raw Hide	97860	5	6
+Bank24-Slot6	Pattern for Drakkin Leggings	98447	20	6
+Bank24-Slot7	Bread Cakes*	9991	5	6
+Bank24-Slot8	Medium Quality Cat Pelt	12085	1	6
+SharedBank1	Trader's Satchel	17899	1	10
+SharedBank1-Slot1	Venomous Raptor Saddle	60944	1	6
+SharedBank1-Slot2	Snowstorm Bow Ornamentation	57473	1	1
+SharedBank1-Slot2-Slot1	Empty	0	0	0
+SharedBank1-Slot3	Jade Reaver	5664	1	6
+SharedBank1-Slot3-Slot1	Empty	0	0	0
+SharedBank1-Slot3-Slot2	Empty	0	0	0
+SharedBank1-Slot4	Empty	0	0	0
+SharedBank1-Slot5	Bracelet of Comprehension	7940	1	6
+SharedBank1-Slot5-Slot1	Empty	0	0	0
+SharedBank1-Slot5-Slot2	Empty	0	0	0
+SharedBank1-Slot6	Fabled Obsidian Battle Sword	42904	1	6
+SharedBank1-Slot6-Slot1	Empty	0	0	0
+SharedBank1-Slot6-Slot2	Empty	0	0	0
+SharedBank1-Slot7	Divine Hammer of Consternation	26554	1	6
+SharedBank1-Slot7-Slot1	Empty	0	0	0
+SharedBank1-Slot7-Slot2	Empty	0	0	0
+SharedBank1-Slot8	Brewer's Mesh Cloak	1535	1	6
+SharedBank1-Slot8-Slot1	Empty	0	0	0
+SharedBank1-Slot9	Prize: Crystalline Shield Nimbus	101992	1	6
+SharedBank1-Slot10	Prize: Spore Curer Bait	101986	1	6
+SharedBank2	Trader's Satchel	17899	1	10
+SharedBank2-Slot1	Empty	0	0	0
+SharedBank2-Slot2	Empty	0	0	0
+SharedBank2-Slot3	Empty	0	0	0
+SharedBank2-Slot4	Empty	0	0	0
+SharedBank2-Slot5	Empty	0	0	0
+SharedBank2-Slot6	Empty	0	0	0
+SharedBank2-Slot7	Empty	0	0	0
+SharedBank2-Slot8	Empty	0	0	0
+SharedBank2-Slot9	Empty	0	0	0
+SharedBank2-Slot10	Empty	0	0	0
+SharedBank3	Trader's Satchel	17899	1	10
+SharedBank3-Slot1	Empty	0	0	0
+SharedBank3-Slot2	Empty	0	0	0
+SharedBank3-Slot3	Empty	0	0	0
+SharedBank3-Slot4	Empty	0	0	0
+SharedBank3-Slot5	Empty	0	0	0
+SharedBank3-Slot6	Empty	0	0	0
+SharedBank3-Slot7	Empty	0	0	0
+SharedBank3-Slot8	Empty	0	0	0
+SharedBank3-Slot9	Empty	0	0	0
+SharedBank3-Slot10	Empty	0	0	0
+SharedBank4	Trader's Satchel	17899	1	10
+SharedBank4-Slot1	Empty	0	0	0
+SharedBank4-Slot2	Empty	0	0	0
+SharedBank4-Slot3	Empty	0	0	0
+SharedBank4-Slot4	Empty	0	0	0
+SharedBank4-Slot5	Empty	0	0	0
+SharedBank4-Slot6	Empty	0	0	0
+SharedBank4-Slot7	Empty	0	0	0
+SharedBank4-Slot8	Empty	0	0	0
+SharedBank4-Slot9	Empty	0	0	0
+SharedBank4-Slot10	Empty	0	0	0
+SharedBank5	Empty	0	0	0
+SharedBank6	Empty	0	0	0

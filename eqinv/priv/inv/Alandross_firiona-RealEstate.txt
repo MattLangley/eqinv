@@ -2,149 +2,71 @@ RealEstateLocation	RealEstateName	ItemName	ItemOwner	Status	ID	Count
 Neighborhood	Chivalry Village, 112 Vanward Street	Estate Storage Crate	Alandross	Placed	62595	1
 Neighborhood	Chivalry Village, 112 Vanward Street	Zimel Style Stone Domicile, Stone Interior	Alandross	Placed	61885	1
 Plot	Chivalry Village, 112 Vanward Street, Estate Storage Crate	Glowing Black Drum	Nuldaan	Stored	59509	1
-Plot	Chivalry Village, 112 Vanward Street, Estate Storage Crate	Glowing Black Drum	Nuldaan	Stored	59509	1
 Plot	Chivalry Village, 112 Vanward Street, Estate Storage Crate	Glowing Black Drum	Altarion	Stored	59509	1
-Plot	Chivalry Village, 112 Vanward Street, Estate Storage Crate	Glowing Black Drum	Sethgare	Stored	59509	1
-Plot	Chivalry Village, 112 Vanward Street, Estate Storage Crate	Glowing Black Drum	Sethgare	Stored	59509	1
-Plot	Chivalry Village, 112 Vanward Street, Estate Storage Crate	Glowing Black Drum	Sethgare	Stored	59509	1
-Plot	Chivalry Village, 112 Vanward Street, Estate Storage Crate	Glowing Black Drum	Sethgare	Stored	59509	1
 Plot	Chivalry Village, 112 Vanward Street, Estate Storage Crate	Glowing Black Drum	Sethgare	Stored	59509	1
 Plot	Chivalry Village, 112 Vanward Street, Estate Storage Crate	Crate of Eviction	Kaalix	Stored	52147	1
 Plot	Chivalry Village, 112 Vanward Street, Estate Storage Crate	Mottled Worg Bridle	Naraew	Stored	40489	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Corroded Plate Gauntlets	Talarion	Stored	24934	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Suit of Warmaker's Iksar Scalemail	Trammek	Stored	138910	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Tattered Silk Pantaloons	Talarion	Stored	24978	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Corroded Breastplate	Naraew	Stored	24928	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Tattered Silk Sleeves	Talarion	Stored	24979	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Corroded Plate Boots	Necrall	Stored	24931	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Tattered Silk Wristband	Talarion	Stored	24981	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Torn Enchanted Silk Pantaloons	Necrall	Stored	24950	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Corroded Chain Leggings	Necrall	Stored	24936	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Unadorned Plate Greaves	Talarion	Stored	24957	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Torn Enchanted Silk Turban	Necrall	Stored	24954	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Coral	Naraew	Stored	25831	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Unadorned Leather Bracelet	Talarion	Stored	24974	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Diamond Dust	Naraew	Stored	25842	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Tattered Silk Boots	Talarion	Stored	24980	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Corroded Plate Bracer	Chaosreaper	Stored	24932	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Unadorned Plate Bracer	Talarion	Stored	24960	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Diamond Dust	Talarion	Stored	25842	8
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Unadorned Leather Tunic	Talarion	Stored	24970	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawless Aquamarine	Talarion	Stored	22505	5
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Unadorned Plate Gauntlets	Talarion	Stored	24962	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Black Marble	Talarion	Stored	25805	40
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawed Lava Ruby	Talarion	Stored	25826	9
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Unadorned Leather Sleeves	Talarion	Stored	24972	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Opal	Talarion	Stored	25836	11
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Chipped Black Marble	Talarion	Stored	25819	7
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Eroded Leather Leggings	Talarion	Stored	24943	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Imperfect Diamond	Talarion	Stored	25828	2
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Pristine Emerald	Talarion	Stored	25807	20
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Tarnished Vambraces	Alandross	Stored	24902	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Star Ruby	Talarion	Stored	10032	3
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Flame Emerald	Talarion	Stored	25838	16
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Tarnished Plate Gauntlets	Alandross	Stored	24906	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawed Flame Emerald	Talarion	Stored	25824	5
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Tarnished Plate Helmet	Alandross	Stored	24905	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Black Marble	Talarion	Stored	25833	2
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Tarnished Plate Bracelet	Alandross	Stored	24904	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Nephrite	Talarion	Stored	25830	12
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Tarnished Greaves	Alandross	Stored	24901	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawed Topaz	Talarion	Stored	25818	3
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Tarnished Chain Sleeves	Alandross	Stored	24909	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Jaundice Gem	Talarion	Stored	25815	2
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Tarnished Plate Boots	Alandross	Stored	24903	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Sea Sapphire	Talarion	Stored	25839	9
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Tarnished Chain Leggings	Alandross	Stored	24908	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawed Emerald	Talarion	Stored	25821	4
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Tarnished Chain Coif	Alandross	Stored	24912	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawed Flame Opal	Talarion	Stored	25823	11
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Silk Turban	Alandross	Stored	24926	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Flame Opal	Talarion	Stored	25837	4
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Silk Sleeves	Alandross	Stored	24923	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Nephrite	Talarion	Stored	25816	4
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Silk Boots	Alandross	Stored	24924	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Coral	Talarion	Stored	25831	12
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Silk Pantaloons	Alandross	Stored	24922	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawless Diamond	Talarion	Stored	25814	20
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Leather Sleeves	Alandross	Stored	24916	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Emerald	Talarion	Stored	25835	14
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Leather Gloves	Alandross	Stored	24920	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Topaz	Talarion	Stored	25832	9
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Leather Bracelet	Alandross	Stored	24918	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawed Opal	Talarion	Stored	25822	6
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Leather Cap	Alandross	Stored	24919	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Black Sapphire	Talarion	Stored	10036	7
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Corroded Chain Boots	Alandross	Stored	24938	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Diamond	Talarion	Stored	10037	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Corroded Chain Bracer	Alandross	Stored	24939	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawed Sea Sapphire	Talarion	Stored	25825	8
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Opal	Talarion	Stored	10030	4
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Jaundice Gem	Talarion	Stored	25829	3
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Corroded Plate Boots	Alandross	Stored	24931	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Onyx Sapphire	Talarion	Stored	25841	11
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Corroded Plate Bracer	Alandross	Stored	24932	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Emerald	Talarion	Stored	10029	2
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Corroded Plate Greaves	Alandross	Stored	24929	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Pearl	Talarion	Stored	10024	98
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Corroded Plate Gauntlets	Alandross	Stored	24934	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Chipped Onyx Sapphire	Talarion	Stored	25827	4
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Eroded Leather Boots	Alandross	Stored	24945	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Chrysolite	Talarion	Stored	25834	11
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Eroded Leather Bracelet	Alandross	Stored	24946	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Peridot	Talarion	Stored	10028	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Eroded Leather Leggings	Alandross	Stored	24943	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Torn Enchanted Silk Wristband	Talarion	Stored	24953	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Eroded Leather Gloves	Alandross	Stored	24948	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Silk Robe	Talarion	Stored	24921	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Black Pearl	Talarion	Stored	10012	6
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Eroded Leather Sleeves	Alandross	Stored	24944	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Lava Ruby	Talarion	Stored	25840	12
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Tattered Silk Gloves	Alandross	Stored	24983	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawed Chrysolite	Talarion	Stored	25820	7
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Pristine Emerald	Talarion	Stored	25807	11
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawless Diamond	Talarion	Stored	25814	10
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Tattered Silk Turban	Alandross	Stored	24982	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Star Ruby	Necrall	Stored	10032	5
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Tattered Silk Wristband	Alandross	Stored	24981	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ruby	Necrall	Stored	10035	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Unadorned Breastplate	Alandross	Stored	24956	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Sapphire	Necrall	Stored	10034	2
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Torn Enchanted Silk Boots	Alandross	Stored	24952	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Diamond	Necrall	Stored	10037	9
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Torn Enchanted Silk Wristband	Alandross	Stored	24953	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Corroded Breastplate	Felerando	Stored	24928	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Torn Enchanted Silk Gloves	Alandross	Stored	24955	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Fire Emerald	Felerando	Stored	10033	4
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Torn Enchanted Silk Pantaloons	Alandross	Stored	24950	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Star Ruby	Felerando	Stored	10032	2
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Torn Enchanted Silk Sleeves	Alandross	Stored	24951	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ruby	Felerando	Stored	10035	2
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Torn Enchanted Silk Turban	Alandross	Stored	24954	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Black Sapphire	Felerando	Stored	10036	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Unadorned Chain Boots	Alandross	Stored	24966	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Sapphire	Felerando	Stored	10034	3
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Unadorned Chain Coif	Alandross	Stored	24968	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Giant Warrior Helmet	Felerando	Stored	29062	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Unadorned Chain Bracer	Alandross	Stored	24967	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Giant Warrior Helmet	Felerando	Stored	29062	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Unadorned Chain Gauntlets	Alandross	Stored	24969	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Diamond	Felerando	Stored	10037	4
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Giant Warrior Helmet	Felerando	Stored	29062	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Unadorned Leather Boots	Alandross	Stored	24973	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Giant Warrior Helmet	Felerando	Stored	29062	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Unadorned Leather Cap	Alandross	Stored	24975	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Giant Warrior Helmet	Felerando	Stored	29062	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Unadorned Leather Leggings	Alandross	Stored	24971	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Giant Warrior Helmet	Felerando	Stored	29062	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Unadorned Leather Gloves	Alandross	Stored	24976	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Giant Warrior Helmet	Felerando	Stored	29062	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Unadorned Plate Boots	Alandross	Stored	24959	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Giant Warrior Helmet	Felerando	Stored	29062	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Unadorned Plate Bracer	Alandross	Stored	24960	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Corroded Plate Greaves	Waerian	Stored	24929	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Unadorned Plate Gauntlets	Alandross	Stored	24962	1
-Plot	Chivalry Village, 112 Vanward Street, Three Room House	Star Ruby	Waerian	Stored	10032	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Unadorned Plate Greaves	Alandross	Stored	24957	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Unadorned Plate Vambraces	Alandross	Stored	24958	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Corroded Plate Greaves	Talarion	Stored	24929	1
@@ -295,6 +217,102 @@ Plot	Chivalry Village, 112 Vanward Street, Three Room House	Adoptable Scorpikis 
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Suit of Warmaker's Iksar Ringmail	Trammek	Stored	138911	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Suit of Militant's Iksar Cloth	Trammek	Stored	138919	1
 Plot	Chivalry Village, 112 Vanward Street, Three Room House	Adoptable Snow Leopard	Trammek	Stored	150666	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Suit of Warmaker's Iksar Scalemail	Trammek	Stored	138910	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Corroded Breastplate	Naraew	Stored	24928	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Corroded Plate Boots	Necrall	Stored	24931	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Torn Enchanted Silk Pantaloons	Necrall	Stored	24950	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Corroded Chain Leggings	Necrall	Stored	24936	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Torn Enchanted Silk Turban	Necrall	Stored	24954	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Coral	Naraew	Stored	25831	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Diamond Dust	Naraew	Stored	25842	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Corroded Plate Bracer	Chaosreaper	Stored	24932	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Diamond Dust	Talarion	Stored	25842	8
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Black Marble	Talarion	Stored	25805	40
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawed Lava Ruby	Talarion	Stored	25826	9
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Opal	Talarion	Stored	25836	11
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Chipped Black Marble	Talarion	Stored	25819	7
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Imperfect Diamond	Talarion	Stored	25828	2
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Pristine Emerald	Talarion	Stored	25807	20
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Star Ruby	Talarion	Stored	10032	3
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Flame Emerald	Talarion	Stored	25838	16
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawed Flame Emerald	Talarion	Stored	25824	5
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Black Marble	Talarion	Stored	25833	2
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Nephrite	Talarion	Stored	25830	12
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawed Topaz	Talarion	Stored	25818	3
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Jaundice Gem	Talarion	Stored	25815	2
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Sea Sapphire	Talarion	Stored	25839	9
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawed Emerald	Talarion	Stored	25821	4
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawed Flame Opal	Talarion	Stored	25823	11
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Flame Opal	Talarion	Stored	25837	4
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Nephrite	Talarion	Stored	25816	4
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Coral	Talarion	Stored	25831	12
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawless Diamond	Talarion	Stored	25814	20
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Emerald	Talarion	Stored	25835	14
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Topaz	Talarion	Stored	25832	9
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawed Opal	Talarion	Stored	25822	6
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Diamond	Talarion	Stored	10037	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawed Sea Sapphire	Talarion	Stored	25825	8
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Opal	Talarion	Stored	10030	4
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Jaundice Gem	Talarion	Stored	25829	3
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Onyx Sapphire	Talarion	Stored	25841	11
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Emerald	Talarion	Stored	10029	2
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Pearl	Talarion	Stored	10024	98
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Chipped Onyx Sapphire	Talarion	Stored	25827	4
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Chrysolite	Talarion	Stored	25834	11
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Peridot	Talarion	Stored	10028	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Torn Enchanted Silk Wristband	Talarion	Stored	24953	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Silk Robe	Talarion	Stored	24921	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Lava Ruby	Talarion	Stored	25840	12
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawed Chrysolite	Talarion	Stored	25820	7
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Pristine Emerald	Talarion	Stored	25807	11
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawless Diamond	Talarion	Stored	25814	10
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Star Ruby	Necrall	Stored	10032	5
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ruby	Necrall	Stored	10035	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Sapphire	Necrall	Stored	10034	2
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Diamond	Necrall	Stored	10037	10
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Corroded Breastplate	Felerando	Stored	24928	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Fire Emerald	Felerando	Stored	10033	4
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Star Ruby	Felerando	Stored	10032	2
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ruby	Felerando	Stored	10035	2
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Sapphire	Felerando	Stored	10034	3
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Giant Warrior Helmet	Felerando	Stored	29062	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Giant Warrior Helmet	Felerando	Stored	29062	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Diamond	Felerando	Stored	10037	4
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Giant Warrior Helmet	Felerando	Stored	29062	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Giant Warrior Helmet	Felerando	Stored	29062	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Giant Warrior Helmet	Felerando	Stored	29062	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Giant Warrior Helmet	Felerando	Stored	29062	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Giant Warrior Helmet	Felerando	Stored	29062	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Giant Warrior Helmet	Felerando	Stored	29062	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Corroded Plate Greaves	Waerian	Stored	24929	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Star Ruby	Waerian	Stored	10032	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Torn Enchanted Silk Sleeves	Necrall	Stored	24951	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Corroded Plate Bracer	Necrall	Stored	24932	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Torn Enchanted Silk Robe	Necrall	Stored	24949	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Eroded Leather Boots	Necrall	Stored	24945	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Torn Enchanted Silk Boots	Necrall	Stored	24952	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Silk Pantaloons	Chaosreaper	Stored	24922	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Tarnished Chain Leggings	Chaosreaper	Stored	24908	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Leather Tunic	Chaosreaper	Stored	24914	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Tarnished Vambraces	Chaosreaper	Stored	24902	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Tarnished Plate Bracelet	Chaosreaper	Stored	24904	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Tarnished Plate Helmet	Chaosreaper	Stored	24905	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Leather Leggings	Chaosreaper	Stored	24915	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Leather Gloves	Chaosreaper	Stored	24920	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Tarnished Plate Boots	Chaosreaper	Stored	24903	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Silk Wristband	Chaosreaper	Stored	24925	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Tarnished Chain Gauntlets	Chaosreaper	Stored	24913	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Ancient Tarnished Plate Gauntlets	Chaosreaper	Stored	24906	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Pristine Emerald	Chaosreaper	Stored	25807	2
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawless Diamond	Chaosreaper	Stored	25814	7
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawed Sea Sapphire	Chaosreaper	Stored	25825	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawed Topaz	Chaosreaper	Stored	25818	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Lava Ruby	Chaosreaper	Stored	25840	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Crushed Nephrite	Chaosreaper	Stored	25830	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Peridot	Chaosreaper	Stored	10028	1
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Flawless Aquamarine	Naraew	Stored	22505	6
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Black Pearl	Naraew	Stored	10012	5
+Plot	Chivalry Village, 112 Vanward Street, Three Room House	Black Sapphire	Naraew	Stored	10036	9
 Neighborhood	Chivalry Village, 110 Vanward Street	Estate Storage Crate	Alandross	Placed	62595	1
 Neighborhood	Chivalry Village, 110 Vanward Street	Monel Style Brick Domicile, Stone Interior	Alandross	Placed	61894	1
 Plot	Chivalry Village, 110 Vanward Street, Estate Storage Crate	Faceted Lightstone	Nuldaan	Stored	97194	1
@@ -411,7 +429,6 @@ Plot	Chivalry Village, 110 Vanward Street, Three Room House	Numbing Mahogany Sha
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Pulsing Frozen Heart	Alandross	Stored	62877	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Jaundice Gem	Talarion	Stored	25815	5
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Smashed Protector of Zek's Head	Alandross	Stored	31422	1
-Plot	Chivalry Village, 110 Vanward Street, Three Room House	Yelinak's Head	Talarion	Stored	24984	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Bloody Protector of Zek's Head	Nuldaan	Stored	31421	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Frosted Scrap Metal	Nuldaan	Stored	32815	6
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Greater Dragon's Head	Nuldaan	Stored	25118	1
@@ -449,7 +466,6 @@ Plot	Chivalry Village, 110 Vanward Street, Three Room House	Wyl`ards Cartography
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Shimmering Shard	Alandross	Stored	81114	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Shard of Hsagra's Talisman	Naraew	Stored	9296	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	King Tormax's Head	Naraew	Stored	30516	1
-Plot	Chivalry Village, 110 Vanward Street, Three Room House	King Tormax's Head	Necrall	Stored	30516	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Derakor's Head	Necrall	Stored	31423	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Crystallized Sulfur	Naraew	Stored	16976	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Reanimated Bone Dust	Naraew	Stored	17472	1
@@ -481,8 +497,8 @@ Plot	Chivalry Village, 110 Vanward Street, Three Room House	Vengeful Dust	Chaosr
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Ghast Fingerbones	Chaosreaper	Stored	54054	2
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Eroded Leather Leggings	Chaosreaper	Stored	24943	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Imp Statuette	Chaosreaper	Stored	20953	1
-Plot	Chivalry Village, 110 Vanward Street, Three Room House	Silver Mesh	Chaosreaper	Stored	20974	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Imperfect Diamond	Talarion	Stored	25828	2
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	Silver Mesh	Chaosreaper	Stored	20974	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Concordance of Black Magic	Chaosreaper	Stored	54047	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Dissertation of Dark War	Chaosreaper	Stored	54051	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Broken Sword Piece	Chaosreaper	Stored	69904	1
@@ -493,10 +509,10 @@ Plot	Chivalry Village, 110 Vanward Street, Three Room House	Gold Disc	Chaosreape
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Mithril Disc	Chaosreaper	Stored	20851	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Collector's Kromrif Signet	Chaosreaper	Stored	84188	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Blood Sky Ruby	Chaosreaper	Stored	20713	1
-Plot	Chivalry Village, 110 Vanward Street, Three Room House	Ebon Shard	Chaosreaper	Stored	20780	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Excellent Siren Scales	Talarion	Stored	25109	3
-Plot	Chivalry Village, 110 Vanward Street, Three Room House	Ethereal Sapphire	Chaosreaper	Stored	20754	1
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	Ebon Shard	Chaosreaper	Stored	20780	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Shard of Pure Ice	Talarion	Stored	11599	1
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	Ethereal Sapphire	Chaosreaper	Stored	20754	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Silken Strands	Chaosreaper	Stored	20794	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Copper Air Band	Chaosreaper	Stored	20751	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Azure Ring	Chaosreaper	Stored	20971	1
@@ -513,8 +529,8 @@ Plot	Chivalry Village, 110 Vanward Street, Three Room House	Black Silk Cape	Chao
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Jester's Mask	Chaosreaper	Stored	20987	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Light Cloth Mantle	Chaosreaper	Stored	20770	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Shimmering Amber	Chaosreaper	Stored	20837	1
-Plot	Chivalry Village, 110 Vanward Street, Three Room House	Spiroc Healing Totem	Chaosreaper	Stored	20812	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Wurm Meat	Talarion	Stored	22809	20
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	Spiroc Healing Totem	Chaosreaper	Stored	20812	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Black Nebulous Sapphire	Chaosreaper	Stored	20773	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Dark Spiroc Feather	Chaosreaper	Stored	20957	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	White-Tipped Spiroc Feather	Chaosreaper	Stored	20958	1
@@ -541,9 +557,6 @@ Plot	Chivalry Village, 110 Vanward Street, Three Room House	Seahorse Scales	Tala
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Shissar Hide Tome	Talarion	Stored	6581	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Shard of Hsagra's Talisman	Talarion	Stored	9296	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Harnessing Stone	Talarion	Stored	52946	1
-Plot	Chivalry Village, 110 Vanward Street, Three Room House	Black Symbol	Talarion	Stored	31251	1
-Plot	Chivalry Village, 110 Vanward Street, Three Room House	Runed Symbol	Talarion	Stored	31252	1
-Plot	Chivalry Village, 110 Vanward Street, Three Room House	Poison Symbol	Talarion	Stored	31255	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Shattered Seal of Warding	Necrall	Stored	6213	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Taskmaster's Pouch	Necrall	Stored	17118	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Blood Encrusted Glove	Necrall	Stored	17751	1
@@ -552,21 +565,20 @@ Plot	Chivalry Village, 110 Vanward Street, Three Room House	Shattered Seal of Wa
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Ssraeshzian Insignia	Necrall	Stored	19718	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Shissar Cerebral Cortex	Necrall	Stored	9945	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Cracked Shissar Revenant Skull	Necrall	Stored	6465	1
-Plot	Chivalry Village, 110 Vanward Street, Three Room House	Derakor's Heart	Necrall	Stored	69346	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Wildspirit Tear	Talarion	Stored	57003	1
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	Derakor's Heart	Necrall	Stored	69346	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Shattered Seal of Warding	Necrall	Stored	6207	1
-Plot	Chivalry Village, 110 Vanward Street, Three Room House	Black Orb of the Arcane	Necrall	Stored	6537	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Kromrif Bones	Talarion	Stored	11655	1
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	Black Orb of the Arcane	Necrall	Stored	6537	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Shard of Hsagra's Talisman	Necrall	Stored	9296	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Lhranc's Corroded Bracer	Necrall	Stored	24612	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	The Green Fog	Necrall	Stored	48149	1
-Plot	Chivalry Village, 110 Vanward Street, Three Room House	Wurm Meat	Talarion	Stored	22809	20
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Flayed Skin Tome	Necrall	Stored	18899	1
-Plot	Chivalry Village, 110 Vanward Street, Three Room House	Wurm Meat	Talarion	Stored	22809	13
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	Wurm Meat	Talarion	Stored	22809	20
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Dungeon Rot Spores of Stones	Necrall	Stored	56982	1
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	Wurm Meat	Talarion	Stored	22809	13
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Lore of the Evocationist	Necrall	Stored	6290	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Wurm Meat	Felerando	Stored	22809	20
-Plot	Chivalry Village, 110 Vanward Street, Three Room House	King Tormax's Head	Felerando	Stored	30516	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Tainted Darksteel Breastplate	Felerando	Stored	29001	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Head of a Prince	Felerando	Stored	10627	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Staff of Suffering	Felerando	Stored	61174	1
@@ -589,10 +601,26 @@ Plot	Chivalry Village, 110 Vanward Street, Three Room House	Wax Flower	Felerando
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Fleshless Skull	Felerando	Stored	31427	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Eroded Leather Gloves	Sethgare	Stored	24948	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Blightfire Sleeve Pattern	Zhekk	Stored	64111	1
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	Idol of Disease	Felerando	Stored	31431	1
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	Kallis' Head	Necrall	Stored	31420	1
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	Harnessing Stone	Necrall	Stored	52946	1
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	Storm Giant Toes	Necrall	Stored	29124	1
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	Ice Burrower Meat	Chaosreaper	Stored	19022	1
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	Second Half of Vin`Pekir's Tome	Chaosreaper	Stored	31446	1
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	Drake Fang	Chaosreaper	Stored	20834	1
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	Ancient Rusted Key	Chaosreaper	Stored	1714	1
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	Shrine Key	Chaosreaper	Stored	28602	1
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	The Blood Agreement	Necrall	Stored	6283	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Scale of Hsagra	Talarion	Stored	1899	1
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	King Tormax's Head	Felerando	Stored	30516	1
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	Gilded Brooch of the North	Naraew	Stored	62313	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Mercenary Assignments	Talarion	Stored	29624	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Kromzek Mercenary Brooch	Talarion	Stored	11990	1
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	Great Dragon's Head	Talarion	Stored	25119	1
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	Blackened Iksar Bones	Nalluwen	Stored	30992	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Kromrif Head	Talarion	Stored	30082	1
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	Thin Strands of Silver Silk	Nalluwen	Stored	6484	1
+Plot	Chivalry Village, 110 Vanward Street, Three Room House	Blood of the Arisen Soldier	Nalluwen	Stored	6598	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Platinum Dragon Scale	Alandross	Stored	11640	1
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Icepaw Kobold's Paw	Alandross	Stored	25301	11
 Plot	Chivalry Village, 110 Vanward Street, Three Room House	Cryptic Page	Alandross	Stored	57916	1
@@ -622,8 +650,6 @@ Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Book of Tactics	
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Paebala Fetish	Alandross	Stored	26000	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Doljonijiarnimorinar	Alandross	Stored	25595	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Frozen Shard	Talarion	Stored	25030	1
-Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Iron Scroll of War	Necrall	Stored	25205	1
-Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Blackened Acrylia Blade	Felerando	Stored	51260	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Thunder Runed Dagger	Alandross	Stored	31210	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Stein of Flowing Ichor	Felerando	Stored	12802	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Black Blade of Tormenting	Alandross	Stored	25091	1
@@ -633,14 +659,28 @@ Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Axe of the Frost
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Short Sword of the Ykesha	Zhekk	Stored	5500	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Tambourine of Rituals	Zhekk	Stored	28074	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Centi Warhammer	Zhekk	Stored	32151	1
+Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	The Horn of Hsagra	Necrall	Stored	25195	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Giant Militia Longsword	Alandross	Stored	25000	1
+Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Tri-Plated Golden Hackle Hammer	Kaalix	Stored	30502	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Qeynos Shield of Foundation	Alandross	Stored	79698	1
+Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Staff of the Chamberlain	Chaosreaper	Stored	30511	1
+Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Shield of the Seneschal	Chaosreaper	Stored	30508	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Bloody Claw of Draazak	Alandross	Stored	25129	1
+Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Totem of Disruption	Chaosreaper	Stored	29672	1
+Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Sentry Maul	Chaosreaper	Stored	29098	1
+Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Bow of the Heartseeker	Altarion	Stored	71418	1
+Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Bow of the Huntsman	Altarion	Stored	25033	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Thunder Runed Great Sword	Talarion	Stored	31209	1
+Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Silver Disk	Altarion	Stored	31347	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Ancient Fishing Pole	Talarion	Stored	24727	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Blue Crystal Staff	Nuldaan	Stored	14337	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Mithril Two-Handed Sword	Spiriouso	Stored	5401	1
+Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Sword of Truth	Lanex	Stored	6555	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Glowing Black Sword	Spiriouso	Stored	20657	1
+Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Glowing Black Sword	Naraew	Stored	20657	1
+Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Darkwood Bow of Suffering	Naraew	Stored	40074	1
+Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Exquisite Velium Battle Axe	Ratek	Stored	27086	1
+Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Divine Hammer of Consternation	Chaosreaper	Stored	26554	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Silver Swiftblade	Sethgare	Stored	5659	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Defiance	Sethgare	Stored	25080	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Inviting Ornate Marble Fireplace	Sethgare	Stored	64742	1
@@ -688,7 +728,6 @@ Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Runic Carver	Nul
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Acid Etched War Sword	Nuldaan	Stored	5656	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Gore Covered Horn	Nuldaan	Stored	3385	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Mithril Edged Short Sword	Runkin	Stored	7903	1
-Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Fungus Covered Great Staff	Runkin	Stored	10895	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Glowing Black Sword	Talarion	Stored	20657	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Exquisite Velium Claidhmore	Talarion	Stored	27046	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Ice Silk Strung Bow	Talarion	Stored	62315	1
@@ -697,14 +736,12 @@ Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Wand of the Blac
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Poison Wind Censer	Necrall	Stored	6205	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Hand of the Reaper	Necrall	Stored	14742	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Melodious Truncheon	Necrall	Stored	6609	1
-Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Fungi Covered Great Staff	Talarion	Stored	11058	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Rapier of Oriin	Necrall	Stored	7250	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Dark Reaver	Naraew	Stored	5404	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Short Sword of the Ykesha	Naraew	Stored	5500	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Paw of Opolla	Naraew	Stored	13730	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Zlandicar's Heart	Trammek	Stored	26009	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Shield of the Dawn	Trammek	Stored	31358	1
-Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Sword of Truth	Trammek	Stored	6555	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Short Sword of the Ykesha	Nuldaan	Stored	5500	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Short Sword of the Ykesha	Nuldaan	Stored	5500	1
 Plot	Chivalry Village, 109 Vanward Street, Estate Storage Crate	Dark Reaver	Nuldaan	Stored	5404	1
@@ -718,7 +755,6 @@ Plot	Chivalry Village, 109 Vanward Street, Three Room House	Shield of Ravenglass
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Lance of Ravenglass' Victim	Alandross	Placed	85668	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Shield of Ravenglass' Victim	Alandross	Placed	85590	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Painting: Lord Nagafen	Alandross	Placed	54996	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Sork's Aural Attenuator	Chaosreaper	Stored	60372	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Painting: Lady Vox	Alandross	Placed	54995	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Thule Family Rivalry	Alandross	Placed	52296	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Runed Oak Bow	Alandross	Placed	8325	1
@@ -742,13 +778,10 @@ Plot	Chivalry Village, 109 Vanward Street, Three Room House	Resplendent Square T
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Argent Protector	Alandross	Placed	5840	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Double-Edged Greatsword of Visions	Alandross	Placed	26031	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Flamepaw's Soothing Basher	Alandross	Placed	109247	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Spider Fur Belt	Talarion	Stored	25294	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Archaic Chain Wristguard	Thorrak	Stored	103307	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Jarsath Battle Sword	Alandross	Placed	5620	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Seahorse Spine Bracelet	Talarion	Stored	24739	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Coldain Skin Gloves	Talarion	Stored	25026	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Bracelet of Fortitude	Zhekk	Stored	7942	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Ancient Seahorse Hide Cloak	Talarion	Stored	24736	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Sash of the Dragonborn	Felerando	Stored	1623	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Kylong Chestplate	Felerando	Stored	3214	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Coldain Skin Gloves	Alandross	Stored	25026	1
@@ -773,105 +806,79 @@ Plot	Chivalry Village, 109 Vanward Street, Three Room House	Runebranded Girdle	R
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Nathsar Bracer	Runkin	Stored	5724	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Crystal Chitin Leggings	Runkin	Stored	25286	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Robe of Living Fungus	Waerian	Stored	1268	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Fungus Covered Scale Tunic	Waerian	Stored	2735	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Silver Steel Gauntlets	Alandross	Stored	25078	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Silver Steel Gauntlets	Talarion	Stored	25078	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Silver Steel Gauntlets	Alandross	Stored	25078	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Barbed Dragonscale Boots	Talarion	Stored	25029	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Neriad Shawl	Talarion	Stored	28508	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Runed Walrus Hide Cloak	Talarion	Stored	24751	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Spined Seahorse Hide Breastplate	Talarion	Stored	24742	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Gladiator's Chain Leggings	Alandross	Stored	25185	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Worked Dragonspine Vambraces	Talarion	Stored	27112	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Cloak of Silver Eyes	Talarion	Stored	31397	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Worked Dragonhide Gauntlets	Talarion	Stored	27110	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Worked Dragonhide Breastplate	Talarion	Stored	27115	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Dire Wolf-Hide Cloak	Necrall	Stored	25019	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Belt of the Pine	Necrall	Stored	2916	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Velketor's Spell Book	Alandross	Stored	1117	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Tolapumj's Robe	Necrall	Stored	1624	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Cap of the Insubstantial	Necrall	Stored	2474	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Hardened Clay Bracelet	Necrall	Stored	3212	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Cloak of the Falling Stars	Necrall	Stored	25207	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Breastplate of Eradication	Necrall	Stored	25206	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Flayed Barbarian Skin Leggings	Necrall	Stored	25212	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Fungus Covered Scale Tunic	Kaalix	Stored	2735	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Fungus Covered Scale Tunic	Talarion	Stored	2735	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Rubicite Breastplate	Talarion	Stored	4164	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Reinforced Dragonhorn Bracers	Talarion	Stored	27122	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Rubicite Collar	Trammek	Stored	4163	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Crimson Robe of Alendine	Trammek	Stored	11641	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Gloves of Watery Distraction	Trammek	Stored	24750	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Silvery Belt of Contention	Trammek	Stored	31203	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Seahorse Spine Bracelet	Naraew	Stored	24739	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Coldain Skin Gloves	Naraew	Stored	25026	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Circlet of Vallon	Alandross	Stored	25034	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Boots of the Storm	Naraew	Stored	25197	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Circlet of Vallon	Alandross	Stored	25034	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Chestplate of Vindication	Necrall	Stored	25044	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Coldain Skin Gloves	Necrall	Stored	25026	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Velium War Mask	Necrall	Stored	31204	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	White Dragon Scale Sash	Necrall	Stored	25199	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Velium Encrusted Gauntlets	Necrall	Stored	25201	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Wrist Guard of Thunder	Necrall	Stored	25200	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Eyepatch of the Shadows	Necrall	Stored	25031	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Coldain Skin Gloves	Necrall	Stored	25026	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Serpentine Bracer	Naraew	Stored	10148	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Deepwater Boots	Spiriouso	Stored	4549	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Dark Mail Gauntlets	Naraew	Stored	3310	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Deepwater Greaves	Spiriouso	Stored	4548	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Executioners Hood	Naraew	Stored	2468	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Executioners Hood	Naraew	Stored	2468	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Dark Mail Gauntlets	Naraew	Stored	3310	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Embroidered Black Sleeves	Naraew	Stored	1362	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Deepwater Breastplate	Spiriouso	Stored	4544	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Serpentine Bracer	Naraew	Stored	10148	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Deepwater Helm	Spiriouso	Stored	4543	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Runed Cowl	Naraew	Stored	10141	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Shield of the Stalwart Seas	Spiriouso	Stored	11552	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Serpentine Bracer	Naraew	Stored	10148	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Deepwater Vambraces	Spiriouso	Stored	4545	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Skull-Shaped Barbute	Naraew	Stored	4301	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Deepwater Bracer	Spiriouso	Stored	4546	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Skull-Shaped Barbute	Naraew	Stored	4301	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Deepwater Bracer	Spiriouso	Stored	4546	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Moonstone Ring	Naraew	Stored	10150	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Cobalt Gauntlets	Naraew	Stored	4519	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Cobalt Boots	Naraew	Stored	4521	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Blood Runed Greaves	Naraew	Stored	25321	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Iksar Skin Gloves	Naraew	Stored	1296	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Dweamorvine Garland	Naraew	Stored	2501	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Velium Nihilite Pendant	Sethgare	Stored	62503	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Cloak of Flames	Trammek	Stored	11621	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Crimson Robe of Alendine	Trammek	Stored	11641	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Crimson Robe of Alendine	Trammek	Stored	11641	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Medal of Deep Thought	Trammek	Stored	31365	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Halo of the Enlightened	Trammek	Stored	1549	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Ring of Relkententinar	Trammek	Stored	31403	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Snowstorm Greatstaff Ornamentation	Sethgare	Stored	57468	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Crimson Robe of Alendine	Trammek	Stored	11641	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Darkfell Fang	Alandross	Stored	84240	4
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Helmet of Rallos Zek	Trammek	Stored	25209	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Old Ebon Hero's Forge Leather Feet Ornament	Alandross	Stored	84570	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Darkfell Fang	Alandross	Stored	84240	4
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Bracelet of Sense	Trammek	Stored	7938	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Eyepatch of the Shadows	Sethgare	Stored	25031	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Old Ebon Hero's Forge Leather Feet Ornament	Alandross	Stored	84570	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Shadowy Assassin Sash	Trammek	Stored	8145	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Cloak of Piety	Trammek	Stored	1627	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Flowing Black Silk Sash	Trammek	Stored	1365	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Spirit Mantle	Alandross	Stored	46450	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Deepwater Helm	Trammek	Stored	4543	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Spirit Mantle	Alandross	Stored	46450	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Tolapumj's Robe	Trammek	Stored	1624	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Spiked Seahorse Hide Belt	Trammek	Stored	24753	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Runed Cowl	Trammek	Stored	10141	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Mask of War	Talarion	Stored	25024	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Guard of the Fallen Dragon Ornament	Alandross	Stored	64566	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Spider Fur Collar	Trammek	Stored	25295	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Celestial Essence Robe	Nuldaan	Stored	29333	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Mask of War	Talarion	Stored	25024	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Worked Dragonhorn Boots	Nuldaan	Stored	27109	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Moonstone Ring	Nuldaan	Stored	10150	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Fungus Covered Scale Tunic	Tarvall	Stored	2735	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Boots of the Vindicator	Tarvall	Stored	25043	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Swirlspine Belt	Tarvall	Stored	2471	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Cloak of Flames	Tarvall	Stored	11621	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Glimmering Mithril Torque	Tarvall	Stored	25020	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Crafted Pauldron	Tarvall	Stored	4175	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Blood Runed Gauntlets	Tarvall	Stored	25327	1
@@ -880,34 +887,25 @@ Plot	Chivalry Village, 109 Vanward Street, Three Room House	Mithril Vambraces	Al
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Serpentine Bracer	Alandross	Stored	10148	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Crown of King Tranix	Alandross	Stored	4504	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Runed Mithril Bracer	Alandross	Stored	4406	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Kylong Shinguards	Felerando	Stored	65543	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Mithril Vambraces	Alandross	Stored	4411	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Band of Discipline	Chaosreaper	Stored	2193	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Belt of Contention	Chaosreaper	Stored	2921	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Belt of Transience	Chaosreaper	Stored	2922	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Helm of Rile	Felerando	Stored	4578	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Belt of the Pine	Chaosreaper	Stored	2916	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Belt of Tranquility	Chaosreaper	Stored	2917	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Ikaav Chaos Cloak	Felerando	Stored	79893	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Belt of Virtue	Chaosreaper	Stored	2919	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Belt of Concordance	Chaosreaper	Stored	2920	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Veil of the Fallen Spirit	Felerando	Stored	40121	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Bracelet of Quiescence	Chaosreaper	Stored	12806	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Saprophyte Eye	Waerian	Stored	19826	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Bracelet of Distortion	Chaosreaper	Stored	12803	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Chestplate of Vindication	Chaosreaper	Stored	25044	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Saprophyte Eye	Waerian	Stored	19826	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Breastplate of Eradication	Chaosreaper	Stored	25206	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Emerald Dragonscale Tunic	Ellandros	Stored	11635	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Bow of the Huntsman	Naraew	Stored	25033	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Velium War Mask	Sethgare	Stored	31204	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Weight of the Gods	Chaosreaper	Stored	2924	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Golden Efreeti Boots	Chaosreaper	Stored	4407	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Bow of the Huntsman	Naraew	Stored	25033	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Netted Kelp Gloves	Talarion	Stored	31509	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Netted Kelp Lined Shoes	Talarion	Stored	31511	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Netted Kelp Sash	Talarion	Stored	31506	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Mask of War	Talarion	Stored	25024	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Netted Kelp Pantaloons	Talarion	Stored	31510	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Giant Woven Vest	Talarion	Stored	30113	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Netted Kelp Sleeves	Talarion	Stored	31507	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Netted Kelp Veil	Talarion	Stored	31501	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Netted Kelp Tunic	Talarion	Stored	31503	1
@@ -922,46 +920,130 @@ Plot	Chivalry Village, 109 Vanward Street, Three Room House	Netted Kelp Choker	T
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Netted Kelp Bracelet	Talarion	Stored	31508	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Netted Kelp Bracelet	Talarion	Stored	31508	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Netted Kelp Amice	Talarion	Stored	31504	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Glimmering Mithril Torque	Alandross	Stored	25020	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Snow Storm Mask	Kaalix	Stored	25571	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Emerald Dragonscale Tunic	Kaalix	Stored	11635	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Opal Encrusted Stein	Alandross	Stored	9689	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Blood Weave Amice	Kaalix	Stored	7585	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Earring of Everfount	Felerando	Stored	5746	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Darkwar Mask	Felerando	Stored	2190	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Glowing Black Sword	Naraew	Stored	20657	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Belt of the Pine	Felerando	Stored	2916	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Netted Kelp Choker	Alandross	Stored	31502	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Belt of Contention	Felerando	Stored	2921	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Spined Seahorse Hide Breastplate	Alandross	Stored	24742	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Bracelet of Quiescence	Felerando	Stored	12806	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Thunder Etched Gauntlets	Felerando	Stored	31206	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Netted Kelp Amice	Alandross	Stored	31504	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Tolapumj's Robe	Felerando	Stored	1624	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Seahorse Spine Bracelet	Alandross	Stored	24739	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Belt of Transience	Felerando	Stored	2922	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Belt of Iniquity	Felerando	Stored	2918	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Belt of Concordance	Felerando	Stored	2920	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	White Bear Pelt Cloak	Naraew	Stored	31201	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Belt of Virtue	Felerando	Stored	2919	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	White Bear Pelt Cloak	Naraew	Stored	31201	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Blood Ember Helm	Sethgare	Stored	4522	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Blood Ember Greaves	Sethgare	Stored	4527	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Blood Ember Vambraces	Sethgare	Stored	4524	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Coldain Skin Gloves	Waerian	Stored	25026	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Barbed Dragonscale Pauldrons	Waerian	Stored	25028	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Gauntlets of the Black	Waerian	Stored	30142	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Runed Walrus Hide Cloak	Alandross	Stored	24751	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Emerald Dragonscale Tunic	Waerian	Stored	11635	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Umbral Platemail Helm	Zhekk	Stored	4841	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Blood Runed Greaves	Zhekk	Stored	25321	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Darkplate Greaves	Zhekk	Stored	3175	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Siren Skin Sleeves	Alandross	Stored	24754	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Netted Kelp Tunic	Zhekk	Stored	31503	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Shadow Rage Boots	Zhekk	Stored	55607	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Velium Encrusted Gauntlets	Zhekk	Stored	25201	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Flayed Barbarian Skin Leggings	Naraew	Stored	25212	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Flayed Barbarian Skin Leggings	Felerando	Stored	25212	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Steel Wristband of Strategy	Felerando	Stored	25036	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Coldain Skin Gloves	Necrall	Stored	25026	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Coldain Skin Gloves	Necrall	Stored	25026	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Crown of the Kromzek Kings	Necrall	Stored	25194	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Ring of Lightning	Necrall	Stored	25198	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Kallis' Head	Kaalix	Stored	31420	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Flayed Barbarian Skin Leggings	Necrall	Stored	25212	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Ring of Winter	Chaosreaper	Stored	30506	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Royal Velium Frosted Bracer	Chaosreaper	Stored	25853	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Royal Velium Frosted Greaves	Chaosreaper	Stored	25855	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Incandescent Bracer	Chaosreaper	Stored	1328	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Bloodshrine Necklace	Chaosreaper	Stored	29676	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Worked Dragonhorn Boots	Chaosreaper	Stored	27109	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Boots of the Huntsman	Chaosreaper	Stored	30513	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Cloak of Flames	Chaosreaper	Stored	11621	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Glati's Talisman	Chaosreaper	Stored	27232	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Heavy Dragonleg Breeches	Chaosreaper	Stored	27130	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Ornate Velium Pendant	Chaosreaper	Stored	30297	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Heavy Dragonhorn Boots	Chaosreaper	Stored	27131	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Heavy Dragonhide Gauntlets	Chaosreaper	Stored	27132	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Worked Dragonleg Breeches	Chaosreaper	Stored	27108	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Entariz's Talisman	Chaosreaper	Stored	27250	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Hechaeva's Talisman	Chaosreaper	Stored	27209	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Jen Sapara's Talisman	Chaosreaper	Stored	27246	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Gafala's Talisman	Chaosreaper	Stored	27208	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Yeldema's Talisman	Chaosreaper	Stored	27211	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Heavy Dragonskin Mask	Chaosreaper	Stored	27136	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Worked Dragonhorn Bracers	Chaosreaper	Stored	27111	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Ayillish's Talisman	Chaosreaper	Stored	27249	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Worked Dragonskull Helm	Chaosreaper	Stored	27113	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Eyepatch of the Shadows	Altarion	Stored	25031	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Rubicite Breastplate	Altarion	Stored	4164	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Tolan's Darkwood Helm	Altarion	Stored	4536	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Tolan's Darkwood Vambraces	Altarion	Stored	4538	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Tolan's Darkwood Boots	Altarion	Stored	4542	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Mithril Greaves	Altarion	Stored	4412	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Mithril Vambraces	Altarion	Stored	4411	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Ceremonial Iksar Chestplate	Altarion	Stored	4583	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Flowing Black Silk Sash	Altarion	Stored	1365	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Spider Fur Cloak	Altarion	Stored	25293	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Bracelet of Fortitude	Altarion	Stored	7942	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Mithril Gauntlets	Altarion	Stored	1100	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Celestial Essence Robe	Felerando	Stored	29333	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Mask of the Dragon Slayer	Felerando	Stored	29319	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Yelinak's Talisman	Felerando	Stored	27266	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	White Dragonscale Boots	Necrall	Stored	29645	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Electrum Trio Earring	Altereon	Stored	37656	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Electrum Trio Earring	Altereon	Stored	37656	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Electrum Trio Earring	Altereon	Stored	37656	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Electrum Trio Earring	Altereon	Stored	37656	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Electrum Trio Ring	Altereon	Stored	37650	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Electrum Trio Ring	Altereon	Stored	37650	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Electrum Trio Ring	Altereon	Stored	37650	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Electrum Trio Ring	Altereon	Stored	37650	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Electrum Trio Ring	Altereon	Stored	37650	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Electrum Trio Earring	Altereon	Stored	37656	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Sontalak's Talisman	Talarion	Stored	27256	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Ancient Wyvern Hide Tunic	Talarion	Stored	31385	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Cloak of the Maelstrom	Zhekk	Stored	25023	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Netted Kelp Veil	Zhekk	Stored	31501	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Cloak of Fading Hues	Lizardzilla	Stored	19726	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Cloak of Scales	Lizardzilla	Stored	1546	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Brewer's Mesh Cloak	Chaosreaper	Stored	1535	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Bracelet of Comprehension	Chaosreaper	Stored	7940	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Chetari Bonecrafted Shield	Alandross	Stored	26002	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Eyepatch of the Shadows	Waerian	Stored	25031	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Vermilion Robe of Torrefaction	Kaalix	Stored	25094	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Spider Fur Belt	Talarion	Stored	25294	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Coldain Skin Gloves	Talarion	Stored	25026	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Ancient Seahorse Hide Cloak	Talarion	Stored	24736	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Velketor's Spell Book	Alandross	Stored	1117	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Reinforced Dragonhorn Bracers	Talarion	Stored	27122	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Deepwater Bracer	Spiriouso	Stored	4546	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Velium Nihilite Pendant	Sethgare	Stored	62503	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Snowstorm Greatstaff Ornamentation	Sethgare	Stored	57468	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Eyepatch of the Shadows	Sethgare	Stored	25031	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Mask of War	Talarion	Stored	25024	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Mask of War	Talarion	Stored	25024	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Kylong Shinguards	Felerando	Stored	65543	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Helm of Rile	Felerando	Stored	4578	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Ikaav Chaos Cloak	Felerando	Stored	79893	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Veil of the Fallen Spirit	Felerando	Stored	40121	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Emerald Dragonscale Tunic	Ellandros	Stored	11635	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Mask of War	Talarion	Stored	25024	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Giant Woven Vest	Talarion	Stored	30113	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Glimmering Mithril Torque	Alandross	Stored	25020	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Opal Encrusted Stein	Alandross	Stored	9689	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Netted Kelp Choker	Alandross	Stored	31502	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Spined Seahorse Hide Breastplate	Alandross	Stored	24742	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Netted Kelp Amice	Alandross	Stored	31504	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Seahorse Spine Bracelet	Alandross	Stored	24739	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Runed Walrus Hide Cloak	Alandross	Stored	24751	1
+Plot	Chivalry Village, 109 Vanward Street, Three Room House	Siren Skin Sleeves	Alandross	Stored	24754	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Silverwing Cloak	Alandross	Stored	79639	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Spider Fur Cloak	Alandross	Stored	25293	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Spider Fur Collar	Alandross	Stored	25295	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Kallis' Head	Kaalix	Stored	31420	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Kobold Bone Gauntlets	Alandross	Stored	25576	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Dragonhide Belt	Chaosreaper	Stored	25049	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Zraxthril's Studded Earring	Chaosreaper	Stored	79889	1
@@ -973,7 +1055,6 @@ Plot	Chivalry Village, 109 Vanward Street, Three Room House	Jaundiced Bone Helm	
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Jaundiced Bone Gauntlets	Chaosreaper	Stored	4533	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Robe of the Oracle	Chaosreaper	Stored	1354	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Enameled Black Chestplate	Chaosreaper	Stored	4403	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Sleeves of the Kelpmaidens	Alandross	Stored	24730	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Kobold Jester's Crown	Waerian	Stored	25586	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Barbed Ringmail	Ratek	Stored	25331	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Black Ice Leggings	Ratek	Stored	25549	1
@@ -981,14 +1062,11 @@ Plot	Chivalry Village, 109 Vanward Street, Three Room House	Eyepatch of the Shad
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	True Mithril Breastplate	Sethgare	Stored	31414	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Shrouded Medallion	Alandross	Stored	32318	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Journeyman's Boots	Nuldaan	Stored	2300	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Hotof's Bracer	Alandross	Stored	1541	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Deep Cavern Steel Greaves	Waerian	Stored	65947	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Bracelet of Beauty	Waerian	Stored	7943	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Sarnak Bracer of Honor	Waerian	Stored	11917	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Bone Mask of the Jarsath	Waerian	Stored	4313	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Chetari Bonecrafted Shield	Alandross	Stored	26002	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Opalline Earring	Waerian	Stored	10407	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Eyepatch of the Shadows	Waerian	Stored	25031	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Imbrued Platemail Greaves	Naraew	Stored	4866	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Shiverback-Hide Leggings	Naraew	Stored	1205	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Silvery Mask	Talarion	Stored	25077	1
@@ -1001,7 +1079,6 @@ Plot	Chivalry Village, 109 Vanward Street, Three Room House	Auburn Hero's Forge 
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Viridian Hero's Forge Leather Hands Ornament	Alandross	Stored	87851	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Sylvan Plate Wrist Ornament	Alandross	Stored	87691	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Purple Skull Wizard Hat Ornament	Alandross	Stored	85429	1
-Plot	Chivalry Village, 109 Vanward Street, Three Room House	Vermilion Robe of Torrefaction	Kaalix	Stored	25094	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Beryl Wizard Hat Ornament	Alandross	Stored	85437	1
 Plot	Chivalry Village, 109 Vanward Street, Three Room House	Enameled Black Vambraces	Waerian	Stored	41424	1
 Inventory	Crate of Eviction, Alandross	Guild Loom	Alandross	Stored	66622	1

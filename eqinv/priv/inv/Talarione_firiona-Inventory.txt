@@ -1,0 +1,212 @@
+Location	Name	ID	Count	Slots
+Charm	Flawed Defiant Charm	60561	1	6
+Charm-Slot1	Empty	0	0	0
+Ear	Flawed Adept's Earring	60538	1	6
+Ear-Slot1	Empty	0	0	0
+Head	Flawed Defiant Silk Cap	60524	1	6
+Head-Slot1	Empty	0	0	0
+Head-Slot2	Empty	0	0	0
+Head-Slot3	Empty	0	0	0
+Face	Flawed Adept's Facemask	60540	1	6
+Face-Slot1	Empty	0	0	0
+Ear	Flawed Adept's Ear Loop	60539	1	6
+Ear-Slot1	Empty	0	0	0
+Neck	Flawed Adept's Necklace	60541	1	6
+Neck-Slot1	Empty	0	0	0
+Shoulders	Flawed Adept's Shoulderpads	60542	1	6
+Shoulders-Slot1	Empty	0	0	0
+Arms	Flawed Defiant Silk Sleeves	60525	1	6
+Arms-Slot1	Empty	0	0	0
+Arms-Slot2	Empty	0	0	0
+Arms-Slot3	Empty	0	0	0
+Back	Flawed Adept's Cape	60543	1	6
+Back-Slot1	Empty	0	0	0
+Wrist	Flawed Defiant Silk Wristwrap	60521	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Wrist-Slot3	Empty	0	0	0
+Wrist	Flawed Defiant Silk Wristwrap	60521	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Wrist-Slot3	Empty	0	0	0
+Range	Flawed Adept's Rake	60544	1	6
+Range-Slot1	Empty	0	0	0
+Hands	Flawed Defiant Silk Gloves	60522	1	6
+Hands-Slot1	Empty	0	0	0
+Hands-Slot2	Empty	0	0	0
+Hands-Slot3	Empty	0	0	0
+Primary	Flawed Defiant Dagger	60553	1	6
+Primary-Slot1	Empty	0	0	0
+Primary-Slot2	Empty	0	0	0
+Secondary	Flawed Defiant Carapace	60560	1	6
+Secondary-Slot1	Empty	0	0	0
+Secondary-Slot2	Empty	0	0	0
+Fingers	Flawed Adept's Ring	60545	1	6
+Fingers-Slot1	Empty	0	0	0
+Fingers	Flawed Adept's Band	60546	1	6
+Fingers-Slot1	Empty	0	0	0
+Chest	Flawed Defiant Silk Robe	60527	1	6
+Chest-Slot1	Empty	0	0	0
+Chest-Slot2	Empty	0	0	0
+Chest-Slot3	Empty	0	0	0
+Legs	Flawed Defiant Silk Pantaloons	60526	1	6
+Legs-Slot1	Empty	0	0	0
+Legs-Slot2	Empty	0	0	0
+Legs-Slot3	Empty	0	0	0
+Feet	Flawed Defiant Silk Sandals	60523	1	6
+Feet-Slot1	Empty	0	0	0
+Feet-Slot2	Empty	0	0	0
+Feet-Slot3	Empty	0	0	0
+Waist	Flawed Adept's Belt	60547	1	6
+Waist-Slot1	Empty	0	0	0
+Power Source	Empty	0	0	0
+Ammo	Empty	0	0	0
+General 1	Backpack*	32601	1	8
+General 1-Slot1	Bread Cakes*	9991	20	6
+General 1-Slot2	Skin of Milk	9990	20	6
+General 1-Slot3	Flawed Defiant Mace	60549	1	6
+General 1-Slot3-Slot1	Empty	0	0	0
+General 1-Slot3-Slot2	Empty	0	0	0
+General 1-Slot4	Empty	0	0	0
+General 1-Slot5	Empty	0	0	0
+General 1-Slot6	Empty	0	0	0
+General 1-Slot7	Empty	0	0	0
+General 1-Slot8	Empty	0	0	0
+General 2	Tattered Note	18758	1	6
+General 3	Backpack*	32601	1	8
+General 3-Slot1	Backpack*	32601	1	8
+General 3-Slot1-Slot1	Empty	0	0	0
+General 3-Slot1-Slot2	Empty	0	0	0
+General 3-Slot1-Slot3	Empty	0	0	0
+General 3-Slot1-Slot4	Empty	0	0	0
+General 3-Slot1-Slot5	Empty	0	0	0
+General 3-Slot1-Slot6	Empty	0	0	0
+General 3-Slot1-Slot7	Empty	0	0	0
+General 3-Slot1-Slot8	Empty	0	0	0
+General 3-Slot2	Empty	0	0	0
+General 3-Slot3	Empty	0	0	0
+General 3-Slot4	Empty	0	0	0
+General 3-Slot5	Empty	0	0	0
+General 3-Slot6	Empty	0	0	0
+General 3-Slot7	Empty	0	0	0
+General 3-Slot8	Empty	0	0	0
+General 4	Empty	0	0	0
+General 5	Empty	0	0	0
+General 6	Empty	0	0	0
+General 7	Empty	0	0	0
+General 8	Empty	0	0	0
+General 9	Empty	0	0	0
+General 10	Empty	0	0	0
+Held	Empty	0	0	0
+Bank1	Backpack*	32601	1	8
+Bank1-Slot1	Empty	0	0	0
+Bank1-Slot2	Empty	0	0	0
+Bank1-Slot3	Empty	0	0	0
+Bank1-Slot4	Empty	0	0	0
+Bank1-Slot5	Empty	0	0	0
+Bank1-Slot6	Empty	0	0	0
+Bank1-Slot7	Empty	0	0	0
+Bank1-Slot8	Empty	0	0	0
+Bank2	Backpack*	32601	1	8
+Bank2-Slot1	Empty	0	0	0
+Bank2-Slot2	Empty	0	0	0
+Bank2-Slot3	Empty	0	0	0
+Bank2-Slot4	Empty	0	0	0
+Bank2-Slot5	Empty	0	0	0
+Bank2-Slot6	Empty	0	0	0
+Bank2-Slot7	Empty	0	0	0
+Bank2-Slot8	Empty	0	0	0
+Bank3	Backpack*	32601	1	8
+Bank3-Slot1	Empty	0	0	0
+Bank3-Slot2	Empty	0	0	0
+Bank3-Slot3	Empty	0	0	0
+Bank3-Slot4	Empty	0	0	0
+Bank3-Slot5	Empty	0	0	0
+Bank3-Slot6	Empty	0	0	0
+Bank3-Slot7	Empty	0	0	0
+Bank3-Slot8	Empty	0	0	0
+Bank4	Backpack*	32601	1	8
+Bank4-Slot1	Empty	0	0	0
+Bank4-Slot2	Empty	0	0	0
+Bank4-Slot3	Empty	0	0	0
+Bank4-Slot4	Empty	0	0	0
+Bank4-Slot5	Empty	0	0	0
+Bank4-Slot6	Empty	0	0	0
+Bank4-Slot7	Empty	0	0	0
+Bank4-Slot8	Empty	0	0	0
+Bank5	Empty	0	0	0
+Bank6	Empty	0	0	0
+Bank7	Empty	0	0	0
+Bank8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+Bank17	Empty	0	0	0
+Bank18	Empty	0	0	0
+Bank19	Empty	0	0	0
+Bank20	Empty	0	0	0
+Bank21	Empty	0	0	0
+Bank22	Empty	0	0	0
+Bank23	Empty	0	0	0
+Bank24	Empty	0	0	0
+SharedBank1	Trader's Satchel	17899	1	10
+SharedBank1-Slot1	Venomous Raptor Saddle	60944	1	6
+SharedBank1-Slot2	Snowstorm Bow Ornamentation	57473	1	1
+SharedBank1-Slot2-Slot1	Empty	0	0	0
+SharedBank1-Slot3	Jade Reaver	5664	1	6
+SharedBank1-Slot3-Slot1	Empty	0	0	0
+SharedBank1-Slot3-Slot2	Empty	0	0	0
+SharedBank1-Slot4	Empty	0	0	0
+SharedBank1-Slot5	Bracelet of Comprehension	7940	1	6
+SharedBank1-Slot5-Slot1	Empty	0	0	0
+SharedBank1-Slot5-Slot2	Empty	0	0	0
+SharedBank1-Slot6	Fabled Obsidian Battle Sword	42904	1	6
+SharedBank1-Slot6-Slot1	Empty	0	0	0
+SharedBank1-Slot6-Slot2	Empty	0	0	0
+SharedBank1-Slot7	Divine Hammer of Consternation	26554	1	6
+SharedBank1-Slot7-Slot1	Empty	0	0	0
+SharedBank1-Slot7-Slot2	Empty	0	0	0
+SharedBank1-Slot8	Brewer's Mesh Cloak	1535	1	6
+SharedBank1-Slot8-Slot1	Empty	0	0	0
+SharedBank1-Slot9	Prize: Crystalline Shield Nimbus	101992	1	6
+SharedBank1-Slot10	Prize: Spore Curer Bait	101986	1	6
+SharedBank2	Trader's Satchel	17899	1	10
+SharedBank2-Slot1	Empty	0	0	0
+SharedBank2-Slot2	Empty	0	0	0
+SharedBank2-Slot3	Empty	0	0	0
+SharedBank2-Slot4	Empty	0	0	0
+SharedBank2-Slot5	Empty	0	0	0
+SharedBank2-Slot6	Empty	0	0	0
+SharedBank2-Slot7	Empty	0	0	0
+SharedBank2-Slot8	Empty	0	0	0
+SharedBank2-Slot9	Empty	0	0	0
+SharedBank2-Slot10	Empty	0	0	0
+SharedBank3	Trader's Satchel	17899	1	10
+SharedBank3-Slot1	Empty	0	0	0
+SharedBank3-Slot2	Empty	0	0	0
+SharedBank3-Slot3	Empty	0	0	0
+SharedBank3-Slot4	Empty	0	0	0
+SharedBank3-Slot5	Empty	0	0	0
+SharedBank3-Slot6	Empty	0	0	0
+SharedBank3-Slot7	Empty	0	0	0
+SharedBank3-Slot8	Empty	0	0	0
+SharedBank3-Slot9	Empty	0	0	0
+SharedBank3-Slot10	Empty	0	0	0
+SharedBank4	Trader's Satchel	17899	1	10
+SharedBank4-Slot1	Empty	0	0	0
+SharedBank4-Slot2	Empty	0	0	0
+SharedBank4-Slot3	Empty	0	0	0
+SharedBank4-Slot4	Empty	0	0	0
+SharedBank4-Slot5	Empty	0	0	0
+SharedBank4-Slot6	Empty	0	0	0
+SharedBank4-Slot7	Empty	0	0	0
+SharedBank4-Slot8	Empty	0	0	0
+SharedBank4-Slot9	Empty	0	0	0
+SharedBank4-Slot10	Empty	0	0	0
+SharedBank5	Empty	0	0	0
+SharedBank6	Empty	0	0	0

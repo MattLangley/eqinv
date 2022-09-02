@@ -1,0 +1,196 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Empty	0	0	0
+Head	Mrylokar's Helm	4550	1	6
+Head-Slot1	Empty	0	0	0
+Head-Slot2	Empty	0	0	0
+Face	Eyepatch of the Shadows	25031	1	6
+Face-Slot1	Empty	0	0	0
+Ear	Empty	0	0	0
+Neck	Sontalak's Talisman	27256	1	6
+Neck-Slot1	Empty	0	0	0
+Shoulders	Empty	0	0	0
+Arms	Dark Scale Sleeves	5703	1	6
+Arms-Slot1	Empty	0	0	0
+Arms-Slot2	Empty	0	0	0
+Back	Dire Wolf-Hide Cloak	25019	1	6
+Back-Slot1	Empty	0	0	0
+Wrist	Barbed Ringmail Bracer	25338	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Wrist	Bracelet of Might	7939	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Range	Gloomingdeep Lantern	9979	1	6
+Range-Slot1	Empty	0	0	0
+Hands	Crystal Chitin Gauntlets	25290	1	6
+Hands-Slot1	Empty	0	0	0
+Hands-Slot2	Empty	0	0	0
+Primary	Ikatiar's Stinger	31392	1	6
+Primary-Slot1	Meleen's Dagger Ornament	67896	1	6
+Primary-Slot2	Empty	0	0	0
+Secondary	Empty	0	0	0
+Fingers	Empty	0	0	0
+Fingers	Empty	0	0	0
+Chest	Mrylokar's Breastplate	4551	1	6
+Chest-Slot1	Empty	0	0	0
+Chest-Slot2	Empty	0	0	0
+Legs	Barbed Ringmail Leggings	25333	1	6
+Legs-Slot1	Empty	0	0	0
+Legs-Slot2	Empty	0	0	0
+Feet	Ancient Wyvern Hide Boots	31388	1	6
+Feet-Slot1	Empty	0	0	0
+Feet-Slot2	Empty	0	0	0
+Waist	Empty	0	0	0
+Power Source	Empty	0	0	0
+Ammo	Meleen's Horse Saddle	67891	1	6
+General 1	Backpack*	32601	1	8
+General 1-Slot1	Bread Cakes*	9991	19	6
+General 1-Slot2	Skin of Milk	9990	19	6
+General 1-Slot3	Empty	0	0	0
+General 1-Slot4	Empty	0	0	0
+General 1-Slot5	Bandages*	21779	20	6
+General 1-Slot6	Empty	0	0	0
+General 1-Slot7	Empty	0	0	0
+General 1-Slot8	Empty	0	0	0
+General 2	Backpack*	32601	1	8
+General 2-Slot1	Empty	0	0	0
+General 2-Slot2	Empty	0	0	0
+General 2-Slot3	Blood Point	7249	1	6
+General 2-Slot3-Slot1	Empty	0	0	0
+General 2-Slot3-Slot2	Empty	0	0	0
+General 2-Slot4	Empty	0	0	0
+General 2-Slot5	Empty	0	0	0
+General 2-Slot6	Empty	0	0	0
+General 2-Slot7	Empty	0	0	0
+General 2-Slot8	Empty	0	0	0
+General 3	Trader's Satchel	17899	1	10
+General 3-Slot1	Empty	0	0	0
+General 3-Slot2	Empty	0	0	0
+General 3-Slot3	Empty	0	0	0
+General 3-Slot4	Empty	0	0	0
+General 3-Slot5	Empty	0	0	0
+General 3-Slot6	Empty	0	0	0
+General 3-Slot7	Empty	0	0	0
+General 3-Slot8	Empty	0	0	0
+General 3-Slot9	Empty	0	0	0
+General 3-Slot10	Empty	0	0	0
+General 4	Trader's Satchel	17899	1	10
+General 4-Slot1	Empty	0	0	0
+General 4-Slot2	Empty	0	0	0
+General 4-Slot3	Empty	0	0	0
+General 4-Slot4	Empty	0	0	0
+General 4-Slot5	Empty	0	0	0
+General 4-Slot6	Empty	0	0	0
+General 4-Slot7	Empty	0	0	0
+General 4-Slot8	Empty	0	0	0
+General 4-Slot9	Empty	0	0	0
+General 4-Slot10	Empty	0	0	0
+General 5	Rhinohide Backpack	17989	1	8
+General 5-Slot1	Empty	0	0	0
+General 5-Slot2	Empty	0	0	0
+General 5-Slot3	Empty	0	0	0
+General 5-Slot4	Empty	0	0	0
+General 5-Slot5	Empty	0	0	0
+General 5-Slot6	Empty	0	0	0
+General 5-Slot7	Empty	0	0	0
+General 5-Slot8	Empty	0	0	0
+General 6	Hand Made Backpack	17969	1	10
+General 6-Slot1	Empty	0	0	0
+General 6-Slot2	Empty	0	0	0
+General 6-Slot3	Empty	0	0	0
+General 6-Slot4	Empty	0	0	0
+General 6-Slot5	Empty	0	0	0
+General 6-Slot6	Empty	0	0	0
+General 6-Slot7	Empty	0	0	0
+General 6-Slot8	Empty	0	0	0
+General 6-Slot9	Empty	0	0	0
+General 6-Slot10	Empty	0	0	0
+General 7	Xiox's Stinging Tentacle	19723	1	6
+General 7-Slot1	Empty	0	0	0
+General 7-Slot2	Empty	0	0	0
+General 8	Bat Wing	13068	2	6
+General 9	Empty	0	0	0
+General 10	Mask of Deception	2472	1	6
+General 10-Slot1	Empty	0	0	0
+Held	Empty	0	0	0
+Bank1	Empty	0	0	0
+Bank2	Empty	0	0	0
+Bank3	Empty	0	0	0
+Bank4	Empty	0	0	0
+Bank5	Empty	0	0	0
+Bank6	Empty	0	0	0
+Bank7	Empty	0	0	0
+Bank8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+Bank17	Empty	0	0	0
+Bank18	Empty	0	0	0
+Bank19	Empty	0	0	0
+Bank20	Empty	0	0	0
+Bank21	Empty	0	0	0
+Bank22	Empty	0	0	0
+Bank23	Empty	0	0	0
+Bank24	Empty	0	0	0
+SharedBank1	Trader's Satchel	17899	1	10
+SharedBank1-Slot1	Venomous Raptor Saddle	60944	1	6
+SharedBank1-Slot2	Snowstorm Bow Ornamentation	57473	1	1
+SharedBank1-Slot2-Slot1	Empty	0	0	0
+SharedBank1-Slot3	Jade Reaver	5664	1	6
+SharedBank1-Slot3-Slot1	Empty	0	0	0
+SharedBank1-Slot3-Slot2	Empty	0	0	0
+SharedBank1-Slot4	Empty	0	0	0
+SharedBank1-Slot5	Bracelet of Comprehension	7940	1	6
+SharedBank1-Slot5-Slot1	Empty	0	0	0
+SharedBank1-Slot5-Slot2	Empty	0	0	0
+SharedBank1-Slot6	Fabled Obsidian Battle Sword	42904	1	6
+SharedBank1-Slot6-Slot1	Empty	0	0	0
+SharedBank1-Slot6-Slot2	Empty	0	0	0
+SharedBank1-Slot7	Divine Hammer of Consternation	26554	1	6
+SharedBank1-Slot7-Slot1	Empty	0	0	0
+SharedBank1-Slot7-Slot2	Empty	0	0	0
+SharedBank1-Slot8	Brewer's Mesh Cloak	1535	1	6
+SharedBank1-Slot8-Slot1	Empty	0	0	0
+SharedBank1-Slot9	Prize: Crystalline Shield Nimbus	101992	1	6
+SharedBank1-Slot10	Prize: Spore Curer Bait	101986	1	6
+SharedBank2	Trader's Satchel	17899	1	10
+SharedBank2-Slot1	Empty	0	0	0
+SharedBank2-Slot2	Empty	0	0	0
+SharedBank2-Slot3	Empty	0	0	0
+SharedBank2-Slot4	Empty	0	0	0
+SharedBank2-Slot5	Empty	0	0	0
+SharedBank2-Slot6	Empty	0	0	0
+SharedBank2-Slot7	Empty	0	0	0
+SharedBank2-Slot8	Empty	0	0	0
+SharedBank2-Slot9	Empty	0	0	0
+SharedBank2-Slot10	Empty	0	0	0
+SharedBank3	Trader's Satchel	17899	1	10
+SharedBank3-Slot1	Empty	0	0	0
+SharedBank3-Slot2	Empty	0	0	0
+SharedBank3-Slot3	Empty	0	0	0
+SharedBank3-Slot4	Empty	0	0	0
+SharedBank3-Slot5	Empty	0	0	0
+SharedBank3-Slot6	Empty	0	0	0
+SharedBank3-Slot7	Empty	0	0	0
+SharedBank3-Slot8	Empty	0	0	0
+SharedBank3-Slot9	Empty	0	0	0
+SharedBank3-Slot10	Empty	0	0	0
+SharedBank4	Trader's Satchel	17899	1	10
+SharedBank4-Slot1	Empty	0	0	0
+SharedBank4-Slot2	Empty	0	0	0
+SharedBank4-Slot3	Empty	0	0	0
+SharedBank4-Slot4	Empty	0	0	0
+SharedBank4-Slot5	Empty	0	0	0
+SharedBank4-Slot6	Empty	0	0	0
+SharedBank4-Slot7	Empty	0	0	0
+SharedBank4-Slot8	Empty	0	0	0
+SharedBank4-Slot9	Empty	0	0	0
+SharedBank4-Slot10	Empty	0	0	0
+SharedBank5	Empty	0	0	0
+SharedBank6	Empty	0	0	0

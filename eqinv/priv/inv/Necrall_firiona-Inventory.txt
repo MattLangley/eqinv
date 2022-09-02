@@ -1,0 +1,191 @@
+Location	Name	ID	Count	Slots
+Charm	Heroic Seal of the Adventurer	93849	1	6
+Charm-Slot1	Empty	0	0	0
+Charm-Slot2	Empty	0	0	0
+Ear	Heroic Earring of the Summoner	93828	1	6
+Ear-Slot1	Empty	0	0	0
+Ear-Slot2	Empty	0	0	0
+Head	Heroic Soulreaper Cap	93778	1	6
+Head-Slot1	Empty	0	0	0
+Head-Slot2	Empty	0	0	0
+Face	Heroic Mask of the Agile	93830	1	6
+Face-Slot1	Empty	0	0	0
+Face-Slot2	Empty	0	0	0
+Ear	Heroic Earring of the Adept	93826	1	6
+Ear-Slot1	Empty	0	0	0
+Ear-Slot2	Empty	0	0	0
+Neck	Heroic Gorget of the Adept	93833	1	6
+Neck-Slot1	Empty	0	0	0
+Neck-Slot2	Empty	0	0	0
+Shoulders	Heroic Shoulders of the Agile	93836	1	6
+Shoulders-Slot1	Empty	0	0	0
+Shoulders-Slot2	Empty	0	0	0
+Arms	Heroic Soulreaper Sleeves	93779	1	6
+Arms-Slot1	Empty	0	0	0
+Arms-Slot2	Empty	0	0	0
+Back	Heroic Cloak of the Adept	93838	1	6
+Back-Slot1	Empty	0	0	0
+Back-Slot2	Empty	0	0	0
+Wrist	Heroic Soulreaper Wristguard	93775	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Wrist	Heroic Soulreaper Wristband	93819	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Range	Heroic Rod of the Adept	93842	1	6
+Range-Slot1	Empty	0	0	0
+Range-Slot2	Empty	0	0	0
+Hands	Heroic Soulreaper Gloves	93776	1	6
+Hands-Slot1	Empty	0	0	0
+Hands-Slot2	Empty	0	0	0
+Primary	Heroic Darkdreamer's Rod	93855	1	6
+Primary-Slot1	Empty	0	0	0
+Primary-Slot2	Empty	0	0	0
+Secondary	Heroic Guard	93823	1	6
+Secondary-Slot1	Empty	0	0	0
+Secondary-Slot2	Empty	0	0	0
+Secondary-Slot3	Empty	0	0	0
+Fingers	Heroic Ring of the Adept	93845	1	6
+Fingers-Slot1	Empty	0	0	0
+Fingers-Slot2	Empty	0	0	0
+Fingers	Heroic Ring of the Adventurer	93843	1	6
+Fingers-Slot1	Empty	0	0	0
+Fingers-Slot2	Empty	0	0	0
+Chest	Heroic Soulreaper Robe	93781	1	6
+Chest-Slot1	Empty	0	0	0
+Chest-Slot2	Empty	0	0	0
+Chest-Slot3	Empty	0	0	0
+Legs	Heroic Soulreaper Pants	93780	1	6
+Legs-Slot1	Empty	0	0	0
+Legs-Slot2	Empty	0	0	0
+Feet	Heroic Soulreaper Sandals	93777	1	6
+Feet-Slot1	Empty	0	0	0
+Feet-Slot2	Empty	0	0	0
+Waist	Heroic Belt of the Adept	93848	1	6
+Waist-Slot1	Empty	0	0	0
+Waist-Slot2	Empty	0	0	0
+Power Source	Pure Energeian Light Orb	66277	1	6
+Ammo	Jungle Raptor Saddle	93862	1	6
+General 1	Heroic Satchel of the Adventurer	93861	1	24
+General 1-Slot1	Heroic Dream Meat Steaks	93863	19	6
+General 1-Slot2	Shissar Fangs	32531	24	6
+General 1-Slot3	Empty	0	0	0
+General 1-Slot4	Empty	0	0	0
+General 1-Slot5	Empty	0	0	0
+General 1-Slot6	Empty	0	0	0
+General 1-Slot7	Empty	0	0	0
+General 1-Slot8	Empty	0	0	0
+General 1-Slot9	Empty	0	0	0
+General 1-Slot10	Empty	0	0	0
+General 1-Slot11	Empty	0	0	0
+General 1-Slot12	Empty	0	0	0
+General 1-Slot13	Empty	0	0	0
+General 1-Slot14	Empty	0	0	0
+General 1-Slot15	Empty	0	0	0
+General 1-Slot16	Empty	0	0	0
+General 1-Slot17	Empty	0	0	0
+General 1-Slot18	Empty	0	0	0
+General 1-Slot19	Empty	0	0	0
+General 1-Slot20	Empty	0	0	0
+General 1-Slot21	Empty	0	0	0
+General 1-Slot22	Empty	0	0	0
+General 1-Slot23	Empty	0	0	0
+General 1-Slot24	Empty	0	0	0
+General 2	Heroic Satchel of the Adventurer	93861	1	24
+General 2-Slot1	Empty	0	0	0
+General 2-Slot2	Empty	0	0	0
+General 2-Slot3	Empty	0	0	0
+General 2-Slot4	Empty	0	0	0
+General 2-Slot5	Empty	0	0	0
+General 2-Slot6	Empty	0	0	0
+General 2-Slot7	Empty	0	0	0
+General 2-Slot8	Empty	0	0	0
+General 2-Slot9	Empty	0	0	0
+General 2-Slot10	Empty	0	0	0
+General 2-Slot11	Empty	0	0	0
+General 2-Slot12	Empty	0	0	0
+General 2-Slot13	Empty	0	0	0
+General 2-Slot14	Empty	0	0	0
+General 2-Slot15	Empty	0	0	0
+General 2-Slot16	Empty	0	0	0
+General 2-Slot17	Empty	0	0	0
+General 2-Slot18	Empty	0	0	0
+General 2-Slot19	Empty	0	0	0
+General 2-Slot20	Empty	0	0	0
+General 2-Slot21	Key of Swords	20911	1	6
+General 2-Slot22	Efreeti's Key	20919	1	6
+General 2-Slot23	Key of the Misplaced	20912	1	6
+General 2-Slot24	Veeshan's Key	20918	1	6
+General 3	Satchel of Legacies Lost	17527	1	7
+General 3-Slot1	Key of Misfortune	20913	1	6
+General 3-Slot2	Key of Beasts	20914	1	6
+General 3-Slot3	Key of Scale	20917	1	6
+General 3-Slot4	Undead Shissar Venom Sac	32528	4	6
+General 3-Slot5	Orb of Echo Ore	19809	1	6
+General 3-Slot5-Slot1	Empty	0	0	0
+General 3-Slot6	Pearlescent Shard	81115	1	6
+General 3-Slot7	Avian Key	20915	1	6
+General 4	Backpack*	32601	1	8
+General 4-Slot1	Bread Cakes*	9991	8	6
+General 4-Slot2	Skin of Milk	9990	8	6
+General 4-Slot3	Bone Chips	13073	37	6
+General 4-Slot4	Key of the Swarm	20916	1	6
+General 4-Slot5	Bandages*	21779	20	6
+General 4-Slot6	Potion of Adventure	40605	10	6
+General 4-Slot7	Potion of Speed	40682	10	6
+General 4-Slot8	Book of Knowledge	17523	1	6
+General 5	The Blood Agreement	6283	1	6
+General 6	Sealed Pure Energeian Light Orb	66279	5	6
+General 7	Bayle Mark	46779	100	6
+General 8	Giant Warrior Helmet	29062	1	6
+General 8-Slot1	Empty	0	0	0
+General 8-Slot2	Empty	0	0	0
+General 9	Heroic Dream Tea	93864	20	6
+General 10	Empty	0	0	0
+Held	Empty	0	0	0
+Bank1	Backpack*	32601	1	8
+Bank1-Slot1	Empty	0	0	0
+Bank1-Slot2	Empty	0	0	0
+Bank1-Slot3	Empty	0	0	0
+Bank1-Slot4	Empty	0	0	0
+Bank1-Slot5	Empty	0	0	0
+Bank1-Slot6	Empty	0	0	0
+Bank1-Slot7	Empty	0	0	0
+Bank1-Slot8	Empty	0	0	0
+Bank2	Empty	0	0	0
+Bank3	Empty	0	0	0
+Bank4	Empty	0	0	0
+Bank5	Empty	0	0	0
+Bank6	Empty	0	0	0
+Bank7	Empty	0	0	0
+Bank8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+Bank17	Empty	0	0	0
+Bank18	Empty	0	0	0
+Bank19	Empty	0	0	0
+Bank20	Empty	0	0	0
+Bank21	Empty	0	0	0
+Bank22	Empty	0	0	0
+Bank23	Empty	0	0	0
+Bank24	Empty	0	0	0
+SharedBank1	Backpack	17005	1	8
+SharedBank1-Slot1	Empty	0	0	0
+SharedBank1-Slot2	Empty	0	0	0
+SharedBank1-Slot3	Empty	0	0	0
+SharedBank1-Slot4	Empty	0	0	0
+SharedBank1-Slot5	Empty	0	0	0
+SharedBank1-Slot6	Empty	0	0	0
+SharedBank1-Slot7	Empty	0	0	0
+SharedBank1-Slot8	Empty	0	0	0
+SharedBank2	Empty	0	0	0
+SharedBank3	Empty	0	0	0
+SharedBank4	Empty	0	0	0
+SharedBank5	Empty	0	0	0
+SharedBank6	Empty	0	0	0

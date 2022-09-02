@@ -166,3 +166,10 @@ Plot	Chivalry Village, 102 Vanward Street, Three Room House	Sylvan Plate Hands O
 Plot	Chivalry Village, 102 Vanward Street, Three Room House	Beryl Wizard Hat Ornament	Zhekk	Stored	85437	1
 Plot	Chivalry Village, 102 Vanward Street, Three Room House	Beryl Hero's Forge Plate Wrist Ornament	Zhekk	Stored	87894	1
 Plot	Chivalry Village, 102 Vanward Street, Three Room House	Sylvan Leather Wrist Ornament	Zhekk	Stored	87705	1
+Plot	Chivalry Village, 102 Vanward Street, Three Room House	Prize: Spore Curer Bait	Chaosreaper	Stored	101986	1
+Plot	Chivalry Village, 102 Vanward Street, Three Room House	Prize: Crystalline Shield Nimbus	Chaosreaper	Stored	101992	1
+Plot	Chivalry Village, 102 Vanward Street, Three Room House	Prize: Painting: Faithful Odyssey	Chaosreaper	Stored	119845	1
+Plot	Chivalry Village, 102 Vanward Street, Three Room House	Prize: Clicking Beetle	Chaosreaper	Stored	110372	1
+Plot	Chivalry Village, 102 Vanward Street, Three Room House	Prize: Heavy Throwing Dagger	Chaosreaper	Stored	119838	1
+Plot	Chivalry Village, 102 Vanward Street, Three Room House	Prize: Estarim Family Crest	Chaosreaper	Stored	119821	1
+Plot	Chivalry Village, 102 Vanward Street, Three Room House	Prize: Painting: Lord Nagafen	Chaosreaper	Stored	119747	1

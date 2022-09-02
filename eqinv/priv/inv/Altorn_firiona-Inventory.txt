@@ -1,0 +1,146 @@
+Location	Name	ID	Count	Slots
+Charm	Kobold Skull Charm	59943	1	6
+Charm-Slot1	Empty	0	0	0
+Ear	Empty	0	0	0
+Head	Rubicite Helm	4161	1	6
+Head-Slot1	Empty	0	0	0
+Head-Slot2	Empty	0	0	0
+Face	Rubicite Mask	4162	1	6
+Face-Slot1	Empty	0	0	0
+Ear	Empty	0	0	0
+Neck	Yelinak's Talisman	27266	1	6
+Neck-Slot1	Empty	0	0	0
+Shoulders	Barbed Dragonscale Pauldrons	25028	1	6
+Shoulders-Slot1	Empty	0	0	0
+Arms	Rubicite Vambraces	4168	1	6
+Arms-Slot1	Empty	0	0	0
+Arms-Slot2	Empty	0	0	0
+Back	Rubicite Cloak	4166	1	6
+Back-Slot1	Empty	0	0	0
+Wrist	Rubicite Bracers	4169	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Wrist	Rubicite Bracers	4169	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Range	Festive Doll	69229	1	6
+Range-Slot1	Empty	0	0	0
+Hands	Rubicite Gauntlets	4170	1	6
+Hands-Slot1	Empty	0	0	0
+Hands-Slot2	Empty	0	0	0
+Primary	Exquisite Velium Claidhmore	27046	1	6
+Primary-Slot1	Steatite Fragment	54696	1	6
+Primary-Slot2	Empty	0	0	0
+Secondary	Empty	0	0	0
+Fingers	Velium Fire Wedding Ring	30339	1	6
+Fingers-Slot1	Empty	0	0	0
+Fingers	Palladium Fire Opal Ring	45916	1	6
+Fingers-Slot1	Empty	0	0	0
+Chest	Rubicite Breastplate	4164	1	6
+Chest-Slot1	Empty	0	0	0
+Chest-Slot2	Empty	0	0	0
+Legs	Rubicite Greaves	4171	1	6
+Legs-Slot1	Empty	0	0	0
+Legs-Slot2	Empty	0	0	0
+Feet	Boots of the Storm	25197	1	6
+Feet-Slot1	Empty	0	0	0
+Feet-Slot2	Empty	0	0	0
+Waist	Belt of Iniquity	2918	1	6
+Waist-Slot1	Empty	0	0	0
+Power Source	Empty	0	0	0
+Ammo	Glowing Black Drum	59509	1	6
+General 1	Backpack*	32601	1	8
+General 1-Slot1	Empty	0	0	0
+General 1-Slot2	Empty	0	0	0
+General 1-Slot3	Empty	0	0	0
+General 1-Slot4	Empty	0	0	0
+General 1-Slot5	Bandages*	21779	20	6
+General 1-Slot6	Empty	0	0	0
+General 1-Slot7	Empty	0	0	0
+General 1-Slot8	Empty	0	0	0
+General 2	Backpack*	32601	1	8
+General 2-Slot1	Empty	0	0	0
+General 2-Slot2	Empty	0	0	0
+General 2-Slot3	Empty	0	0	0
+General 2-Slot4	Empty	0	0	0
+General 2-Slot5	Potion of Invisibility	14206	1	6
+General 2-Slot6	Empty	0	0	0
+General 2-Slot7	Empty	0	0	0
+General 2-Slot8	Empty	0	0	0
+General 3	Backpack*	32601	1	8
+General 3-Slot1	Palladium Star Ruby Anniversary Ring	45914	1	6
+General 3-Slot1-Slot1	Empty	0	0	0
+General 3-Slot2	Rubicite Collar	4163	1	6
+General 3-Slot2-Slot1	Empty	0	0	0
+General 3-Slot3	Empty	0	0	0
+General 3-Slot4	Empty	0	0	0
+General 3-Slot5	Empty	0	0	0
+General 3-Slot6	Empty	0	0	0
+General 3-Slot7	Water Flask	13006	1	6
+General 3-Slot8	Iron Ration	13005	1	6
+General 4	Backpack*	32601	1	8
+General 4-Slot1	Empty	0	0	0
+General 4-Slot2	Empty	0	0	0
+General 4-Slot3	Shield of the Freezing Winds	25570	1	6
+General 4-Slot3-Slot1	Empty	0	0	0
+General 4-Slot3-Slot2	Empty	0	0	0
+General 4-Slot4	Spell: Bone Walk	15351	1	6
+General 4-Slot5	Spell: Lifespike	15502	1	6
+General 4-Slot6	Spell: Grim Aura	16405	1	6
+General 4-Slot7	Massive Dragonclaw Shard	26013	1	6
+General 4-Slot7-Slot1	Empty	0	0	0
+General 4-Slot7-Slot2	Empty	0	0	0
+General 4-Slot8	Argent Protector	5840	1	6
+General 4-Slot8-Slot1	Empty	0	0	0
+General 4-Slot8-Slot2	Empty	0	0	0
+General 5	Quiver	17008	1	4
+General 5-Slot1	Empty	0	0	0
+General 5-Slot2	Empty	0	0	0
+General 5-Slot3	Empty	0	0	0
+General 5-Slot4	Empty	0	0	0
+General 6	Worn Totem	67080	1	6
+General 7	Gloomingdeep Lantern	9979	1	6
+General 7-Slot1	Empty	0	0	0
+General 8	Amulet of Necropotence	11646	1	6
+General 8-Slot1	Empty	0	0	0
+General 9	Makeshift Binding Powder	36278	1	6
+General 10	Distillate of Celestial Healing II	77780	3	6
+Held	Empty	0	0	0
+Bank1	Empty	0	0	0
+Bank2	Empty	0	0	0
+Bank3	Empty	0	0	0
+Bank4	Empty	0	0	0
+Bank5	Empty	0	0	0
+Bank6	Empty	0	0	0
+Bank7	Empty	0	0	0
+Bank8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+Bank17	Empty	0	0	0
+Bank18	Empty	0	0	0
+Bank19	Empty	0	0	0
+Bank20	Empty	0	0	0
+Bank21	Empty	0	0	0
+Bank22	Empty	0	0	0
+Bank23	Empty	0	0	0
+Bank24	Empty	0	0	0
+SharedBank1	Backpack	17005	1	8
+SharedBank1-Slot1	Empty	0	0	0
+SharedBank1-Slot2	Empty	0	0	0
+SharedBank1-Slot3	Empty	0	0	0
+SharedBank1-Slot4	Empty	0	0	0
+SharedBank1-Slot5	Empty	0	0	0
+SharedBank1-Slot6	Empty	0	0	0
+SharedBank1-Slot7	Empty	0	0	0
+SharedBank1-Slot8	Empty	0	0	0
+SharedBank2	Empty	0	0	0
+SharedBank3	Empty	0	0	0
+SharedBank4	Empty	0	0	0
+SharedBank5	Empty	0	0	0
+SharedBank6	Empty	0	0	0

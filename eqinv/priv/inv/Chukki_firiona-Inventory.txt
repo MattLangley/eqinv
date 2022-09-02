@@ -1,0 +1,228 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Siren Hair Earring	24741	1	6
+Ear-Slot1	Empty	0	0	0
+Head	Shadow Crown	31126	1	6
+Head-Slot1	Empty	0	0	0
+Head-Slot2	Empty	0	0	0
+Face	Flayed Barbarian Hide Mask	25213	1	6
+Face-Slot1	Empty	0	0	0
+Ear	Empty	0	0	0
+Neck	Silver Disk	31347	1	6
+Neck-Slot1	Empty	0	0	0
+Neck-Slot2	Empty	0	0	0
+Shoulders	Barbed Dragonscale Pauldrons	25028	1	6
+Shoulders-Slot1	Empty	0	0	0
+Arms	Shadow Vambraces	31128	1	6
+Arms-Slot1	Empty	0	0	0
+Arms-Slot2	Empty	0	0	0
+Back	Cloak of the Maelstrom	25023	1	6
+Back-Slot1	Empty	0	0	0
+Wrist	Shadow Bracer	31129	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Wrist	Mrylokar's Bracer	4553	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Range	Gloomingdeep Lantern	9979	1	6
+Range-Slot1	Empty	0	0	0
+Hands	Shadow Gauntlets	31130	1	6
+Hands-Slot1	Empty	0	0	0
+Hands-Slot2	Empty	0	0	0
+Primary	Ikatiar's Stinger	31392	1	6
+Primary-Slot1	Piercing Emerald Dragon Ornament	54988	1	6
+Primary-Slot2	Empty	0	0	0
+Secondary	Exquisite Velium Spear	27035	1	6
+Secondary-Slot1	Riftseeker Short Spear Ornament	40725	1	6
+Secondary-Slot2	Empty	0	0	0
+Fingers	Runed Walrus Fang Ring	24743	1	6
+Fingers-Slot1	Empty	0	0	0
+Fingers	Ring of the Frozen Flame	25561	1	6
+Fingers-Slot1	Empty	0	0	0
+Chest	Fungus Covered Scale Tunic	2735	1	6
+Chest-Slot1	Empty	0	0	0
+Legs	Shadow Greaves	31131	1	6
+Legs-Slot1	Empty	0	0	0
+Legs-Slot2	Empty	0	0	0
+Feet	Shadow Boots	31132	1	6
+Feet-Slot1	Empty	0	0	0
+Feet-Slot2	Empty	0	0	0
+Waist	Runed Bolster Belt	11601	1	6
+Waist-Slot1	Empty	0	0	0
+Power Source	Empty	0	0	0
+Ammo	Empty	0	0	0
+General 1	Backpack*	32601	1	8
+General 1-Slot1	Holgresh Elder Beads	24890	1	6
+General 1-Slot1-Slot1	Empty	0	0	0
+General 1-Slot2	Vibrating Gauntlets of Infuse	11668	1	6
+General 1-Slot3	Scimitar of the Mistwalker	11604	1	6
+General 1-Slot3-Slot1	Empty	0	0	0
+General 1-Slot3-Slot2	Empty	0	0	0
+General 1-Slot4	Orb of the Infinite Void	25098	1	6
+General 1-Slot4-Slot1	Empty	0	0	0
+General 1-Slot4-Slot2	Empty	0	0	0
+General 1-Slot5	Guise of the Deceiver	2469	1	6
+General 1-Slot5-Slot1	Empty	0	0	0
+General 1-Slot6	Rubicite Breastplate	4164	1	6
+General 1-Slot6-Slot1	Empty	0	0	0
+General 1-Slot6-Slot2	Empty	0	0	0
+General 1-Slot7	Ton Po's Bo Stick of Understanding	6631	1	6
+General 1-Slot7-Slot1	Empty	0	0	0
+General 1-Slot7-Slot2	Empty	0	0	0
+General 1-Slot8	Fungus Covered Great Staff	10895	1	6
+General 1-Slot8-Slot1	Empty	0	0	0
+General 1-Slot8-Slot2	Empty	0	0	0
+General 2	Tailored Immaculate Backpack	124462	1	10
+General 2-Slot1	Griffon Feathers	16538	1	6
+General 2-Slot2	Grade E Nigriventer Venom	44747	1	6
+General 2-Slot3	Simple Defiant Hammer	50523	1	6
+General 2-Slot3-Slot1	Empty	0	0	0
+General 2-Slot3-Slot2	Empty	0	0	0
+General 2-Slot4	Simple Defiant Spear	50531	1	6
+General 2-Slot4-Slot1	Empty	0	0	0
+General 2-Slot4-Slot2	Empty	0	0	0
+General 2-Slot5	Shiny Brass Halberd	5361	1	6
+General 2-Slot5-Slot1	Empty	0	0	0
+General 2-Slot5-Slot2	Empty	0	0	0
+General 2-Slot6	Simple Defiant Shortsword	50525	1	6
+General 2-Slot6-Slot1	Empty	0	0	0
+General 2-Slot6-Slot2	Empty	0	0	0
+General 2-Slot7	Crude Defiant Chain Boots	50014	1	6
+General 2-Slot7-Slot1	Empty	0	0	0
+General 2-Slot7-Slot2	Empty	0	0	0
+General 2-Slot8	Spiderling Silk	13099	3	6
+General 2-Slot9	Empty	0	0	0
+General 2-Slot10	Empty	0	0	0
+General 3	Tailored Immaculate Backpack	124462	1	10
+General 3-Slot1	Empty	0	0	0
+General 3-Slot2	Mask of Obtenebration	2738	1	6
+General 3-Slot2-Slot1	Empty	0	0	0
+General 3-Slot3	Empty	0	0	0
+General 3-Slot4	Empty	0	0	0
+General 3-Slot5	Distillate of Skinspikes VI	96425	20	6
+General 3-Slot6	Spider Silk	13041	14	6
+General 3-Slot7	Empty	0	0	0
+General 3-Slot8	High Quality Cat Pelt	12086	2	6
+General 3-Slot9	Empty	0	0	0
+General 3-Slot10	Medium Quality Cat Pelt	12085	1	6
+General 4	Small Bag	17003	1	4
+General 4-Slot1	Empty	0	0	0
+General 4-Slot2	Empty	0	0	0
+General 4-Slot3	Empty	0	0	0
+General 4-Slot4	Empty	0	0	0
+General 5	Shadow Chestguard	31127	1	6
+General 5-Slot1	Empty	0	0	0
+General 5-Slot2	Empty	0	0	0
+General 6	Journeyman's Boots	2300	1	6
+General 6-Slot1	Empty	0	0	0
+General 6-Slot2	Empty	0	0	0
+General 7	Backpack*	32601	1	8
+General 7-Slot1	Empty	0	0	0
+General 7-Slot2	Empty	0	0	0
+General 7-Slot3	Eyepatch of the Shadows	25031	1	6
+General 7-Slot3-Slot1	Empty	0	0	0
+General 7-Slot4	Empty	0	0	0
+General 7-Slot5	Bandages*	21779	20	6
+General 7-Slot6	Plague Rat Tail	9131	1	6
+General 7-Slot7	High Quality Bear Skin	13752	1	6
+General 7-Slot8	Empty	0	0	0
+General 8	Backpack*	32601	1	8
+General 8-Slot1	Empty	0	0	0
+General 8-Slot2	Empty	0	0	0
+General 8-Slot3	Empty	0	0	0
+General 8-Slot4	Mrylokar's Dagger of Vengeance	31224	1	6
+General 8-Slot4-Slot1	Empty	0	0	0
+General 8-Slot4-Slot2	Empty	0	0	0
+General 8-Slot5	Empty	0	0	0
+General 8-Slot6	Empty	0	0	0
+General 8-Slot7	Empty	0	0	0
+General 8-Slot8	Empty	0	0	0
+General 9	Large Bag	17004	1	6
+General 9-Slot1	Empty	0	0	0
+General 9-Slot2	Empty	0	0	0
+General 9-Slot3	Empty	0	0	0
+General 9-Slot4	Empty	0	0	0
+General 9-Slot5	Empty	0	0	0
+General 9-Slot6	Empty	0	0	0
+General 10	Small Bag	17003	1	4
+General 10-Slot1	Empty	0	0	0
+General 10-Slot2	Empty	0	0	0
+General 10-Slot3	Empty	0	0	0
+General 10-Slot4	Empty	0	0	0
+Held	Empty	0	0	0
+Bank1	Empty	0	0	0
+Bank2	Empty	0	0	0
+Bank3	Empty	0	0	0
+Bank4	Empty	0	0	0
+Bank5	Empty	0	0	0
+Bank6	Empty	0	0	0
+Bank7	Empty	0	0	0
+Bank8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+Bank17	Empty	0	0	0
+Bank18	Empty	0	0	0
+Bank19	Empty	0	0	0
+Bank20	Trader's Satchel	17899	1	10
+Bank20-Slot1	Shrouded Energeiac Chain Boots	80558	1	6
+Bank20-Slot1-Slot1	Empty	0	0	0
+Bank20-Slot1-Slot2	Empty	0	0	0
+Bank20-Slot1-Slot3	Empty	0	0	0
+Bank20-Slot2	Shrouded Energeiac Chain Coif	80559	1	6
+Bank20-Slot2-Slot1	Empty	0	0	0
+Bank20-Slot2-Slot2	Empty	0	0	0
+Bank20-Slot2-Slot3	Empty	0	0	0
+Bank20-Slot3	Shrouded Energeiac Chain Gauntlets	80557	1	6
+Bank20-Slot3-Slot1	Empty	0	0	0
+Bank20-Slot3-Slot2	Empty	0	0	0
+Bank20-Slot3-Slot3	Empty	0	0	0
+Bank20-Slot4	Shrouded Energeiac Chain Leggings	80561	1	6
+Bank20-Slot4-Slot1	Empty	0	0	0
+Bank20-Slot4-Slot2	Empty	0	0	0
+Bank20-Slot4-Slot3	Empty	0	0	0
+Bank20-Slot5	Shrouded Energeiac Chain Sleeves	80560	1	6
+Bank20-Slot5-Slot1	Empty	0	0	0
+Bank20-Slot5-Slot2	Empty	0	0	0
+Bank20-Slot5-Slot3	Empty	0	0	0
+Bank20-Slot6	Shrouded Energeiac Chain Wristguard	80556	1	6
+Bank20-Slot6-Slot1	Empty	0	0	0
+Bank20-Slot6-Slot2	Empty	0	0	0
+Bank20-Slot6-Slot3	Empty	0	0	0
+Bank20-Slot7	Shrouded Energeiac Chain Coat	80562	1	6
+Bank20-Slot7-Slot1	Empty	0	0	0
+Bank20-Slot7-Slot2	Empty	0	0	0
+Bank20-Slot7-Slot3	Empty	0	0	0
+Bank20-Slot8	Shrouded Energeiac Chain Wristguard	80556	1	6
+Bank20-Slot8-Slot1	Empty	0	0	0
+Bank20-Slot8-Slot2	Empty	0	0	0
+Bank20-Slot8-Slot3	Empty	0	0	0
+Bank20-Slot9	Empty	0	0	0
+Bank20-Slot10	Empty	0	0	0
+Bank21	Empty	0	0	0
+Bank22	Empty	0	0	0
+Bank23	Empty	0	0	0
+Bank24	Empty	0	0	0
+SharedBank1	Trader's Satchel	17899	1	10
+SharedBank1-Slot1	Distillate of Skinspikes V	96424	8	6
+SharedBank1-Slot2	Distillate of Skinspikes IV	96423	8	6
+SharedBank1-Slot3	Distillate of Skinspikes VI	96425	20	6
+SharedBank1-Slot4	Distillate of Skinspikes VI	96425	20	6
+SharedBank1-Slot5	Distillate of Skinspikes VI	96425	20	6
+SharedBank1-Slot6	Distillate of Skinspikes VI	96425	20	6
+SharedBank1-Slot7	Empty	0	0	0
+SharedBank1-Slot8	Empty	0	0	0
+SharedBank1-Slot9	Empty	0	0	0
+SharedBank1-Slot10	Empty	0	0	0
+SharedBank2	Rebreather	16889	1	6
+SharedBank2-Slot1	Empty	0	0	0
+SharedBank2-Slot2	Empty	0	0	0
+SharedBank3	Sebilisian Dagger Ornamentation	43517	1	6
+SharedBank4	Empty	0	0	0
+SharedBank5	Empty	0	0	0
+SharedBank6	Empty	0	0	0

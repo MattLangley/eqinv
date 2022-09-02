@@ -1,0 +1,444 @@
+Location	Name	ID	Count	Slots
+Charm	Serpent Seeker's Charm of Lore	53505	1	6
+Charm-Slot1	Wanderlust Guild Loadstone	53631	1	6
+Ear	Fabled Earring of Unseen Horrors	76240	1	6
+Ear-Slot1	Empty	0	0	0
+Head	Mystical Energeiac Chain Coif	80566	1	6
+Head-Slot1	Empty	0	0	0
+Head-Slot2	Empty	0	0	0
+Head-Slot3	Empty	0	0	0
+Face	Master Brewer's Mask	41444	1	6
+Face-Slot1	Fossilized Griffon Eye	80385	1	6
+Ear	Britalic's Earring	70719	1	6
+Ear-Slot1	Empty	0	0	0
+Neck	Fabled Tormentor's Chain Collar	79798	1	6
+Neck-Slot1	Empty	0	0	0
+Shoulders	Darkened Embroidered Black Cape	41301	1	6
+Shoulders-Slot1	Empty	0	0	0
+Arms	Mystical Energeiac Chain Sleeves	80567	1	6
+Arms-Slot1	Empty	0	0	0
+Arms-Slot2	Empty	0	0	0
+Arms-Slot3	Empty	0	0	0
+Back	Cloak of the Sun God	80689	1	6
+Back-Slot1	Empty	0	0	0
+Wrist	Paragon's Chain Bracer	89372	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Wrist-Slot3	Empty	0	0	0
+Wrist	Paragon's Chain Wristguard	89373	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Wrist-Slot3	Empty	0	0	0
+Range	Wand of Fury	39287	1	6
+Range-Slot1	Empty	0	0	0
+Hands	Paragon's Chain Gauntlets	89374	1	6
+Hands-Slot1	Empty	0	0	0
+Hands-Slot2	Empty	0	0	0
+Hands-Slot3	Empty	0	0	0
+Primary	Paragon's Scepter	89427	1	6
+Primary-Slot1	Empty	0	0	0
+Primary-Slot2	Empty	0	0	0
+Secondary	Paragon's Aegis	89419	1	6
+Secondary-Slot1	Empty	0	0	0
+Secondary-Slot2	Empty	0	0	0
+Secondary-Slot3	Empty	0	0	0
+Fingers	Diamond Ring of Planar Health	80656	1	6
+Fingers-Slot1	Empty	0	0	0
+Fingers	Band of Corporeal Resurgence	101016	1	6
+Fingers-Slot1	Empty	0	0	0
+Chest	Mystical Energeiac Chain Coat	80569	1	6
+Chest-Slot1	Empty	0	0	0
+Chest-Slot2	Empty	0	0	0
+Chest-Slot3	Empty	0	0	0
+Legs	Mystical Energeiac Chain Leggings	80568	1	6
+Legs-Slot1	Empty	0	0	0
+Legs-Slot2	Empty	0	0	0
+Legs-Slot3	Empty	0	0	0
+Feet	Eon Linked Chain Boots	104409	1	6
+Feet-Slot1	Empty	0	0	0
+Feet-Slot2	Empty	0	0	0
+Feet-Slot3	Empty	0	0	0
+Waist	Elaborate Adept's Belt	50441	1	6
+Waist-Slot1	Shard of Expanding Power	80397	1	6
+Power Source	Empty	0	0	0
+Ammo	Glowing Black Drum	59509	1	6
+General 1	Backpack*	32601	1	8
+General 1-Slot1	Bundle of Angurth	95894	20	6
+General 1-Slot2	Mottled Worg Bridle	40489	1	6
+General 1-Slot3	Philter of the Wolf V	96477	18	6
+General 1-Slot4	Philter of the Wolf V	96477	20	6
+General 1-Slot5	Bundle of Angurth	95894	14	6
+General 1-Slot6	Basic Suspension of Slime VII	96149	8	6
+General 1-Slot7	Elaborate Adept's Hood	50436	1	6
+General 1-Slot7-Slot1	Empty	0	0	0
+General 1-Slot8	Geerlok Alchemy Set	65446	1	6
+General 1-Slot8-Slot1	Empty	0	0	0
+General 2	Backpack*	32601	1	8
+General 2-Slot1	Empty	0	0	0
+General 2-Slot2	Empty	0	0	0
+General 2-Slot3	Empty	0	0	0
+General 2-Slot4	Empty	0	0	0
+General 2-Slot5	Empty	0	0	0
+General 2-Slot6	Empty	0	0	0
+General 2-Slot7	Empty	0	0	0
+General 2-Slot8	Empty	0	0	0
+General 3	Backpack	17005	1	8
+General 3-Slot1	Empty	0	0	0
+General 3-Slot2	Empty	0	0	0
+General 3-Slot3	Empty	0	0	0
+General 3-Slot4	Empty	0	0	0
+General 3-Slot5	Empty	0	0	0
+General 3-Slot6	Empty	0	0	0
+General 3-Slot7	Empty	0	0	0
+General 3-Slot8	Empty	0	0	0
+General 4	Backpack	17005	1	8
+General 4-Slot1	Advanced Friable Potion Vial Sketch	96894	95	6
+General 4-Slot2	Advanced Friable Potion Vial Sketch	96894	100	6
+General 4-Slot3	Primary Anchor Transport Device	57851	1	6
+General 4-Slot4	Basic Suspension of Slime VII	96149	100	6
+General 4-Slot5	Advanced Friable Potion Vial Sketch	96894	44	6
+General 4-Slot6	Empty	0	0	0
+General 4-Slot7	Empty	0	0	0
+General 4-Slot8	Empty	0	0	0
+General 5	Satchel of Legacies Lost	17527	1	7
+General 5-Slot1	Empty	0	0	0
+General 5-Slot2	Empty	0	0	0
+General 5-Slot3	Empty	0	0	0
+General 5-Slot4	Empty	0	0	0
+General 5-Slot5	Empty	0	0	0
+General 5-Slot6	Empty	0	0	0
+General 5-Slot7	Empty	0	0	0
+General 6	Trader's Satchel	17899	1	10
+General 6-Slot1	Empty	0	0	0
+General 6-Slot2	Empty	0	0	0
+General 6-Slot3	Empty	0	0	0
+General 6-Slot4	Empty	0	0	0
+General 6-Slot5	Empty	0	0	0
+General 6-Slot6	Empty	0	0	0
+General 6-Slot7	Empty	0	0	0
+General 6-Slot8	Empty	0	0	0
+General 6-Slot9	Empty	0	0	0
+General 6-Slot10	Empty	0	0	0
+General 7	Trader's Satchel	17899	1	10
+General 7-Slot1	Empty	0	0	0
+General 7-Slot2	Betherium Bark	22142	2	6
+General 7-Slot3	Fellowship Registration Insignia	34023	1	6
+General 7-Slot4	Crest Upper Left Field Plate	42711	1	6
+General 7-Slot5	Oceangreen Clover	81927	1	6
+General 7-Slot6	Bazu Plasma	13658	1	6
+General 7-Slot7	Bottle of Hastened Adventure III	64718	1	6
+General 7-Slot8	Empty	0	0	0
+General 7-Slot9	Sunlight Prism Box	81591	1	4
+General 7-Slot9-Slot1	Empty	0	0	0
+General 7-Slot9-Slot2	Empty	0	0	0
+General 7-Slot9-Slot3	Empty	0	0	0
+General 7-Slot9-Slot4	Empty	0	0	0
+General 7-Slot10	Desiccated Tongue	81926	1	6
+General 8	Backpack	17005	1	8
+General 8-Slot1	Rancid Pod of Water	97265	20	6
+General 8-Slot2	Empty	0	0	0
+General 8-Slot3	Empty	0	0	0
+General 8-Slot4	Empty	0	0	0
+General 8-Slot5	Rancid Pod of Water	97265	2	6
+General 8-Slot6	Tabron's Remedy	17474	1	6
+General 8-Slot7	Empty	0	0	0
+General 8-Slot8	Empty	0	0	0
+General 9	Backpack	17005	1	8
+General 9-Slot1	Wrext Mal Insignia	17342	2	6
+General 9-Slot2	Empty	0	0	0
+General 9-Slot3	Fetid Flesh	17471	1	6
+General 9-Slot4	Empty	0	0	0
+General 9-Slot5	Empty	0	0	0
+General 9-Slot6	Empty	0	0	0
+General 9-Slot7	Fungi Covered Great Staff	11058	1	6
+General 9-Slot7-Slot1	Empty	0	0	0
+General 9-Slot7-Slot2	Empty	0	0	0
+General 9-Slot8	Sceptre of Draconic Calling	64089	1	6
+General 10	Medicine Bag	17901	1	8
+General 10-Slot1	Empty	0	0	0
+General 10-Slot2	Empty	0	0	0
+General 10-Slot3	Empty	0	0	0
+General 10-Slot4	Empty	0	0	0
+General 10-Slot5	Empty	0	0	0
+General 10-Slot6	Empty	0	0	0
+General 10-Slot7	Empty	0	0	0
+General 10-Slot8	Empty	0	0	0
+Held	Empty	0	0	0
+Bank1	Trader's Satchel	17899	1	10
+Bank1-Slot1	Empty	0	0	0
+Bank1-Slot2	Pristine Animal Pelt	34231	5	6
+Bank1-Slot3	Ripe Bixie Head	54634	1	6
+Bank1-Slot4	Empty	0	0	0
+Bank1-Slot5	Gnarled Mesh Bracer	68302	1	6
+Bank1-Slot5-Slot1	Empty	0	0	0
+Bank1-Slot5-Slot2	Empty	0	0	0
+Bank1-Slot6	Hate Forged Armguards	40041	1	6
+Bank1-Slot6-Slot1	Empty	0	0	0
+Bank1-Slot6-Slot2	Empty	0	0	0
+Bank1-Slot7	Empty	0	0	0
+Bank1-Slot8	Empty	0	0	0
+Bank1-Slot9	Empty	0	0	0
+Bank1-Slot10	Empty	0	0	0
+Bank2	Trader's Satchel	17899	1	10
+Bank2-Slot1	Empty	0	0	0
+Bank2-Slot2	Harmonagate	97003	1	6
+Bank2-Slot3	Empty	0	0	0
+Bank2-Slot4	Empty	0	0	0
+Bank2-Slot5	Ichor Encrusted Chain Gloves	46235	1	6
+Bank2-Slot5-Slot1	Empty	0	0	0
+Bank2-Slot5-Slot2	Empty	0	0	0
+Bank2-Slot6	Empty	0	0	0
+Bank2-Slot7	Empty	0	0	0
+Bank2-Slot8	Distillate of Clarity V	77823	5	6
+Bank2-Slot9	Empty	0	0	0
+Bank2-Slot10	Empty	0	0	0
+Bank3	Trader's Satchel	17899	1	10
+Bank3-Slot1	Circled Toe Bones	10236	1	6
+Bank3-Slot1-Slot1	Empty	0	0	0
+Bank3-Slot2	Empty	0	0	0
+Bank3-Slot3	Inscribable Words	69329	1	6
+Bank3-Slot4	Earring of the Darkfaith	65523	1	6
+Bank3-Slot4-Slot1	Empty	0	0	0
+Bank3-Slot5	Empty	0	0	0
+Bank3-Slot6	Prismatic Crystal	12662	1	6
+Bank3-Slot7	Deepwater Emblem	59029	1	6
+Bank3-Slot8	Empty	0	0	0
+Bank3-Slot9	Blightfire Sleeve Pattern	64111	1	6
+Bank3-Slot10	Distillate of Celestial Healing IX	77787	20	6
+Bank4	Trader's Satchel	17899	1	10
+Bank4-Slot1	Adventurer's Stone	41000	1	6
+Bank4-Slot2	Empty	0	0	0
+Bank4-Slot3	Shard of Phosphorescent Power	80398	1	6
+Bank4-Slot4	Empty	0	0	0
+Bank4-Slot5	Cloudy Potion	14514	2	6
+Bank4-Slot6	Empty	0	0	0
+Bank4-Slot7	Empty	0	0	0
+Bank4-Slot8	Empty	0	0	0
+Bank4-Slot9	Empty	0	0	0
+Bank4-Slot10	Empty	0	0	0
+Bank5	Trader's Satchel	17899	1	10
+Bank5-Slot1	Empty	0	0	0
+Bank5-Slot2	Uncut Morganite	37849	1	6
+Bank5-Slot3	Ethereal Parchment	29112	1	6
+Bank5-Slot4	Rust Encrusted Wristguard	40311	1	6
+Bank5-Slot4-Slot1	Empty	0	0	0
+Bank5-Slot4-Slot2	Empty	0	0	0
+Bank5-Slot5	Empty	0	0	0
+Bank5-Slot6	Empty	0	0	0
+Bank5-Slot7	Empty	0	0	0
+Bank5-Slot8	Potion of Speed	40682	10	6
+Bank5-Slot9	Empty	0	0	0
+Bank5-Slot10	Empty	0	0	0
+Bank6	Trader's Satchel	17899	1	10
+Bank6-Slot1	Empty	0	0	0
+Bank6-Slot2	Empty	0	0	0
+Bank6-Slot3	Empty	0	0	0
+Bank6-Slot4	Empty	0	0	0
+Bank6-Slot5	Empty	0	0	0
+Bank6-Slot6	Empty	0	0	0
+Bank6-Slot7	Empty	0	0	0
+Bank6-Slot8	Empty	0	0	0
+Bank6-Slot9	Empty	0	0	0
+Bank6-Slot10	Empty	0	0	0
+Bank7	Trader's Satchel	17899	1	10
+Bank7-Slot1	Empty	0	0	0
+Bank7-Slot2	Empty	0	0	0
+Bank7-Slot3	Empty	0	0	0
+Bank7-Slot4	Empty	0	0	0
+Bank7-Slot5	Empty	0	0	0
+Bank7-Slot6	Empty	0	0	0
+Bank7-Slot7	Empty	0	0	0
+Bank7-Slot8	Empty	0	0	0
+Bank7-Slot9	Empty	0	0	0
+Bank7-Slot10	Empty	0	0	0
+Bank8	Empty	0	0	0
+Bank9	Trader's Satchel	17899	1	10
+Bank9-Slot1	Empty	0	0	0
+Bank9-Slot2	Empty	0	0	0
+Bank9-Slot3	Empty	0	0	0
+Bank9-Slot4	Empty	0	0	0
+Bank9-Slot5	Empty	0	0	0
+Bank9-Slot6	Empty	0	0	0
+Bank9-Slot7	Empty	0	0	0
+Bank9-Slot8	Empty	0	0	0
+Bank9-Slot9	Empty	0	0	0
+Bank9-Slot10	Empty	0	0	0
+Bank10	Trader's Satchel	17899	1	10
+Bank10-Slot1	Empty	0	0	0
+Bank10-Slot2	Empty	0	0	0
+Bank10-Slot3	Empty	0	0	0
+Bank10-Slot4	Empty	0	0	0
+Bank10-Slot5	Empty	0	0	0
+Bank10-Slot6	Empty	0	0	0
+Bank10-Slot7	Empty	0	0	0
+Bank10-Slot8	Empty	0	0	0
+Bank10-Slot9	Empty	0	0	0
+Bank10-Slot10	Empty	0	0	0
+Bank11	Trader's Satchel	17899	1	10
+Bank11-Slot1	Empty	0	0	0
+Bank11-Slot2	Empty	0	0	0
+Bank11-Slot3	Empty	0	0	0
+Bank11-Slot4	Empty	0	0	0
+Bank11-Slot5	Empty	0	0	0
+Bank11-Slot6	Empty	0	0	0
+Bank11-Slot7	Distillate of Skinspikes V	96424	20	6
+Bank11-Slot8	Empty	0	0	0
+Bank11-Slot9	Empty	0	0	0
+Bank11-Slot10	Distillate of Skinspikes IV	96423	20	6
+Bank12	Backpack	17005	1	8
+Bank12-Slot1	Empty	0	0	0
+Bank12-Slot2	Empty	0	0	0
+Bank12-Slot3	Empty	0	0	0
+Bank12-Slot4	Empty	0	0	0
+Bank12-Slot5	Empty	0	0	0
+Bank12-Slot6	Empty	0	0	0
+Bank12-Slot7	Empty	0	0	0
+Bank12-Slot8	Empty	0	0	0
+Bank13	Trader's Satchel	17899	1	10
+Bank13-Slot1	Empty	0	0	0
+Bank13-Slot2	Empty	0	0	0
+Bank13-Slot3	Empty	0	0	0
+Bank13-Slot4	Empty	0	0	0
+Bank13-Slot5	Empty	0	0	0
+Bank13-Slot6	Empty	0	0	0
+Bank13-Slot7	Empty	0	0	0
+Bank13-Slot8	Empty	0	0	0
+Bank13-Slot9	Empty	0	0	0
+Bank13-Slot10	Empty	0	0	0
+Bank14	Trader's Satchel	17899	1	10
+Bank14-Slot1	Empty	0	0	0
+Bank14-Slot2	Empty	0	0	0
+Bank14-Slot3	Empty	0	0	0
+Bank14-Slot4	Empty	0	0	0
+Bank14-Slot5	Empty	0	0	0
+Bank14-Slot6	Empty	0	0	0
+Bank14-Slot7	Empty	0	0	0
+Bank14-Slot8	Empty	0	0	0
+Bank14-Slot9	Empty	0	0	0
+Bank14-Slot10	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Trader's Satchel	17899	1	10
+Bank16-Slot1	Timeshear Purple Fragment Dena	42864	1	6
+Bank16-Slot2	Timeshear Purple Fragment Azia	42861	1	6
+Bank16-Slot3	Bertoxxulian Badge of Station	17486	1	6
+Bank16-Slot4	Completed Cultist Cipher	17485	1	6
+Bank16-Slot5	Reconstructed Cultist Manual	17482	1	6
+Bank16-Slot6	Vial of Curative Elixir	17338	1	6
+Bank16-Slot7	Tabron's Vial Pouch	17284	1	4
+Bank16-Slot7-Slot1	Empty	0	0	0
+Bank16-Slot7-Slot2	Empty	0	0	0
+Bank16-Slot7-Slot3	Empty	0	0	0
+Bank16-Slot7-Slot4	Empty	0	0	0
+Bank16-Slot8	Empty	0	0	0
+Bank16-Slot9	Empty	0	0	0
+Bank16-Slot10	Empty	0	0	0
+Bank17	Trader's Satchel	17899	1	10
+Bank17-Slot1	Empty	0	0	0
+Bank17-Slot2	Empty	0	0	0
+Bank17-Slot3	Empty	0	0	0
+Bank17-Slot4	Empty	0	0	0
+Bank17-Slot5	Empty	0	0	0
+Bank17-Slot6	Empty	0	0	0
+Bank17-Slot7	Empty	0	0	0
+Bank17-Slot8	Empty	0	0	0
+Bank17-Slot9	Empty	0	0	0
+Bank17-Slot10	Empty	0	0	0
+Bank18	Trader's Satchel	17899	1	10
+Bank18-Slot1	Bear Meat	13404	1	6
+Bank18-Slot2	Tuft of Bear Fur	97251	1	6
+Bank18-Slot3	Puma Paw	92816	1	6
+Bank18-Slot4	Snake Meat	13412	1	6
+Bank18-Slot5	Empty	0	0	0
+Bank18-Slot6	Key of Beasts	20914	1	6
+Bank18-Slot7	Iron Disc	20937	1	6
+Bank18-Slot8	Key of Misfortune	20913	1	6
+Bank18-Slot9	Mark of Ravenglass	85607	1	6
+Bank18-Slot10	Faintly Glowing Diamond	20810	1	6
+Bank19	Trader's Satchel	17899	1	10
+Bank19-Slot1	Empty	0	0	0
+Bank19-Slot2	Empty	0	0	0
+Bank19-Slot3	Empty	0	0	0
+Bank19-Slot4	Empty	0	0	0
+Bank19-Slot5	Empty	0	0	0
+Bank19-Slot6	Empty	0	0	0
+Bank19-Slot7	Empty	0	0	0
+Bank19-Slot8	Empty	0	0	0
+Bank19-Slot9	Empty	0	0	0
+Bank19-Slot10	Empty	0	0	0
+Bank20	Trader's Satchel	17899	1	10
+Bank20-Slot1	Crest Lower Left Field Frame	42714	1	6
+Bank20-Slot2	Crest Lower Left Field Plate	42713	1	6
+Bank20-Slot3	Crest Keep Frame	42707	1	6
+Bank20-Slot4	Crest Keep Wall Plate	42712	1	6
+Bank20-Slot5	Crest Keep Wall Frame	42706	1	6
+Bank20-Slot6	Crest Lower Right Field Plate	42720	1	6
+Bank20-Slot7	Crest Upper Right Field Frame	42716	1	6
+Bank20-Slot8	Crest Lower Field Plate	42719	1	6
+Bank20-Slot9	Crest Lower Right Field Frame	42721	1	6
+Bank20-Slot10	Crest Keep Tower Frame	42708	1	6
+Bank21	Trader's Satchel	17899	1	10
+Bank21-Slot1	Key of the Misplaced	20912	1	6
+Bank21-Slot2	Empty	0	0	0
+Bank21-Slot3	Fish Scales	13076	90	6
+Bank21-Slot4	Empty	0	0	0
+Bank21-Slot5	Empty	0	0	0
+Bank21-Slot6	Empty	0	0	0
+Bank21-Slot7	Empty	0	0	0
+Bank21-Slot8	Empty	0	0	0
+Bank21-Slot9	Empty	0	0	0
+Bank21-Slot10	Empty	0	0	0
+Bank22	Trader's Satchel	17899	1	10
+Bank22-Slot1	Empty	0	0	0
+Bank22-Slot2	Empty	0	0	0
+Bank22-Slot3	Empty	0	0	0
+Bank22-Slot4	Empty	0	0	0
+Bank22-Slot5	Empty	0	0	0
+Bank22-Slot6	Book of Knowledge	17523	1	6
+Bank22-Slot7	Elaborate Adept's Crystal	50438	1	6
+Bank22-Slot7-Slot1	Empty	0	0	0
+Bank22-Slot8	Tome of the Hero's Journey	66666	1	6
+Bank22-Slot9	Glowing Sapphire Shard	52144	1	6
+Bank22-Slot10	Empty	0	0	0
+Bank23	Trader's Satchel	17899	1	10
+Bank23-Slot1	Empty	0	0	0
+Bank23-Slot2	Empty	0	0	0
+Bank23-Slot3	Empty	0	0	0
+Bank23-Slot4	Empty	0	0	0
+Bank23-Slot5	Empty	0	0	0
+Bank23-Slot6	Empty	0	0	0
+Bank23-Slot7	Empty	0	0	0
+Bank23-Slot8	Empty	0	0	0
+Bank23-Slot9	Empty	0	0	0
+Bank23-Slot10	Empty	0	0	0
+Bank24	Trader's Satchel	17899	1	10
+Bank24-Slot1	Crest Upper Left Field Frame	42717	1	6
+Bank24-Slot2	Crest Left Upper Field Plate	42701	1	6
+Bank24-Slot3	Crest Left Upper Field Frame	42700	1	6
+Bank24-Slot4	Crest Right Upper Field Plate	42705	1	6
+Bank24-Slot5	Crest Right Upper Field Frame	42704	1	6
+Bank24-Slot6	Crest Keep Tower Plate	42709	1	6
+Bank24-Slot7	Crest Center Upper Field Frame	42702	1	6
+Bank24-Slot8	Crest Upper Right Field Plate	42715	1	6
+Bank24-Slot9	Crest Lower Field Frame	42718	1	6
+Bank24-Slot10	Crest Keep Plate	42710	1	6
+SharedBank1	Trader's Satchel	17899	1	10
+SharedBank1-Slot1	Distillate of Skinspikes V	96424	8	6
+SharedBank1-Slot2	Distillate of Skinspikes IV	96423	8	6
+SharedBank1-Slot3	Distillate of Skinspikes VI	96425	20	6
+SharedBank1-Slot4	Distillate of Skinspikes VI	96425	20	6
+SharedBank1-Slot5	Geerlok Fermentation Device	7453	1	6
+SharedBank1-Slot5-Slot1	Empty	0	0	0
+SharedBank1-Slot6	Distillate of Skinspikes VI	96425	20	6
+SharedBank1-Slot7	Geerlok Automated Pestle	65448	1	6
+SharedBank1-Slot7-Slot1	Empty	0	0	0
+SharedBank1-Slot8	Geerlok All Purpose Baking Utensil	7454	1	6
+SharedBank1-Slot8-Slot1	Empty	0	0	0
+SharedBank1-Slot9	Empty	0	0	0
+SharedBank1-Slot10	Empty	0	0	0
+SharedBank2	Rebreather	16889	1	6
+SharedBank2-Slot1	Empty	0	0	0
+SharedBank2-Slot2	Empty	0	0	0
+SharedBank3	Sebilisian Dagger Ornamentation	43517	1	6
+SharedBank4	Empty	0	0	0
+SharedBank5	Empty	0	0	0
+SharedBank6	Empty	0	0	0

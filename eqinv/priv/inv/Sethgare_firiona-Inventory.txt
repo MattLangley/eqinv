@@ -1,0 +1,486 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Empty	0	0	0
+Head	Blood Lord's Crown	31098	1	6
+Head-Slot1	Empty	0	0	0
+Head-Slot2	Empty	0	0	0
+Face	Griffon Tamer's Mask	46387	1	6
+Face-Slot1	Empty	0	0	0
+Ear	Wolf Fang Earring	2092	1	6
+Ear-Slot1	Empty	0	0	0
+Neck	Spider Fur Collar	25295	1	6
+Neck-Slot1	Empty	0	0	0
+Shoulders	Etched Zxrathil Pauldrons	40281	1	6
+Shoulders-Slot1	Empty	0	0	0
+Arms	Blood Lord's Vambraces	31100	1	6
+Arms-Slot1	Empty	0	0	0
+Arms-Slot2	Empty	0	0	0
+Back	Cloak of Flames	11621	1	6
+Back-Slot1	Empty	0	0	0
+Wrist	Blood Ember Bracer	4525	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Wrist	Blood Lord's Bracer	31101	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Range	Festive Doll	69229	1	6
+Range-Slot1	Empty	0	0	0
+Hands	Blood Lord's Gauntlets	31102	1	6
+Hands-Slot1	Empty	0	0	0
+Hands-Slot2	Empty	0	0	0
+Primary	Black Rock Maul of Crushing	31413	1	6
+Primary-Slot1	Empty	0	0	0
+Primary-Slot2	Frightstone Hammer Ornament	81555	1	6
+Secondary	Massive Underbulk Shell	19714	1	6
+Secondary-Slot1	Empty	0	0	0
+Secondary-Slot2	Frightstone Shield Ornament	81558	1	6
+Fingers	Palladium Fire Opal Ring	45916	1	6
+Fingers-Slot1	Empty	0	0	0
+Fingers	Palladium Fire Opal Ring	45916	1	6
+Fingers-Slot1	Empty	0	0	0
+Chest	Blood Lord's Breastplate	31099	1	6
+Chest-Slot1	Empty	0	0	0
+Chest-Slot2	Empty	0	0	0
+Legs	Blood Lord's Greaves	31103	1	6
+Legs-Slot1	Empty	0	0	0
+Legs-Slot2	Empty	0	0	0
+Feet	Blood Lord's Boots	31104	1	6
+Feet-Slot1	Empty	0	0	0
+Feet-Slot2	Empty	0	0	0
+Waist	Chitinous Belt	28728	1	6
+Waist-Slot1	Empty	0	0	0
+Power Source	Empty	0	0	0
+Ammo	Lava Braxi Saddle	54807	1	6
+General 1	Backpack	17005	1	8
+General 1-Slot1	Water Flask	13006	95	6
+General 1-Slot2	Quality Firing Sheet	16907	1	6
+General 1-Slot3	Geerlok Automated Hammer	7447	1	6
+General 1-Slot3-Slot1	Empty	0	0	0
+General 1-Slot4	Empty	0	0	0
+General 1-Slot5	Empty	0	0	0
+General 1-Slot6	Empty	0	0	0
+General 1-Slot7	Empty	0	0	0
+General 1-Slot8	Empty	0	0	0
+General 2	Backpack	17005	1	8
+General 2-Slot1	Empty	0	0	0
+General 2-Slot2	Empty	0	0	0
+General 2-Slot3	Empty	0	0	0
+General 2-Slot4	Empty	0	0	0
+General 2-Slot5	Empty	0	0	0
+General 2-Slot6	Empty	0	0	0
+General 2-Slot7	Sunshard Dust	33790	1	6
+General 2-Slot8	Bone Chips	13073	48	6
+General 3	Backpack	17005	1	8
+General 3-Slot1	Sunshard Pebble	33791	1	6
+General 3-Slot2	Empty	0	0	0
+General 3-Slot3	Nimbus of the Faceless	40659	1	6
+General 3-Slot4	Empty	0	0	0
+General 3-Slot5	Sebilisian Great Sword Ornamentation	43516	1	6
+General 3-Slot6	Empty	0	0	0
+General 3-Slot7	Sebilisian War Hammer Ornamentation	43513	1	6
+General 3-Slot8	Empty	0	0	0
+General 4	Backpack	17005	1	8
+General 4-Slot1	Empty	0	0	0
+General 4-Slot2	Empty	0	0	0
+General 4-Slot3	Empty	0	0	0
+General 4-Slot4	Empty	0	0	0
+General 4-Slot5	Empty	0	0	0
+General 4-Slot6	Empty	0	0	0
+General 4-Slot7	Empty	0	0	0
+General 4-Slot8	Empty	0	0	0
+General 5	Backpack	17005	1	8
+General 5-Slot1	Edge of Envelopment	70228	1	6
+General 5-Slot1-Slot1	Empty	0	0	0
+General 5-Slot1-Slot2	Empty	0	0	0
+General 5-Slot2	Dragorn Claw Scepter	70161	1	6
+General 5-Slot2-Slot1	Empty	0	0	0
+General 5-Slot2-Slot2	Empty	0	0	0
+General 5-Slot3	Primal Velium Claidhmore	27323	1	6
+General 5-Slot3-Slot1	Empty	0	0	0
+General 5-Slot3-Slot2	Empty	0	0	0
+General 5-Slot4	Blade of the Twice Bitten	89311	1	6
+General 5-Slot4-Slot1	Empty	0	0	0
+General 5-Slot4-Slot2	Empty	0	0	0
+General 5-Slot5	Fossilized Griffon Eye	80385	1	6
+General 5-Slot6	Shard of Night	5841	1	6
+General 5-Slot6-Slot1	Empty	0	0	0
+General 5-Slot6-Slot2	Empty	0	0	0
+General 5-Slot7	Empty	0	0	0
+General 5-Slot8	Empty	0	0	0
+General 6	Fenith's Griffon Treat Kit	13624	1	4
+General 6-Slot1	Empty	0	0	0
+General 6-Slot2	Empty	0	0	0
+General 6-Slot3	Empty	0	0	0
+General 6-Slot4	Empty	0	0	0
+General 7	Backpack	17005	1	8
+General 7-Slot1	Empty	0	0	0
+General 7-Slot2	Empty	0	0	0
+General 7-Slot3	Empty	0	0	0
+General 7-Slot4	Empty	0	0	0
+General 7-Slot5	Empty	0	0	0
+General 7-Slot6	Empty	0	0	0
+General 7-Slot7	Empty	0	0	0
+General 7-Slot8	Primary Anchor Transport Device	57851	1	6
+General 8	Backpack	17005	1	8
+General 8-Slot1	Empty	0	0	0
+General 8-Slot2	Empty	0	0	0
+General 8-Slot3	Empty	0	0	0
+General 8-Slot4	Empty	0	0	0
+General 8-Slot5	Empty	0	0	0
+General 8-Slot6	Empty	0	0	0
+General 8-Slot7	Empty	0	0	0
+General 8-Slot8	Empty	0	0	0
+General 9	Metal Bits	16905	2	6
+General 10	Satchel of Legacies Lost	17527	1	7
+General 10-Slot1	Flawed Defiant Plate Gauntlets	50118	1	6
+General 10-Slot1-Slot1	Empty	0	0	0
+General 10-Slot1-Slot2	Empty	0	0	0
+General 10-Slot1-Slot3	Empty	0	0	0
+General 10-Slot2	Package of Defiant Armor	17525	1	6
+General 10-Slot3	Package of Defiant Armor	17525	1	6
+General 10-Slot4	Scabbard of Hope	17526	1	6
+General 10-Slot5	Potion of Adventure	40605	10	6
+General 10-Slot6	Potion of Speed	40682	10	6
+General 10-Slot7	Book of Knowledge	17523	1	6
+Held	Empty	0	0	0
+Bank1	Trader's Satchel	17899	1	10
+Bank1-Slot1	Small Brick of Unrefined Ore	10396	1	6
+Bank1-Slot2	Silvril Ore	34239	26	6
+Bank1-Slot3	Iron Ore	34238	15	6
+Bank1-Slot4	Small Brick of Unrefined Ore	10396	1	6
+Bank1-Slot5	Gnoll Smithy Ore	54650	1	6
+Bank1-Slot6	Small Brick of Unrefined Ore	10396	1	6
+Bank1-Slot7	Spider Egg	54657	11	6
+Bank1-Slot8	Tin Ore	34237	2	6
+Bank1-Slot9	Small Brick of Unrefined Ore	10396	1	6
+Bank1-Slot10	Enchanted Essence of Shadow	84215	1	6
+Bank2	Trader's Satchel	17899	1	10
+Bank2-Slot1	Farmer's Hoe	57017	1	6
+Bank2-Slot2	Large Cloth Shirt	1028	1	6
+Bank2-Slot2-Slot1	Empty	0	0	0
+Bank2-Slot2-Slot2	Empty	0	0	0
+Bank2-Slot3	Empty	0	0	0
+Bank2-Slot4	Thalium Breastplate Template	35296	1	6
+Bank2-Slot5	Tacky Silk	34213	2	6
+Bank2-Slot6	Thick Silk	34215	1	6
+Bank2-Slot7	Mangled Animal Pelt	34225	1	6
+Bank2-Slot8	Small Brick of Unrefined Ore	10396	1	6
+Bank2-Slot9	Flawed Defiant Leather Gloves	50132	1	6
+Bank2-Slot9-Slot1	Empty	0	0	0
+Bank2-Slot9-Slot2	Empty	0	0	0
+Bank2-Slot9-Slot3	Empty	0	0	0
+Bank2-Slot10	Alkaline Loam	34877	7	6
+Bank3	Trader's Satchel	17899	1	10
+Bank3-Slot1	Large Raw-Hide Leggings	2171	1	6
+Bank3-Slot1-Slot1	Empty	0	0	0
+Bank3-Slot1-Slot2	Empty	0	0	0
+Bank3-Slot2	Thalium Ore	34240	5	6
+Bank3-Slot3	Gloomingdeep Lantern	9979	1	6
+Bank3-Slot3-Slot1	Empty	0	0	0
+Bank3-Slot4	Potion of Minor Quickening	53490	10	6
+Bank3-Slot5	Brick of Crude Iron Ore	19630	1	6
+Bank3-Slot6	Brick of Crude Iron Ore	19630	1	6
+Bank3-Slot7	Brick of Crude Iron Ore	19630	1	6
+Bank3-Slot8	Brick of Crude Iron Ore	19630	1	6
+Bank3-Slot9	Brick of Crude Iron Ore	19630	1	6
+Bank3-Slot10	The Ogres Come of Age	57975	1	6
+Bank4	Trader's Satchel	17899	1	10
+Bank4-Slot1	Small Brick of Unrefined Ore	10396	1	6
+Bank4-Slot2	Simple Consigned Greataxe	108532	1	6
+Bank4-Slot2-Slot1	Empty	0	0	0
+Bank4-Slot2-Slot2	Empty	0	0	0
+Bank4-Slot3	Empty	0	0	0
+Bank4-Slot4	Empty	0	0	0
+Bank4-Slot5	Empty	0	0	0
+Bank4-Slot6	Empty	0	0	0
+Bank4-Slot7	Empty	0	0	0
+Bank4-Slot8	Empty	0	0	0
+Bank4-Slot9	Empty	0	0	0
+Bank4-Slot10	Empty	0	0	0
+Bank5	Trader's Satchel	17899	1	10
+Bank5-Slot1	Blightfire Glove Pattern	64110	1	6
+Bank5-Slot2	Blightfire Snake Skin	85746	1	6
+Bank5-Slot3	Treant Bark	97366	2	6
+Bank5-Slot4	Treant Wood Heart	84234	1	6
+Bank5-Slot5	Rough Defiant Chitin Shield	50551	1	6
+Bank5-Slot5-Slot1	Empty	0	0	0
+Bank5-Slot5-Slot2	Empty	0	0	0
+Bank5-Slot6	Blightfire Helm Pattern	64113	1	6
+Bank5-Slot7	Snake Fang	13067	1	6
+Bank5-Slot8	Raw Fine Runic Hide	97864	1	6
+Bank5-Slot9	Giant Bones	97327	1	6
+Bank5-Slot10	Empty	0	0	0
+Bank6	Empty	0	0	0
+Bank7	Trader's Satchel	17899	1	10
+Bank7-Slot1	Rough Defiant Plate Gauntlets	50062	1	6
+Bank7-Slot1-Slot1	Empty	0	0	0
+Bank7-Slot1-Slot2	Empty	0	0	0
+Bank7-Slot2	Ornate Defiant Plate Greaves	50094	1	6
+Bank7-Slot2-Slot1	Empty	0	0	0
+Bank7-Slot2-Slot2	Empty	0	0	0
+Bank7-Slot3	Anarynn's Lost Gold Locket	85756	1	6
+Bank7-Slot4	Tear of Wandering Souls	51890	1	6
+Bank7-Slot5	Blightfire-Infused Silk	64108	2	6
+Bank7-Slot6	Bog Rat Pelt	85745	2	6
+Bank7-Slot7	Malleable Loam	34879	18	6
+Bank7-Slot8	Fulginate Ore	34242	12	6
+Bank7-Slot9	Crude Silk	34216	22	6
+Bank7-Slot10	Blightfire Helm Pattern	64113	1	6
+Bank8	Trader's Satchel	17899	1	10
+Bank8-Slot1	Tainted Energeiac Plate Boots	80530	1	6
+Bank8-Slot1-Slot1	Empty	0	0	0
+Bank8-Slot1-Slot2	Pulsating Chronal Shear	105875	1	6
+Bank8-Slot1-Slot3	Empty	0	0	0
+Bank8-Slot2	Tainted Energeiac Plate Bracer	80528	1	6
+Bank8-Slot2-Slot1	Empty	0	0	0
+Bank8-Slot2-Slot2	Pulsating Chronal Shear	105875	1	6
+Bank8-Slot2-Slot3	Empty	0	0	0
+Bank8-Slot3	Tainted Energeiac Plate Bracer	80528	1	6
+Bank8-Slot3-Slot1	Empty	0	0	0
+Bank8-Slot3-Slot2	Pulsating Chronal Shear	105875	1	6
+Bank8-Slot3-Slot3	Empty	0	0	0
+Bank8-Slot4	Tainted Energeiac Plate Greaves	80533	1	6
+Bank8-Slot4-Slot1	Empty	0	0	0
+Bank8-Slot4-Slot2	Brightly Pulsating Chronal Shear	105876	1	6
+Bank8-Slot4-Slot3	Empty	0	0	0
+Bank8-Slot5	Tainted Energeiac Plate Vambraces	80532	1	6
+Bank8-Slot5-Slot1	Empty	0	0	0
+Bank8-Slot5-Slot2	Brightly Pulsating Chronal Shear	105876	1	6
+Bank8-Slot5-Slot3	Empty	0	0	0
+Bank8-Slot6	Empty	0	0	0
+Bank8-Slot7	Empty	0	0	0
+Bank8-Slot8	Empty	0	0	0
+Bank8-Slot9	Tome of the Hero's Journey	66666	1	6
+Bank8-Slot10	Empty	0	0	0
+Bank9	Trader's Satchel	17899	1	10
+Bank9-Slot1	Empty	0	0	0
+Bank9-Slot2	Empty	0	0	0
+Bank9-Slot3	Empty	0	0	0
+Bank9-Slot4	Empty	0	0	0
+Bank9-Slot5	Small Brick of Unrefined Ore	10396	1	6
+Bank9-Slot6	Empty	0	0	0
+Bank9-Slot7	Empty	0	0	0
+Bank9-Slot8	Empty	0	0	0
+Bank9-Slot9	Small Brick of Unrefined Ore	10396	1	6
+Bank9-Slot10	Empty	0	0	0
+Bank10	Trader's Satchel	17899	1	10
+Bank10-Slot1	Composite Field Helmet	87258	1	6
+Bank10-Slot1-Slot1	Empty	0	0	0
+Bank10-Slot2	Lize's Crocheted Doily	53500	1	6
+Bank10-Slot2-Slot1	Empty	0	0	0
+Bank10-Slot3	Ceremonial Crystalwing Cloak	53492	1	6
+Bank10-Slot3-Slot1	Empty	0	0	0
+Bank10-Slot4	Composite Field Armplates	87260	1	6
+Bank10-Slot4-Slot1	Empty	0	0	0
+Bank10-Slot5	Raw-Hide Wristbands	2145	1	6
+Bank10-Slot5-Slot1	Empty	0	0	0
+Bank10-Slot5-Slot2	Empty	0	0	0
+Bank10-Slot6	Quill-Studded Bracer	53486	1	6
+Bank10-Slot6-Slot1	Empty	0	0	0
+Bank10-Slot6-Slot2	Empty	0	0	0
+Bank10-Slot7	Composite Field Greaves	87262	1	6
+Bank10-Slot7-Slot1	Empty	0	0	0
+Bank10-Slot8	Composite Field Gauntlets	87263	1	6
+Bank10-Slot8-Slot1	Empty	0	0	0
+Bank10-Slot9	Composite Field Boots	87261	1	6
+Bank10-Slot9-Slot1	Empty	0	0	0
+Bank10-Slot10	Smithy's Ring	53491	1	6
+Bank10-Slot10-Slot1	Empty	0	0	0
+Bank11	Backpack	17005	1	8
+Bank11-Slot1	Flawed Defiant Silk Gloves	50139	1	6
+Bank11-Slot1-Slot1	Empty	0	0	0
+Bank11-Slot1-Slot2	Empty	0	0	0
+Bank11-Slot1-Slot3	Empty	0	0	0
+Bank11-Slot2	Modest Binding Powder	36280	3	6
+Bank11-Slot3	Sullied Silk	34214	1	6
+Bank11-Slot4	Thalium Ore	34240	1	6
+Bank11-Slot5	Ornate Defiant Plate Boots	50091	1	6
+Bank11-Slot5-Slot1	Empty	0	0	0
+Bank11-Slot5-Slot2	Empty	0	0	0
+Bank11-Slot6	Simple Defiant Plate Greaves	50038	1	6
+Bank11-Slot6-Slot1	Empty	0	0	0
+Bank11-Slot6-Slot2	Empty	0	0	0
+Bank11-Slot7	Dry Marrow	34892	1	6
+Bank11-Slot8	Spider Silk	13041	4	6
+Bank12	Backpack	17005	1	8
+Bank12-Slot1	Empty	0	0	0
+Bank12-Slot2	Empty	0	0	0
+Bank12-Slot3	Reakash's Purifying Mask	53503	1	6
+Bank12-Slot3-Slot1	Empty	0	0	0
+Bank12-Slot4	Empty	0	0	0
+Bank12-Slot5	Empty	0	0	0
+Bank12-Slot6	Empty	0	0	0
+Bank12-Slot7	Empty	0	0	0
+Bank12-Slot8	Empty	0	0	0
+Bank13	Trader's Satchel	17899	1	10
+Bank13-Slot1	Bezuth's Crocskin Tunic	53489	1	6
+Bank13-Slot1-Slot1	Empty	0	0	0
+Bank13-Slot1-Slot2	Empty	0	0	0
+Bank13-Slot2	Black Bear Pelt Cloak	31202	1	6
+Bank13-Slot2-Slot1	Empty	0	0	0
+Bank13-Slot3	Simple Combatant's Orb	50326	1	6
+Bank13-Slot3-Slot1	Empty	0	0	0
+Bank13-Slot4	Kamilah's Amulet of Love	53493	1	6
+Bank13-Slot4-Slot1	Empty	0	0	0
+Bank13-Slot5	Crude Defiant Amethyst	50500	1	6
+Bank13-Slot6	Ring of the Frost Spiders	2744	1	6
+Bank13-Slot6-Slot1	Empty	0	0	0
+Bank13-Slot7	Brass Stud of Wonder	62304	1	6
+Bank13-Slot7-Slot1	Empty	0	0	0
+Bank13-Slot8	Ring of Frost	30015	1	6
+Bank13-Slot8-Slot1	Empty	0	0	0
+Bank13-Slot9	Forged Two Handed Sword	5062	1	6
+Bank13-Slot9-Slot1	Empty	0	0	0
+Bank13-Slot9-Slot2	Empty	0	0	0
+Bank13-Slot10	One of Lize's Trinkets	36196	1	6
+Bank14	Backpack	17005	1	8
+Bank14-Slot1	Simple Consigned Kite Shield	108534	1	6
+Bank14-Slot1-Slot1	Empty	0	0	0
+Bank14-Slot1-Slot2	Empty	0	0	0
+Bank14-Slot2	Empty	0	0	0
+Bank14-Slot3	Raw-Hide Skullcap	2137	1	6
+Bank14-Slot3-Slot1	Empty	0	0	0
+Bank14-Slot3-Slot2	Empty	0	0	0
+Bank14-Slot4	Rock Breaker Hammer	85743	1	6
+Bank14-Slot5	Part of a Broken Pick Haft	36172	1	6
+Bank14-Slot6	Vial of Gnoll Blood	27423	1	6
+Bank14-Slot7	Eye of Dragoneater	64094	1	6
+Bank14-Slot8	Pliant Loam	34878	1	6
+Bank15	Backpack	17005	1	8
+Bank15-Slot1	Satyr Spear	29386	1	6
+Bank15-Slot2	Fine Steel Two Handed Sword	5351	1	6
+Bank15-Slot2-Slot1	Empty	0	0	0
+Bank15-Slot2-Slot2	Empty	0	0	0
+Bank15-Slot3	Satyr Blood	97352	1	6
+Bank15-Slot4	Satyr Horn	97353	1	6
+Bank15-Slot5	Rough Animal Pelt	34229	14	6
+Bank15-Slot6	Flawed Animal Pelt	34230	5	6
+Bank15-Slot7	Natural Silk	34217	4	6
+Bank15-Slot8	Raw Fine Runic Hide	97864	2	6
+Bank16	Trader's Satchel	17899	1	10
+Bank16-Slot1	Small Brick of Unrefined Ore	10396	1	6
+Bank16-Slot2	Empty	0	0	0
+Bank16-Slot3	Empty	0	0	0
+Bank16-Slot4	Empty	0	0	0
+Bank16-Slot5	Empty	0	0	0
+Bank16-Slot6	Empty	0	0	0
+Bank16-Slot7	Empty	0	0	0
+Bank16-Slot8	Empty	0	0	0
+Bank16-Slot9	Empty	0	0	0
+Bank16-Slot10	Empty	0	0	0
+Bank17	Small Brick of Unrefined Ore	10396	1	6
+Bank18	Trader's Satchel	17899	1	10
+Bank18-Slot1	Tantalum Chain Gloves Template	35254	3	6
+Bank18-Slot2	Crude Defiant Plate Vambraces	50009	1	6
+Bank18-Slot2-Slot1	Empty	0	0	0
+Bank18-Slot2-Slot2	Empty	0	0	0
+Bank18-Slot3	Antonican Smithy Hammer	81674	1	6
+Bank18-Slot4	Smithy Hammer	10489	1	6
+Bank18-Slot5	Smithing Chisel	7052	1	6
+Bank18-Slot6	Tantalum Ore	34249	28	6
+Bank18-Slot7	Tantalum Ore	34249	100	6
+Bank18-Slot8	Tantalum Ore	34249	58	6
+Bank18-Slot9	Empty	0	0	0
+Bank18-Slot10	Tantalum Ore	34249	100	6
+Bank19	Backpack	17005	1	8
+Bank19-Slot1	Damp Marrow	34893	2	6
+Bank19-Slot2	Ornate Defiant Chain Sleeves	50100	1	6
+Bank19-Slot2-Slot1	Empty	0	0	0
+Bank19-Slot2-Slot2	Empty	0	0	0
+Bank19-Slot3	Emerald	10029	1	6
+Bank19-Slot4	Tuffein Leather Guard	46352	1	6
+Bank19-Slot4-Slot1	Empty	0	0	0
+Bank19-Slot4-Slot2	Empty	0	0	0
+Bank19-Slot5	Crude Animal Pelt	34228	3	6
+Bank19-Slot6	Thick Silk	34215	5	6
+Bank19-Slot7	Large Satyr Shield	29385	1	6
+Bank19-Slot8	Crude Spinneret Fluid	34906	4	6
+Bank20	Head of Bloodmaw	64092	1	6
+Bank21	Backpack	17005	1	8
+Bank21-Slot1	Black Nitrous Coal	34475	1	6
+Bank21-Slot2	Metal Tempering Chemicals	34546	18	6
+Bank21-Slot3	Empty	0	0	0
+Bank21-Slot4	Metal Tempering Chemicals	34546	20	6
+Bank21-Slot5	Empty	0	0	0
+Bank21-Slot6	Anthracite Coal	34478	2	6
+Bank21-Slot7	Empty	0	0	0
+Bank21-Slot8	Chainmail Gloves Template Pattern	34531	2	6
+Bank22	Backpack*	32601	1	8
+Bank22-Slot1	Tantalum Plate Gauntlet Template	35410	1	6
+Bank22-Slot2	Tantalum Plate Greaves Template	35411	1	6
+Bank22-Slot3	Tantalum Plate Helm Template	35401	1	6
+Bank22-Slot4	Tantalum Breastplate Template	35404	1	6
+Bank22-Slot5	Tantalum Plate Vambrace Template	35408	1	6
+Bank22-Slot6	Tantalum Plate Boot Template	35412	1	6
+Bank22-Slot7	Tantalum Plate Bracer Template	35409	2	6
+Bank22-Slot8	Bituminous Coal	34479	23	6
+Bank23	Rusty Scimitar	5021	1	6
+Bank23-Slot1	Empty	0	0	0
+Bank23-Slot2	Empty	0	0	0
+Bank24	Trader's Satchel	17899	1	10
+Bank24-Slot1	Empty	0	0	0
+Bank24-Slot2	Empty	0	0	0
+Bank24-Slot3	Empty	0	0	0
+Bank24-Slot4	Empty	0	0	0
+Bank24-Slot5	Empty	0	0	0
+Bank24-Slot6	Empty	0	0	0
+Bank24-Slot7	Empty	0	0	0
+Bank24-Slot8	Empty	0	0	0
+Bank24-Slot9	Empty	0	0	0
+Bank24-Slot10	Empty	0	0	0
+SharedBank1	Trader's Satchel	17899	1	10
+SharedBank1-Slot1	Venomous Raptor Saddle	60944	1	6
+SharedBank1-Slot2	Snowstorm Bow Ornamentation	57473	1	1
+SharedBank1-Slot2-Slot1	Empty	0	0	0
+SharedBank1-Slot3	Jade Reaver	5664	1	6
+SharedBank1-Slot3-Slot1	Empty	0	0	0
+SharedBank1-Slot3-Slot2	Empty	0	0	0
+SharedBank1-Slot4	Empty	0	0	0
+SharedBank1-Slot5	Bracelet of Comprehension	7940	1	6
+SharedBank1-Slot5-Slot1	Empty	0	0	0
+SharedBank1-Slot5-Slot2	Empty	0	0	0
+SharedBank1-Slot6	Fabled Obsidian Battle Sword	42904	1	6
+SharedBank1-Slot6-Slot1	Empty	0	0	0
+SharedBank1-Slot6-Slot2	Empty	0	0	0
+SharedBank1-Slot7	Divine Hammer of Consternation	26554	1	6
+SharedBank1-Slot7-Slot1	Empty	0	0	0
+SharedBank1-Slot7-Slot2	Empty	0	0	0
+SharedBank1-Slot8	Brewer's Mesh Cloak	1535	1	6
+SharedBank1-Slot8-Slot1	Empty	0	0	0
+SharedBank1-Slot9	Prize: Crystalline Shield Nimbus	101992	1	6
+SharedBank1-Slot10	Prize: Spore Curer Bait	101986	1	6
+SharedBank2	Trader's Satchel	17899	1	10
+SharedBank2-Slot1	Empty	0	0	0
+SharedBank2-Slot2	Empty	0	0	0
+SharedBank2-Slot3	Empty	0	0	0
+SharedBank2-Slot4	Empty	0	0	0
+SharedBank2-Slot5	Empty	0	0	0
+SharedBank2-Slot6	Empty	0	0	0
+SharedBank2-Slot7	Empty	0	0	0
+SharedBank2-Slot8	Empty	0	0	0
+SharedBank2-Slot9	Empty	0	0	0
+SharedBank2-Slot10	Empty	0	0	0
+SharedBank3	Trader's Satchel	17899	1	10
+SharedBank3-Slot1	Empty	0	0	0
+SharedBank3-Slot2	Empty	0	0	0
+SharedBank3-Slot3	Empty	0	0	0
+SharedBank3-Slot4	Empty	0	0	0
+SharedBank3-Slot5	Empty	0	0	0
+SharedBank3-Slot6	Empty	0	0	0
+SharedBank3-Slot7	Empty	0	0	0
+SharedBank3-Slot8	Empty	0	0	0
+SharedBank3-Slot9	Empty	0	0	0
+SharedBank3-Slot10	Empty	0	0	0
+SharedBank4	Trader's Satchel	17899	1	10
+SharedBank4-Slot1	Empty	0	0	0
+SharedBank4-Slot2	Empty	0	0	0
+SharedBank4-Slot3	Empty	0	0	0
+SharedBank4-Slot4	Empty	0	0	0
+SharedBank4-Slot5	Empty	0	0	0
+SharedBank4-Slot6	Empty	0	0	0
+SharedBank4-Slot7	Empty	0	0	0
+SharedBank4-Slot8	Empty	0	0	0
+SharedBank4-Slot9	Empty	0	0	0
+SharedBank4-Slot10	Empty	0	0	0
+SharedBank5	Empty	0	0	0
+SharedBank6	Empty	0	0	0

@@ -1,0 +1,180 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Vah Shir Claw Earring	29725	1	6
+Ear-Slot1	Empty	0	0	0
+Head	White Dragon Helm	29648	1	6
+Head-Slot1	Empty	0	0	0
+Head-Slot2	Empty	0	0	0
+Face	Crys`Va Mask	26560	1	6
+Face-Slot1	Empty	0	0	0
+Ear	Empty	0	0	0
+Neck	Ayillish's Talisman	27249	1	6
+Neck-Slot1	Empty	0	0	0
+Shoulders	Barbed Dragonscale Pauldrons	25028	1	6
+Shoulders-Slot1	Empty	0	0	0
+Arms	Gladiator's Chain Sleeves	25184	1	6
+Arms-Slot1	Empty	0	0	0
+Arms-Slot2	Empty	0	0	0
+Back	Cloak of Flames	11621	1	6
+Back-Slot1	Empty	0	0	0
+Wrist	Seahorse Spine Bracelet	24739	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Wrist	Silver Chitin Wristband	2747	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Range	Empty	0	0	0
+Hands	Mithril Gauntlets	1100	1	6
+Hands-Slot1	Empty	0	0	0
+Hands-Slot2	Empty	0	0	0
+Primary	Coral Hilted Tulwar	25994	1	6
+Primary-Slot1	Empty	0	0	0
+Primary-Slot2	Empty	0	0	0
+Secondary	Empty	0	0	0
+Fingers	Golden Star Ruby Ring	14682	1	6
+Fingers-Slot1	Empty	0	0	0
+Fingers	Diamond Wedding Band	29210	1	6
+Fingers-Slot1	Empty	0	0	0
+Chest	Ceremonial Iksar Chestplate	4583	1	6
+Chest-Slot1	Empty	0	0	0
+Chest-Slot2	Empty	0	0	0
+Legs	Simple Defiant Chain Leggings	50045	1	6
+Legs-Slot1	Empty	0	0	0
+Legs-Slot2	Empty	0	0	0
+Feet	Mithril Boots	1099	1	6
+Feet-Slot1	Empty	0	0	0
+Feet-Slot2	Empty	0	0	0
+Waist	Spider Fur Belt	25294	1	6
+Waist-Slot1	Empty	0	0	0
+Power Source	Empty	0	0	0
+Ammo	Empty	0	0	0
+General 1	Backpack*	32601	1	8
+General 1-Slot1	Bread Cakes*	9991	3	6
+General 1-Slot2	Skin of Milk	9990	3	6
+General 1-Slot3	Lance of Thunder	31415	1	6
+General 1-Slot3-Slot1	Empty	0	0	0
+General 1-Slot3-Slot2	Empty	0	0	0
+General 1-Slot4	Blightfire-Infused Silk	64108	1	6
+General 1-Slot5	Bandages*	21779	20	6
+General 1-Slot6	Exquisite Velium Battle Axe	27086	1	6
+General 1-Slot6-Slot1	Empty	0	0	0
+General 1-Slot6-Slot2	Empty	0	0	0
+General 1-Slot7	Malachite	10015	1	6
+General 1-Slot8	Executioner's Axe	5407	1	6
+General 1-Slot8-Slot1	Empty	0	0	0
+General 1-Slot8-Slot2	Empty	0	0	0
+General 2	Crescent Reach Guild Summons	58662	1	6
+General 3	Spined Seahorse Hide Breastplate	24742	1	6
+General 3-Slot1	Empty	0	0	0
+General 3-Slot2	Empty	0	0	0
+General 4	Akhevan Focus Staff	32148	1	6
+General 4-Slot1	Empty	0	0	0
+General 4-Slot2	Empty	0	0	0
+General 5	Centi Warspear	32152	1	6
+General 5-Slot1	Empty	0	0	0
+General 5-Slot2	Empty	0	0	0
+General 6	Backpack*	32601	1	8
+General 6-Slot1	Axe Components	59934	18	6
+General 6-Slot2	Tome of Fleshtear Axe	59899	1	6
+General 6-Slot3	Viridian Hero's Forge Chain Chest Ornament	87841	1	6
+General 6-Slot4	Sylvan Chain Wrist Ornament	87698	1	6
+General 6-Slot5	Glowing Black Drum	59509	1	6
+General 6-Slot6	Axe of the Demolisher	99780	1	6
+General 6-Slot7	Foul Ichor Residue	87298	1	6
+General 6-Slot8	Head of a Traitor	48021	1	6
+General 7	Sylvan Chain Helm Ornament	87695	1	6
+General 8	Wanderlust Scout Pack	46231	1	8
+General 8-Slot1	Dragon Scale Sliver	51917	1	6
+General 8-Slot2	Griffon Beak	97336	1	6
+General 8-Slot3	Emerald	10029	1	6
+General 8-Slot4	Journeyman's Boots	2300	1	6
+General 8-Slot4-Slot1	Empty	0	0	0
+General 8-Slot4-Slot2	Empty	0	0	0
+General 8-Slot5	Empty	0	0	0
+General 8-Slot6	Empty	0	0	0
+General 8-Slot7	Empty	0	0	0
+General 8-Slot8	Empty	0	0	0
+General 9	Mucktail Mining Pick	36162	1	6
+General 10	Sporali Eye	97331	1	6
+Held	Empty	0	0	0
+Bank1	Empty	0	0	0
+Bank2	Empty	0	0	0
+Bank3	Empty	0	0	0
+Bank4	Empty	0	0	0
+Bank5	Empty	0	0	0
+Bank6	Empty	0	0	0
+Bank7	Empty	0	0	0
+Bank8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+Bank17	Worked Dragonleg Breeches	27108	1	6
+Bank17-Slot1	Empty	0	0	0
+Bank17-Slot2	Empty	0	0	0
+Bank18	Reinforced Dragonhorn Bracers	27122	1	6
+Bank18-Slot1	Empty	0	0	0
+Bank18-Slot2	Empty	0	0	0
+Bank19	Sleeves of Wrath	55500	1	6
+Bank19-Slot1	Empty	0	0	0
+Bank19-Slot2	Empty	0	0	0
+Bank20	Empty	0	0	0
+Bank21	Empty	0	0	0
+Bank22	Empty	0	0	0
+Bank23	Empty	0	0	0
+Bank24	Empty	0	0	0
+SharedBank1	Trader's Satchel	17899	1	10
+SharedBank1-Slot1	Empty	0	0	0
+SharedBank1-Slot2	Empty	0	0	0
+SharedBank1-Slot3	Empty	0	0	0
+SharedBank1-Slot4	Empty	0	0	0
+SharedBank1-Slot5	Empty	0	0	0
+SharedBank1-Slot6	Empty	0	0	0
+SharedBank1-Slot7	Empty	0	0	0
+SharedBank1-Slot8	Empty	0	0	0
+SharedBank1-Slot9	Empty	0	0	0
+SharedBank1-Slot10	Empty	0	0	0
+SharedBank2	Trader's Satchel	17899	1	10
+SharedBank2-Slot1	Silken Gloves of Fortitude	44238	1	6
+SharedBank2-Slot1-Slot1	Empty	0	0	0
+SharedBank2-Slot1-Slot2	Empty	0	0	0
+SharedBank2-Slot2	Empty	0	0	0
+SharedBank2-Slot3	Empty	0	0	0
+SharedBank2-Slot4	Wand of Mana Tapping	10375	1	6
+SharedBank2-Slot4-Slot1	Empty	0	0	0
+SharedBank2-Slot4-Slot2	Empty	0	0	0
+SharedBank2-Slot5	Earring of Madness	61229	1	6
+SharedBank2-Slot5-Slot1	Empty	0	0	0
+SharedBank2-Slot6	Empty	0	0	0
+SharedBank2-Slot7	Ornate Rune Shield	9204	1	6
+SharedBank2-Slot7-Slot1	Empty	0	0	0
+SharedBank2-Slot7-Slot2	Empty	0	0	0
+SharedBank2-Slot8	Empty	0	0	0
+SharedBank2-Slot9	Empty	0	0	0
+SharedBank2-Slot10	Pantaloons of Derangement	61220	1	6
+SharedBank2-Slot10-Slot1	Empty	0	0	0
+SharedBank2-Slot10-Slot2	Empty	0	0	0
+SharedBank3	Satchel of Abu-Kar	40900	1	8
+SharedBank3-Slot1	Empty	0	0	0
+SharedBank3-Slot2	Empty	0	0	0
+SharedBank3-Slot3	Empty	0	0	0
+SharedBank3-Slot4	Empty	0	0	0
+SharedBank3-Slot5	Empty	0	0	0
+SharedBank3-Slot6	Empty	0	0	0
+SharedBank3-Slot7	Empty	0	0	0
+SharedBank3-Slot8	Empty	0	0	0
+SharedBank4	Backpack	17005	1	8
+SharedBank4-Slot1	Empty	0	0	0
+SharedBank4-Slot2	Empty	0	0	0
+SharedBank4-Slot3	Empty	0	0	0
+SharedBank4-Slot4	Empty	0	0	0
+SharedBank4-Slot5	Empty	0	0	0
+SharedBank4-Slot6	Empty	0	0	0
+SharedBank4-Slot7	Empty	0	0	0
+SharedBank4-Slot8	Empty	0	0	0
+SharedBank5	Empty	0	0	0
+SharedBank6	Empty	0	0	0

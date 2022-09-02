@@ -1,0 +1,289 @@
+Location	Name	ID	Count	Slots
+Charm	Talisman of Werewolf Brain	101027	1	6
+Charm-Slot1	Empty	0	0	0
+Ear	Earring of Dark Conflict	47289	1	6
+Ear-Slot1	Empty	0	0	0
+Head	Singing Energeiac Plate Helm	80552	1	6
+Head-Slot1	Empty	0	0	0
+Head-Slot2	Empty	0	0	0
+Head-Slot3	Ssraeshzian Plate Helm Ornament	84932	1	6
+Face	Redshell Mask	105533	1	6
+Face-Slot1	Empty	0	0	0
+Ear	Stud of Chilling Precision	47285	1	6
+Ear-Slot1	Empty	0	0	0
+Neck	Choker of Imprisoned Visions	47274	1	6
+Neck-Slot1	Empty	0	0	0
+Shoulders	Darkened Adamantite Epaulets	41308	1	6
+Shoulders-Slot1	Empty	0	0	0
+Arms	Singing Energeiac Plate Vambraces	80553	1	6
+Arms-Slot1	Empty	0	0	0
+Arms-Slot2	Empty	0	0	0
+Arms-Slot3	Ssraeshzian Plate Arm Ornament	84934	1	6
+Back	Cloak of Regretful Transgressions	47304	1	6
+Back-Slot1	Empty	0	0	0
+Wrist	Paragon's Plate Wristband	89365	1	6
+Wrist-Slot1	Desiccated Tongue	81926	1	6
+Wrist-Slot2	Empty	0	0	0
+Wrist-Slot3	Empty	0	0	0
+Wrist	Paragon's Plate Bracer	89363	1	6
+Wrist-Slot1	Feather Bundle	51924	1	6
+Wrist-Slot2	Empty	0	0	0
+Wrist-Slot3	Ssraeshzian Plate Wrist Ornament	84935	1	6
+Range	Totem of the Chimera	47296	1	6
+Range-Slot1	Empty	0	0	0
+Hands	Eon Forged Plate Gauntlets	104401	1	6
+Hands-Slot1	Empty	0	0	0
+Hands-Slot2	Empty	0	0	0
+Hands-Slot3	Ssraeshzian Plate Hand Ornament	84936	1	6
+Primary	Scimitar of the Damned	80674	1	6
+Primary-Slot1	Azure Drop	83414	1	6
+Primary-Slot2	Empty	0	0	0
+Secondary	Deepscar Painsmasher	102545	1	6
+Secondary-Slot1	Empty	0	0	0
+Secondary-Slot2	Empty	0	0	0
+Fingers	Ring of the Beast	47292	1	6
+Fingers-Slot1	Oceangreen Clover	81927	1	6
+Fingers	Restless Golden Band	41510	1	6
+Fingers-Slot1	Portal Scrap	51926	1	6
+Chest	Cuirass of the Fallen Saint	83603	1	6
+Chest-Slot1	Empty	0	0	0
+Chest-Slot2	Ssraeshzian Plate Chest Ornament	84933	1	6
+Legs	Singing Energeiac Plate Greaves	80554	1	6
+Legs-Slot1	Empty	0	0	0
+Legs-Slot2	Empty	0	0	0
+Legs-Slot3	Ssraeshzian Plate Leg Ornament	84937	1	6
+Feet	Lost Rubicite Boots	41467	1	6
+Feet-Slot1	Empty	0	0	0
+Feet-Slot2	Empty	0	0	0
+Feet-Slot3	Ssraeshzian Plate Boot Ornament	84938	1	6
+Waist	Darkened Thick Banded Belt	41302	1	6
+Waist-Slot1	Empty	0	0	0
+Power Source	Empty	0	0	0
+Ammo	Empty	0	0	0
+General 1	Traveler's Rucksack	54262	1	24
+General 1-Slot1	Paragon's Targe	89418	1	6
+General 1-Slot1-Slot1	Empty	0	0	0
+General 1-Slot1-Slot2	Empty	0	0	0
+General 1-Slot1-Slot3	Empty	0	0	0
+General 1-Slot2	Heraldic Keep	42723	1	6
+General 1-Slot3	Rancid Pod of Water	97265	20	6
+General 1-Slot4	Iron Ration	13005	20	6
+General 1-Slot5	Gold-Plated Lyre of the Suitor	83597	1	6
+General 1-Slot5-Slot1	Empty	0	0	0
+General 1-Slot6	Serene Light of the Heavens	81592	1	6
+General 1-Slot7	Crest Lower Field Frame	42718	1	6
+General 1-Slot8	Rancid Pod of Water	97265	20	6
+General 1-Slot9	Crest Left Upper Field Plate	42701	1	6
+General 1-Slot10	Tuft of Gray Wolf Fur	77695	5	6
+General 1-Slot11	Reconstructed Cultist Manual	17483	1	6
+General 1-Slot12	Completed Cultist Cipher	17485	1	6
+General 1-Slot13	Rancid Pod of Water	97265	20	6
+General 1-Slot14	Crest Left Upper Field Frame	42700	1	6
+General 1-Slot15	Bertoxxulian Badge of Station	17486	1	6
+General 1-Slot16	Timeshear Purple Fragment Azia	42861	1	6
+General 1-Slot17	Rancid Pod of Water	97265	20	6
+General 1-Slot18	Diseased Vegetables	97261	13	6
+General 1-Slot19	Empty	0	0	0
+General 1-Slot20	Petrified Werewolf Skull	20525	1	6
+General 1-Slot21	Empty	0	0	0
+General 1-Slot22	Crest Upper Left Field Frame	42717	1	6
+General 1-Slot23	Fire Opal	10031	1	6
+General 1-Slot24	Sapphire	10034	1	6
+General 2	Backpack	17005	1	8
+General 2-Slot1	Roots	13047	1	6
+General 2-Slot2	Fossilized Griffon Eye	80385	1	6
+General 2-Slot3	Fox Skull	77689	3	6
+General 2-Slot4	Empty	0	0	0
+General 2-Slot5	Diseased Fruit	97262	9	6
+General 2-Slot6	Crest Center Upper Field Frame	42702	1	6
+General 2-Slot7	Empty	0	0	0
+General 2-Slot8	Crest Upper Right Field Frame	42716	1	6
+General 3	Backpack	17005	1	8
+General 3-Slot1	Bottle of Hastened Adventure III	64718	2	6
+General 3-Slot2	Corrupted Opal Amulet	79873	1	6
+General 3-Slot3	Crest Right Upper Field Frame	42704	1	6
+General 3-Slot4	Vial of Curative Elixir	17338	1	6
+General 3-Slot5	Crest Right Upper Field Plate	42705	1	6
+General 3-Slot6	Timeshear Purple Fragment Dena	42864	1	6
+General 3-Slot7	Iron Ration	13005	20	6
+General 3-Slot8	Iron Ration	13005	20	6
+General 4	Backpack	17005	1	8
+General 4-Slot1	Iron Ration	13005	20	6
+General 4-Slot2	Crest Lower Left Field Frame	42714	1	6
+General 4-Slot3	Crest Lower Right Field Plate	42720	1	6
+General 4-Slot4	Iron Ration	13005	8	6
+General 4-Slot5	Snake Venom Gland	17470	1	6
+General 4-Slot6	Reanimated Bone Dust	17472	1	6
+General 4-Slot7	Fellowship Registration Insignia	34023	1	6
+General 4-Slot8	Rancid Pod of Water	97265	20	6
+General 5	Fenith's Griffon Treat Kit	13624	1	4
+General 5-Slot1	Diseased Berries	97259	18	6
+General 5-Slot2	Oceangreen Wheatgrass	37925	12	6
+General 5-Slot3	Crest Lower Left Field Plate	42713	1	6
+General 5-Slot4	Crest Upper Right Field Plate	42715	1	6
+General 6	Backpack	17005	1	8
+General 6-Slot1	Crest Lower Right Field Frame	42721	1	6
+General 6-Slot2	Rancid Pod of Water	97265	20	6
+General 6-Slot3	Sand of Ro	16904	1	6
+General 6-Slot4	Diseased Roots	97260	20	6
+General 6-Slot5	Primary Anchor Transport Device	57851	1	6
+General 6-Slot6	Diseased Fishing Grub	97264	10	6
+General 6-Slot7	Sunlight Prism Box	81591	1	4
+General 6-Slot7-Slot1	Empty	0	0	0
+General 6-Slot7-Slot2	Empty	0	0	0
+General 6-Slot7-Slot3	Empty	0	0	0
+General 6-Slot7-Slot4	Empty	0	0	0
+General 6-Slot8	Tainted Heartstone	70204	1	6
+General 6-Slot8-Slot1	Empty	0	0	0
+General 7	Backpack	17005	1	8
+General 7-Slot1	Onyx	10027	2	6
+General 7-Slot2	Sceptre of Draconic Calling	64089	1	6
+General 7-Slot3	Rancid Pod of Water	97265	3	6
+General 7-Slot4	Gray Wolf Skull	77688	1	6
+General 7-Slot5	Diseased Roots	97260	3	6
+General 7-Slot6	Paragon's Dirk	89422	1	6
+General 7-Slot6-Slot1	Empty	0	0	0
+General 7-Slot6-Slot2	Empty	0	0	0
+General 7-Slot7	Crest Upper Left Field Plate	42711	1	6
+General 7-Slot8	Drake Fang	20834	1	6
+General 8	Backpack	17005	1	8
+General 8-Slot1	Lute of the Howler	25315	1	6
+General 8-Slot1-Slot1	Empty	0	0	0
+General 8-Slot2	Crest Lower Field Plate	42719	1	6
+General 8-Slot3	Fetid Flesh	17471	1	6
+General 8-Slot4	Wrext Mal Insignia	17342	4	6
+General 8-Slot5	Empty	0	0	0
+General 8-Slot6	Empty	0	0	0
+General 8-Slot7	Empty	0	0	0
+General 8-Slot8	Empty	0	0	0
+General 9	Backpack	17005	1	8
+General 9-Slot1	Empty	0	0	0
+General 9-Slot2	Empty	0	0	0
+General 9-Slot3	Empty	0	0	0
+General 9-Slot4	Empty	0	0	0
+General 9-Slot5	Empty	0	0	0
+General 9-Slot6	Empty	0	0	0
+General 9-Slot7	Empty	0	0	0
+General 9-Slot8	Empty	0	0	0
+General 10	Backpack	17005	1	8
+General 10-Slot1	Empty	0	0	0
+General 10-Slot2	Empty	0	0	0
+General 10-Slot3	Empty	0	0	0
+General 10-Slot4	Empty	0	0	0
+General 10-Slot5	Empty	0	0	0
+General 10-Slot6	Empty	0	0	0
+General 10-Slot7	Empty	0	0	0
+General 10-Slot8	Empty	0	0	0
+Held	Empty	0	0	0
+Bank1	Backpack*	32601	1	8
+Bank1-Slot1	Paragon's Plate Wristguard	89364	1	6
+Bank1-Slot1-Slot1	Empty	0	0	0
+Bank1-Slot1-Slot2	Empty	0	0	0
+Bank1-Slot1-Slot3	Empty	0	0	0
+Bank1-Slot2	Empty	0	0	0
+Bank1-Slot3	Empty	0	0	0
+Bank1-Slot4	Empty	0	0	0
+Bank1-Slot5	Empty	0	0	0
+Bank1-Slot6	Tabron's Remedy	17474	1	6
+Bank1-Slot7	Empty	0	0	0
+Bank1-Slot8	Empty	0	0	0
+Bank2	Backpack	17005	1	8
+Bank2-Slot1	Hero's Forge Plate Chest Ornament	87624	1	6
+Bank2-Slot2	Hero's Forge Plate Arms Ornament	87625	1	6
+Bank2-Slot3	Hero's Forge Plate Wrist Ornament	87626	1	6
+Bank2-Slot4	Hero's Forge Plate Hands Ornament	87627	1	6
+Bank2-Slot5	Hero's Forge Plate Feet Ornament	87629	1	6
+Bank2-Slot6	Hero's Forge Plate Legs Ornament	87628	1	6
+Bank2-Slot7	Hero's Forge Plate Helm Ornament	87623	1	6
+Bank2-Slot8	Paragon's Plate Gauntlets	89366	1	6
+Bank2-Slot8-Slot1	Empty	0	0	0
+Bank2-Slot8-Slot2	Empty	0	0	0
+Bank2-Slot8-Slot3	Empty	0	0	0
+Bank3	Backpack	17005	1	8
+Bank3-Slot1	Empty	0	0	0
+Bank3-Slot2	Empty	0	0	0
+Bank3-Slot3	Empty	0	0	0
+Bank3-Slot4	Empty	0	0	0
+Bank3-Slot5	Empty	0	0	0
+Bank3-Slot6	Empty	0	0	0
+Bank3-Slot7	Empty	0	0	0
+Bank3-Slot8	Empty	0	0	0
+Bank4	Empty	0	0	0
+Bank5	Backpack	17005	1	8
+Bank5-Slot1	Empty	0	0	0
+Bank5-Slot2	Empty	0	0	0
+Bank5-Slot3	Elaborate Defiant Plate Wristguard	50180	1	6
+Bank5-Slot3-Slot1	Empty	0	0	0
+Bank5-Slot3-Slot2	Empty	0	0	0
+Bank5-Slot3-Slot3	Empty	0	0	0
+Bank5-Slot4	Empty	0	0	0
+Bank5-Slot5	Empty	0	0	0
+Bank5-Slot6	Empty	0	0	0
+Bank5-Slot7	Empty	0	0	0
+Bank5-Slot8	Empty	0	0	0
+Bank6	Empty	0	0	0
+Bank7	Backpack	17005	1	8
+Bank7-Slot1	Empty	0	0	0
+Bank7-Slot2	Empty	0	0	0
+Bank7-Slot3	Empty	0	0	0
+Bank7-Slot4	Empty	0	0	0
+Bank7-Slot5	Empty	0	0	0
+Bank7-Slot6	Empty	0	0	0
+Bank7-Slot7	Empty	0	0	0
+Bank7-Slot8	Empty	0	0	0
+Bank8	Backpack	17005	1	8
+Bank8-Slot1	Empty	0	0	0
+Bank8-Slot2	Empty	0	0	0
+Bank8-Slot3	Empty	0	0	0
+Bank8-Slot4	Empty	0	0	0
+Bank8-Slot5	Empty	0	0	0
+Bank8-Slot6	Empty	0	0	0
+Bank8-Slot7	Empty	0	0	0
+Bank8-Slot8	Empty	0	0	0
+Bank9	Backpack	17005	1	8
+Bank9-Slot1	Empty	0	0	0
+Bank9-Slot2	Empty	0	0	0
+Bank9-Slot3	Empty	0	0	0
+Bank9-Slot4	Empty	0	0	0
+Bank9-Slot5	Empty	0	0	0
+Bank9-Slot6	Empty	0	0	0
+Bank9-Slot7	Empty	0	0	0
+Bank9-Slot8	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Gloomingdeep Lantern	9979	1	6
+Bank12-Slot1	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+Bank17	Empty	0	0	0
+Bank18	Empty	0	0	0
+Bank19	Tome of the Hero's Journey	66666	1	6
+Bank20	Crescent Reach Guild Summons	58650	1	6
+Bank21	Empty	0	0	0
+Bank22	Empty	0	0	0
+Bank23	Backpack*	32601	1	8
+Bank23-Slot1	Bread Cakes*	9991	20	6
+Bank23-Slot2	Skin of Milk	9990	20	6
+Bank23-Slot3	Empty	0	0	0
+Bank23-Slot4	Empty	0	0	0
+Bank23-Slot5	Bandages*	21779	20	6
+Bank23-Slot6	Empty	0	0	0
+Bank23-Slot7	Empty	0	0	0
+Bank23-Slot8	Empty	0	0	0
+Bank24	Empty	0	0	0
+SharedBank1	Backpack	17005	1	8
+SharedBank1-Slot1	Empty	0	0	0
+SharedBank1-Slot2	Empty	0	0	0
+SharedBank1-Slot3	Empty	0	0	0
+SharedBank1-Slot4	Empty	0	0	0
+SharedBank1-Slot5	Empty	0	0	0
+SharedBank1-Slot6	Empty	0	0	0
+SharedBank1-Slot7	Empty	0	0	0
+SharedBank1-Slot8	Empty	0	0	0
+SharedBank2	Empty	0	0	0
+SharedBank3	Empty	0	0	0
+SharedBank4	Empty	0	0	0
+SharedBank5	Empty	0	0	0
+SharedBank6	Empty	0	0	0

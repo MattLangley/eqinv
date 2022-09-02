@@ -108,6 +108,31 @@ Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elaborate Defiant Si
 Plot	Chivalry Village, 116 Vanward Street, Three Room House	Gleaming Energeiac Chain Boots	Zhekk	Stored	80523	1
 Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elegant Defiant Plate Wristguard	Zhekk	Stored	50214	1
 Plot	Chivalry Village, 116 Vanward Street, Three Room House	Elaborate Combatant's Belt	Zhekk	Stored	50431	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	White Dragon Scale Sash	Felerando	Stored	25199	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Wrist Guard of Thunder	Felerando	Stored	25200	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Coldain Skin Boots	Felerando	Stored	25027	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Gauntlets of Dragon Slaying	Chaosreaper	Stored	25857	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Barbed Dragonscale Pauldrons	Chaosreaper	Stored	25028	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Barbed Dragonscale Boots	Chaosreaper	Stored	25029	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Coldain Skin Boots	Chaosreaper	Stored	25027	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Coldain Skin Gloves	Chaosreaper	Stored	25026	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Belt of Dwarf Slaying	Chaosreaper	Stored	25858	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Amulet of Insight	Chaosreaper	Stored	30515	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Silver Chitin Hand Wraps	Naraew	Stored	2746	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Crystalline Belt	Naraew	Stored	25613	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Reinforced Dragonleg Breeches	Talarion	Stored	27119	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Peerless Dragonhide Gauntlets	Talarion	Stored	27143	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Poison Soaked Tunic	Talarion	Stored	31391	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Reinforced Dragonhorn Bracers	Talarion	Stored	27122	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Blood Ember Boots	Nalluwen	Stored	4528	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Flawed Defiant Plate Gauntlets	Nalluwen	Stored	50118	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Coldain Skin Gloves	Nalluwen	Stored	25026	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Jarsath Scale Leggings	Nalluwen	Stored	3256	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Kunzar Cloak	Nalluwen	Stored	1617	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Cloak of the Maelstrom	Nalluwen	Stored	25023	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Mithril Gauntlets	Ratek	Stored	1100	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Cloak of Flames	Ratek	Stored	11621	1
+Plot	Chivalry Village, 116 Vanward Street, Three Room House	Golden Efreeti Boots	Chaosreaper	Stored	81763	1
 Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Rough Defiant Hammer	Chaosreaper	Stored	50540	1
 Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Rough Defiant Round Shield	Chaosreaper	Stored	50552	1
 Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Rough Defiant Spiked Staff	Chaosreaper	Stored	50547	1
@@ -131,3 +156,10 @@ Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Ornate Defiant H
 Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Ornate Defiant Orb	Chaosreaper	Stored	50562	1
 Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Elegant Defiant Sceptre	Necrall	Stored	50620	1
 Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Crude Defiant Axe	Kaalix	Stored	50509	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Venomous Axe of the Velium Brood	Naraew	Stored	2745	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Siren's Shield	Talarion	Stored	24722	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Exquisite Velium Battle Axe	Talarion	Stored	27086	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Dented Battleshield	Nalluwen	Stored	6576	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Blackjack	Nalluwen	Stored	6624	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Sathir's Wand	Nalluwen	Stored	14743	1
+Plot	Chivalry Village, 116 Vanward Street, Estate Storage Crate	Gnarled Staff	Nalluwen	Stored	14338	1

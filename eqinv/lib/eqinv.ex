@@ -10,9 +10,15 @@ defmodule EQInv do
     @bucket "EQINV"
     @headerKey "HDR"
     @invKey "INV"
-    
+
+    @invIdx %{
+        "id" => 2,
+        "count" => 3
+    }
+
     @dataIdx %{
         "id" => 5,
+        "count" => 6,
         "slots" => 11,
         "name" => 1,
         "classes" => 36,
@@ -25,6 +31,8 @@ defmodule EQInv do
         "wis" => 28,
         "str" => 22,
         "sta" => 23,
+        "agi" => 24,
+        "dex" => 25,
         "ac" => 32,
         "haste" => 126,
         "hp" => 29,
@@ -46,7 +54,10 @@ defmodule EQInv do
         "Shoulders" => 64,
         "Finger" => 98304,
         "Ear" => 18,
-        "Range" => 2048
+        "Range" => 2048,
+        "Face" => 8,
+        "Waist" => 1048576,
+        "Neck" => 32
     }
 
     @itemType %{
@@ -57,6 +68,7 @@ defmodule EQInv do
         "2hs" => "1",
         "2hp" => "35",
         "2hb" => "4",
+        "hth" => "45",
         "Armor" => "10",
         "Hands" => "4096"
     }
@@ -80,14 +92,32 @@ defmodule EQInv do
         "Ber" => 32768
     }
 
-    def fieldI(data, key), do: field(data, key) |> String.to_integer
+    def fieldI(data, key), do: field(data, key) |> toInt
     def field(data, key), do: Enum.at(data, @dataIdx[key])
 
+    def toInt(nil), do: "-1"
+    def toInt(""), do: "-1"
+    def toInt(value), do: String.to_integer(value)
+
+    def findClassOnly(slot, class, isRec, reqLevel) do
+        classNum = @classes[class]
+        findItems(slot, class, isRec, reqLevel, fn data ->
+            itemClass = fieldI(data, "classes")
+            # Logger.debug("item data: #{inspect data}")
+            itemClass == classNum
+        end) |>
+        Enum.map(fn item ->
+            statBlock(item)
+        end)
+    end
+
     # EQInv.findWeaponDmgDly("Pri", "Pal", false, 0, "2hs")
+    # EQInv.findWeaponDmgDly("Pri", "Ran", false, 0, "2hs")
     def findWeaponDmgDly(slot, class, isRec, reqLevel, type \\ -1) do
-        items = 
+        items =
         findItems(slot, class, isRec, reqLevel, fn data ->
             damage = fieldI(data, "damage")
+            # Logger.debug("item data: #{inspect data}")
             if 0 != damage do
                 itemType = fieldI(data, "type")
                 typeNum = @itemType[type] |> String.to_integer
@@ -110,61 +140,86 @@ defmodule EQInv do
 
             aRatio < bRatio
         end) |>
-        Enum.map(fn item -> 
+        Enum.map(fn item ->
             data = item["data"]
-            name = field(data, "name")
-            damage =fieldI(data, "damage")
+            damage = fieldI(data, "damage")
             delay = fieldI(data, "delay")
-            %{
-                "name" => name,
-                "damage" => damage,
-                "delay" => delay,
-                "ratio" => damage / delay
-            }
+            statBlock(item) |> Map.put("damage_delay", damage / delay)
         end)
+    end
+
+    def headerIdx(name) do
+        headers = get(@bucket, @headerKey)
+        Enum.find_index(headers, fn v -> v == name end)
     end
 
     # EQInv.findArmorStat("Pri", "Wiz", false, 0, "int")
     # EQInv.findArmorStat("Head", "Pal", false, -1, "ac")
+    # EQInv.findArmorStat("Head", "Ran", false, 0, "ac")
+    # EQInv.findArmorStat("Neck", "Ran", false, 0, ["ac", "wis", "str"])
     def findArmorStat(slot, class, isRec, reqLevel, statName, type \\ -1) do
-        items = 
+        items =
         findItems(slot, class, isRec, reqLevel, fn data ->
             itemType = fieldI(data, "type")
             typeNum = @itemType[type] |> String.to_integer
             if -1 == type || itemType == typeNum do
-                stat = fieldI(data, statName)
-                # Logger.debug("data: #{inspect data}")
-                # Logger.debug("stat: #{inspect stat}")
-                0 < stat
+                statCheck(data, statName)
             else
                 false
             end
         end)
 
-        Enum.sort(items, fn a,b ->
+        Enum.sort(items, fn a, b ->
             aData = a["data"]
             bData = b["data"]
-            aStat = fieldI(aData, statName)
-            bStat = fieldI(bData, statName)
+            # Logger.debug("a: #{inspect a}")
+            # Logger.debug("b: #{inspect b}")
+            aStat = statScore(aData, statName)
+            bStat = statScore(bData, statName)
 
             aStat < bStat
         end) |>
-        Enum.map(fn item -> 
+        Enum.map(fn item ->
             data = item["data"]
-            count = length(item["locs"])
-            name = field(data, "name")
-            stat = fieldI(data, statName)
-            req = fieldI(data, "reqLevel")
-            rec = fieldI(data, "recLevel")
-            block =
-            %{
-                "name" => name,
-                "count" => count,
-                "req" => req,
-                "rec" => rec
-            }
-            Map.put(block, statName, stat)
+            statScore = statScore(data, statName)
+            # count = length(item["locs"])
+            # name = field(data, "name")
+            # req = fieldI(data, "reqLevel")
+            # rec = fieldI(data, "recLevel")
+            # block =
+            # %{
+            #     "name" => name,
+            #     "count" => count,
+            #     "req" => req,
+            #     "rec" => rec
+            # }
+            block = statBlock(item)
+            findStats = %{}
+            findStats = Map.put(findStats, "statScore", statScore)
+            findStats = addStats(data, findStats, statName)
+            Map.put(block, "findStats", findStats)
         end)
+    end
+
+    def statCheck(data, stats) when not is_list(stats), do: statCheck(data, [stats])
+
+    def statCheck(_data, []), do: false
+    def statCheck(data, [statName | stats]) do
+        stat = fieldI(data, statName)
+        if 0 < stat do
+            true
+        else
+            statCheck(data, stats)
+        end
+    end
+
+    def statScore(data, stats) when not is_list(stats), do: statScore(data, [stats])
+    def statScore(data, stats), do: statScore(data, stats, 0)
+
+    def statScore(_data, [], score), do: score
+    def statScore(data, [statName | stats], score) do
+        score = fieldI(data, statName) + score
+        statScore(data, stats, score)
     end
 
     def invCount() do
@@ -181,8 +236,8 @@ defmodule EQInv do
             data = item["data"]
             if data do
                 itemName = field(data, "name")
-                {:ok, search} = Regex.compile(name)
-                if String.match?(itemName, search) do
+                {:ok, search} = Regex.compile(String.downcase(name))
+                if String.match?(String.downcase(itemName), search) do
                     [statBlock(item) | acc]
                 else
                     acc
@@ -192,7 +247,7 @@ defmodule EQInv do
             end
         end)
 
-        items
+        {items, length(items)}
     end
 
     # EQInv.findInvName("Deepwater Helmet")
@@ -208,8 +263,8 @@ defmodule EQInv do
                 false
             end
         end)
-        Logger.debug("item: #{inspect item}")
-        
+        # Logger.debug("item: #{inspect item}")
+
         if item do
             statBlock(item)
         else
@@ -219,76 +274,125 @@ defmodule EQInv do
 
     def statBlock(item) do
         # Logger.debug("item: #{inspect item}")
-        count = length(item["locs"])
         data = item["data"]
         name = field(data, "name")
         stats = [
             "str",
             "wis",
             "int",
+            "sta",
+            "dex",
+            "agi",
             "ac",
             "damage",
             "delay",
             "recLevel",
-            "reqLevel"
+            "reqLevel",
+            "haste"
         ]
+        locs = item["locs"]
+        {count, locs} = statBlockLocs(locs)
         block =
         %{
             "name" => name,
-            "count" => count
+            "count" => count,
+            "locs" => locs
         }
 
         addStats(data, block, stats)
     end
 
+    # EQInv.searchInvName("Fulginate Ore")
+    def statBlockLocs(locs), do: statBlockLocs(locs, {0, []})
+
+    def statBlockLocs([], acc), do: acc
+    def statBlockLocs([loc | locs], {count, acc}) do
+        name = Enum.at(loc, 0)
+        type = Enum.at(loc, 1)
+        id = case type do
+            :realestate ->
+                id1 = Enum.at(loc, 2)
+                id2 = Enum.at(loc, 3)
+                "#{id1}_#{id2}"
+            :inventory ->
+                Enum.at(loc, 2)
+        end
+        c = case type do
+            :realestate -> Enum.at(loc, @dataIdx["count"] + 2) |> String.replace("\n", "") |> String.to_integer()
+            :inventory -> Enum.at(loc, @invIdx["count"] + 2) |> String.replace("\n", "") |> String.to_integer()
+        end
+        locBlock = %{
+            "name" => name,
+            "type" => type,
+            "id" => id,
+            "count" => c
+        }
+        acc = [locBlock | acc]
+        statBlockLocs(locs, {count + c, acc})
+    end
+
+    def addStats(data, block, stats) when not is_list(stats), do: addStats(data, block, [stats])
     def addStats(_data, block, []), do: block
     def addStats(data, block, [statName | stats]) do
         stat = fieldI(data, statName)
-        block = Map.put(block, statName, stat)
+        block =
+        if 0 != stat do
+            Map.put(block, statName, stat)
+        else
+            block
+        end
         addStats(data, block, stats)
     end
 
     # EQInv.findArmorStat("Head", "Pal", true, -1, "ac")
+    # EQInv.findArmorStat("Face", "Ran", false, 0, ["ac", "wis", "str"])
     def findItems(slot, class, isRec, reqLevel, check) do
         items = get(@bucket, @invKey)
-        items = Enum.reduce(items, [], fn {_id, item}, acc ->
-            data = item["data"]
-            if data do
-                # name = field(data, "name")
-                # Logger.debug("findItems name: #{inspect name}")
-                slots = fieldI(data, "slots")
-                if slotsCheck(slots, slot) do
-                    classes = fieldI(data, "classes")
-                    if classCheck(classes, class) do
-                        itemRecLevel = fieldI(data, "recLevel")
-                        itemReqLevel = fieldI(data, "reqLevel")
-                        # Logger.debug("itemRecLevel: #{itemRecLevel} itemReqLevel: #{itemReqLevel}")
-                        # recCheckRes = recCheck(itemRecLevel, isRec)
-                        # Logger.debug("recCheckRes: #{inspect recCheckRes}")
-                        if recCheck(itemRecLevel, isRec) && reqCheck(itemReqLevel, reqLevel) do
-                            if check.(data) do 
-                                acc = [item | acc]
-                                acc
+        if -1 != slot && !Map.has_key?(@slots, slot) do
+            Logger.debug("invalid slot: #{slot}")
+            []
+        else
+            Enum.reduce(items, [], fn {_id, item}, acc ->
+                # Logger.debug("reduce id: #{inspect id} item: #{inspect item}")
+                data = item["data"]
+                if data do
+                    # Logger.debug("hasData")
+                    # name = field(data, "name")
+                    # Logger.debug("findItems name: #{inspect name}")
+                    slots = fieldI(data, "slots")
+                    if slotsCheck(slots, slot) do
+                        classes = fieldI(data, "classes")
+                        if classCheck(classes, class) do
+                            itemRecLevel = fieldI(data, "recLevel")
+                            itemReqLevel = fieldI(data, "reqLevel")
+                            # Logger.debug("itemRecLevel: #{itemRecLevel} itemReqLevel: #{itemReqLevel}")
+                            # recCheckRes = recCheck(itemRecLevel, isRec)
+                            # Logger.debug("recCheckRes: #{inspect recCheckRes}")
+                            if recCheck(itemRecLevel, isRec) && reqCheck(itemReqLevel, reqLevel) do
+                                if check.(data) do
+                                    acc = [item | acc]
+                                    acc
+                                else
+                                    acc
+                                end
                             else
+                                # Logger.debug("recreqCheck failed")
                                 acc
                             end
                         else
-                            # Logger.debug("recreqCheck failed")
+                            # Logger.debug("classCheck failed")
                             acc
                         end
                     else
-                        # Logger.debug("classCheck failed")
+                        # Logger.debug("slotsCheck failed")
                         acc
                     end
                 else
-                    # Logger.debug("slotsCheck failed")
+                    # Logger.debug("doesn't have data")
                     acc
                 end
-            else
-                acc
-            end
-        end)
-        items
+            end)
+        end
     end
 
     def recCheck(_itemRecLevel, true), do: true
@@ -306,8 +410,11 @@ defmodule EQInv do
         classNum == (classes &&& classNum)
     end
 
+    def slotsCheck(_slots, -1), do: true
+
     def slotsCheck(slots, slot) do
         slotNum = @slots[slot]
+        # Logger.debug("slotNum: #{inspect slotNum} slots: #{inspect slots}")
         slotNum == (slots &&& slotNum)
     end
 
@@ -318,17 +425,35 @@ defmodule EQInv do
 
         items = %{}
 
-        items = 
+        items =
         Enum.reduce(files, items, fn file, acc ->
-            acc = 
+            acc =
             if !File.dir?(file) && ".txt" == Path.extname(file) do
-                # Logger.debug("file: #{file}")
+                Logger.debug("file: #{file}")
                 fullPath = "#{loadInvPath}/#{file}"
-                {:ok, acc} =
-                File.open(fullPath, [:read], fn file ->
-                    handleInvLine(acc, :headers, file, IO.read(file, :line))
-                end)
-                acc
+                type =
+                if String.ends_with?(file, "RealEstate.txt") do
+                    :realestate
+                else if String.ends_with?(file, "Inventory.txt") do
+                    :inventory
+                else
+                    nil
+                end end
+
+                name = Path.rootname(file)
+
+                if nil != type do
+                    Logger.debug("opening file fullPath: #{fullPath}")
+                    {:ok, acc} =
+                    File.open(fullPath, [:read], fn file ->
+                        handleInvLine(acc, :headers, name, type, file, IO.read(file, :line))
+                    end)
+                    Logger.debug("done with file fullPath: #{fullPath}")
+                    acc
+                else
+                    Logger.debug("type unknown: #{file}")
+                    acc
+                end
             else
                 acc
             end
@@ -340,33 +465,41 @@ defmodule EQInv do
         put(@bucket, @invKey, items)
     end
 
-    def handleInvLine(items, _, _, :eof) do
+    def handleInvLine(items, _, _, _, _, :eof) do
         Logger.debug("inv file done")
         items
     end
 
-    def handleInvLine(items, :headers, file, _line) do
-        handleInvLine(items, :body, file, IO.read(file, :line))
+    def handleInvLine(items, :headers, name, type, file, _line) do
+        handleInvLine(items, :body, name, type, file, IO.read(file, :line))
     end
 
-    def handleInvLine(items, :body, file, line) do
+    def handleInvLine(items, :body, name, type, file, line) do
         entryVals = String.split(line, "\t")
-        # Logger.debug("entryVals: #{inspect entryVals}")
-        id = fieldI(entryVals, "id")
-        Logger.debug("id: #{inspect id}")
-        # Logger.debug("items: #{inspect items} id: #{inspect id}")
+        # Logger.debug("handleInvLine : #{inspect entryVals}")
+        id = invFieldI(type, entryVals, "id")
+        if "-1" == id do
+            Logger.debug("id: #{inspect id}")
+            Logger.debug("entryVals: #{inspect entryVals} id: #{inspect id}")
+        end
         data = get(@bucket, id)
-        vals = 
+        vals =
         Map.get(items, id, %{"locs" => [], "data" => nil}) |>
         Map.put("data", data)
 
+        entryVals = [type | entryVals]
+        entryVals = [name | entryVals]
         locs = Map.get(vals, "locs")
         locs = [entryVals | locs]
 
         vals = Map.put(vals, "locs", locs)
         items = Map.put(items, id, vals)
-        handleInvLine(items, :body, file, IO.read(file, :line))
+        # Logger.debug("handleInvLine calling handleInvLine")
+        handleInvLine(items, :body, name, type, file, IO.read(file, :line))
     end
+
+    def invFieldI(:inventory, entryVals, "id"), do: Enum.at(entryVals, @invIdx["id"]) |> String.to_integer
+    def invFieldI(_, entryVals, key), do: fieldI(entryVals, key)
 
     def loadItems() do
         privPath = :code.priv_dir(:eqinv)
@@ -415,6 +548,17 @@ defmodule EQInv do
     end
 
     def get(bucket, key) do
+        # if !handleGet(@bucket, @invKey) do
+        #     Logger.debug("get is false")
+        # end
+
+        # getResp = handleGet(@bucket, @invKey)
+        # # Logger.debug("getResp: #{inspect getResp}")
+
+        handleGet(bucket, key)
+    end
+
+    defp handleGet(bucket, key) do
         key = :erlang.term_to_binary(key)
         o = Riak.find(bucket, key)
 

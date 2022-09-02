@@ -1,0 +1,150 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Empty	0	0	0
+Head	Mithril Helm	1112	1	6
+Head-Slot1	Empty	0	0	0
+Head-Slot2	Empty	0	0	0
+Face	Mask of War	25024	1	6
+Face-Slot1	Empty	0	0	0
+Ear	Empty	0	0	0
+Neck	Sontalak's Talisman	27256	1	6
+Neck-Slot1	Empty	0	0	0
+Shoulders	Barbed Dragonscale Pauldrons	25028	1	6
+Shoulders-Slot1	Empty	0	0	0
+Arms	Worked Dragonspine Vambraces	27112	1	6
+Arms-Slot1	Empty	0	0	0
+Arms-Slot2	Empty	0	0	0
+Back	Cloak of Piety	1627	1	6
+Back-Slot1	Empty	0	0	0
+Wrist	Hotof's Bracer	1541	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Wrist	Bracelet of Quickness	7941	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Range	War Bow of Rallos Zek	25208	1	6
+Range-Slot1	Empty	0	0	0
+Range-Slot2	Empty	0	0	0
+Hands	Velium Encrusted Gauntlets	25201	1	6
+Hands-Slot1	Empty	0	0	0
+Hands-Slot2	Empty	0	0	0
+Primary	Stronghorn's Horn	27200	1	6
+Primary-Slot1	Empty	0	0	0
+Primary-Slot2	Empty	0	0	0
+Secondary	Crescent Blades of Luclin	22825	1	6
+Secondary-Slot1	Empty	0	0	0
+Secondary-Slot2	Empty	0	0	0
+Fingers	Palladium Fire Opal Ring	45916	1	6
+Fingers-Slot1	Empty	0	0	0
+Fingers	Ring of Relkententinar	31403	1	6
+Fingers-Slot1	Empty	0	0	0
+Chest	Fungus Covered Scale Tunic	2735	1	6
+Chest-Slot1	Empty	0	0	0
+Legs	Gladiator's Chain Leggings	25185	1	6
+Legs-Slot1	Empty	0	0	0
+Legs-Slot2	Empty	0	0	0
+Feet	Mithril Boots	1099	1	6
+Feet-Slot1	Empty	0	0	0
+Feet-Slot2	Empty	0	0	0
+Waist	Belt of the Pine	2916	1	6
+Waist-Slot1	Empty	0	0	0
+Power Source	Empty	0	0	0
+Ammo	Arrow	8005	27	6
+General 1	Backpack*	32601	1	8
+General 1-Slot1	Xiox's Stinging Tentacle	19723	1	6
+General 1-Slot1-Slot1	Empty	0	0	0
+General 1-Slot1-Slot2	Empty	0	0	0
+General 1-Slot2	Empty	0	0	0
+General 1-Slot3	Nimbus of Growth	40658	1	6
+General 1-Slot4	Glowing Black Drum	59509	1	6
+General 1-Slot5	Bandages*	21779	20	6
+General 1-Slot6	Woven Spider Silk	9914	1	6
+General 1-Slot7	Mithril Champion Arrows	24488	10	6
+General 1-Slot8	Empty	0	0	0
+General 2	Trader's Satchel	17899	1	10
+General 2-Slot1	Empty	0	0	0
+General 2-Slot2	Arrow	8005	100	6
+General 2-Slot3	Arrow	8005	100	6
+General 2-Slot4	Arrow	8005	100	6
+General 2-Slot5	Arrow	8005	100	6
+General 2-Slot6	Arrow	8005	100	6
+General 2-Slot7	Arrow	8005	5	6
+General 2-Slot8	Empty	0	0	0
+General 2-Slot9	Empty	0	0	0
+General 2-Slot10	Empty	0	0	0
+General 3	Backpack*	32601	1	8
+General 3-Slot1	Empty	0	0	0
+General 3-Slot2	Empty	0	0	0
+General 3-Slot3	Empty	0	0	0
+General 3-Slot4	Empty	0	0	0
+General 3-Slot5	Spell: Shield of Thistles	15256	1	6
+General 3-Slot6	Spell: Stinging Swarm	15264	1	6
+General 3-Slot7	Spell: Strength of Earth	15268	1	6
+General 3-Slot8	Spell: Eyes of the Cat	15655	1	6
+General 4	Gloomingdeep Lantern	9979	1	6
+General 4-Slot1	Empty	0	0	0
+General 5	Prize: Rallosian Blade Ornamentation	114856	1	6
+General 6	Blackened Acrylia Blade	51260	1	6
+General 6-Slot1	Empty	0	0	0
+General 6-Slot2	Empty	0	0	0
+General 7	Fungus Covered Great Staff	10895	1	6
+General 7-Slot1	Empty	0	0	0
+General 7-Slot2	Empty	0	0	0
+General 8	Empty	0	0	0
+General 9	Backpack*	32601	1	8
+General 9-Slot1	Spell: Spirit of Wolf	15278	1	6
+General 9-Slot2	Spell: Flaming Arrow	26952	1	6
+General 9-Slot3	Empty	0	0	0
+General 9-Slot4	Spell: Grasping Roots	15249	2	6
+General 9-Slot5	Spell: Riftwind's Protection	7693	1	6
+General 9-Slot6	Empty	0	0	0
+General 9-Slot7	Empty	0	0	0
+General 9-Slot8	Spider Legs	13417	1	6
+General 10	Backpack*	32601	1	8
+General 10-Slot1	Empty	0	0	0
+General 10-Slot2	Empty	0	0	0
+General 10-Slot3	Empty	0	0	0
+General 10-Slot4	Empty	0	0	0
+General 10-Slot5	Empty	0	0	0
+General 10-Slot6	Empty	0	0	0
+General 10-Slot7	Empty	0	0	0
+General 10-Slot8	Empty	0	0	0
+Held	Empty	0	0	0
+Bank1	Empty	0	0	0
+Bank2	Empty	0	0	0
+Bank3	Empty	0	0	0
+Bank4	Empty	0	0	0
+Bank5	Empty	0	0	0
+Bank6	Empty	0	0	0
+Bank7	Empty	0	0	0
+Bank8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+Bank17	Empty	0	0	0
+Bank18	Empty	0	0	0
+Bank19	Empty	0	0	0
+Bank20	Empty	0	0	0
+Bank21	Empty	0	0	0
+Bank22	Empty	0	0	0
+Bank23	Empty	0	0	0
+Bank24	Empty	0	0	0
+SharedBank1	Backpack	17005	1	8
+SharedBank1-Slot1	Empty	0	0	0
+SharedBank1-Slot2	Empty	0	0	0
+SharedBank1-Slot3	Empty	0	0	0
+SharedBank1-Slot4	Empty	0	0	0
+SharedBank1-Slot5	Empty	0	0	0
+SharedBank1-Slot6	Empty	0	0	0
+SharedBank1-Slot7	Empty	0	0	0
+SharedBank1-Slot8	Empty	0	0	0
+SharedBank2	Empty	0	0	0
+SharedBank3	Empty	0	0	0
+SharedBank4	Empty	0	0	0
+SharedBank5	Empty	0	0	0
+SharedBank6	Empty	0	0	0

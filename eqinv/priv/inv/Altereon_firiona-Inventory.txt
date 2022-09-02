@@ -1,0 +1,216 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Batskull Earring	10107	1	6
+Ear-Slot1	Empty	0	0	0
+Head	Crystal Crown of Confusion	25096	1	6
+Head-Slot1	Empty	0	0	0
+Head-Slot2	Empty	0	0	0
+Face	Faceguard of Horror	19724	1	6
+Face-Slot1	Empty	0	0	0
+Ear	Batskull Earring	10107	1	6
+Ear-Slot1	Empty	0	0	0
+Neck	Draazak's Talisman	27251	1	6
+Neck-Slot1	Empty	0	0	0
+Shoulders	Neriad Shawl	28508	1	6
+Shoulders-Slot1	Empty	0	0	0
+Arms	Illusionist's Sleeves	31177	1	6
+Arms-Slot1	Empty	0	0	0
+Arms-Slot2	Empty	0	0	0
+Back	Cloak of Crystalline Waters	22819	1	6
+Back-Slot1	Empty	0	0	0
+Wrist	Illusionist's Wristguard	31178	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Wrist	Bracelet of Beauty	7943	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Range	Festive Doll	69229	1	6
+Range-Slot1	Empty	0	0	0
+Hands	Illusionist's Gloves	31179	1	6
+Hands-Slot1	Empty	0	0	0
+Hands-Slot2	Empty	0	0	0
+Primary	Katta Staff of Peace	26525	1	6
+Primary-Slot1	Empty	0	0	0
+Primary-Slot2	Empty	0	0	0
+Secondary	Empty	0	0	0
+Fingers	Trinket of Life	51242	1	6
+Fingers-Slot1	Empty	0	0	0
+Fingers	Ring of Superiority	31222	1	6
+Fingers-Slot1	Empty	0	0	0
+Chest	Bile Drenched Flesh Robe	8497	1	6
+Chest-Slot1	Empty	0	0	0
+Chest-Slot2	Empty	0	0	0
+Legs	Illusionist's Pantaloons	31180	1	6
+Legs-Slot1	Empty	0	0	0
+Legs-Slot2	Empty	0	0	0
+Feet	White Dragonscale Boots	29645	1	6
+Feet-Slot1	Empty	0	0	0
+Feet-Slot2	Empty	0	0	0
+Waist	Strands of Power	7465	1	6
+Waist-Slot1	Empty	0	0	0
+Power Source	Empty	0	0	0
+Ammo	Jade Hydra Saddle	43969	1	6
+General 1	Backpack*	32601	1	8
+General 1-Slot1	Bread Cakes*	9991	8	6
+General 1-Slot2	Skin of Milk	9990	8	6
+General 1-Slot3	Illusionist's Robe	31176	1	6
+General 1-Slot3-Slot1	Empty	0	0	0
+General 1-Slot3-Slot2	Empty	0	0	0
+General 1-Slot4	Inlaid Jade Hoop	5713	1	6
+General 1-Slot4-Slot1	Empty	0	0	0
+General 1-Slot5	Rod of Insidious Glamour	6329	1	6
+General 1-Slot5-Slot1	Empty	0	0	0
+General 1-Slot5-Slot2	Empty	0	0	0
+General 1-Slot6	Illusionist's Slippers	31181	1	6
+General 1-Slot6-Slot1	Empty	0	0	0
+General 1-Slot6-Slot2	Empty	0	0	0
+General 1-Slot7	Resplendent Slippers	25534	1	6
+General 1-Slot7-Slot1	Empty	0	0	0
+General 1-Slot7-Slot2	Empty	0	0	0
+General 1-Slot8	Bandages*	21779	20	6
+General 2	Backpack	17005	1	8
+General 2-Slot1	Gloomingdeep Lantern	9979	1	6
+General 2-Slot1-Slot1	Empty	0	0	0
+General 2-Slot2	Smoldering Brand	6692	1	6
+General 2-Slot2-Slot1	Empty	0	0	0
+General 2-Slot2-Slot2	Empty	0	0	0
+General 2-Slot3	Erollisi's Twin Hearts Head Ornament	77977	1	6
+General 2-Slot4	Serpent of Vindication	22959	1	6
+General 2-Slot4-Slot1	Empty	0	0	0
+General 2-Slot4-Slot2	Empty	0	0	0
+General 2-Slot5	Illusionist's Headband	31175	1	6
+General 2-Slot5-Slot1	Empty	0	0	0
+General 2-Slot5-Slot2	Empty	0	0	0
+General 2-Slot6	Resplendent Trousers	25533	1	6
+General 2-Slot6-Slot1	Empty	0	0	0
+General 2-Slot6-Slot2	Empty	0	0	0
+General 2-Slot7	Crystal Rod of Confusion	25296	1	6
+General 2-Slot7-Slot1	Empty	0	0	0
+General 2-Slot7-Slot2	Empty	0	0	0
+General 2-Slot8	Resplendent Sleeves	25530	1	6
+General 2-Slot8-Slot1	Empty	0	0	0
+General 2-Slot8-Slot2	Empty	0	0	0
+General 3	Backpack	17005	1	8
+General 3-Slot1	Spell: Enthrall	15187	1	6
+General 3-Slot2	Spell: Invisibility vs. Undead	15235	1	6
+General 3-Slot3	Spell: Quickness	15039	1	6
+General 3-Slot4	Thick Grizzly Bear Skin	13756	1	6
+General 3-Slot5	Geerlok Gem Setter	7452	1	6
+General 3-Slot5-Slot1	Empty	0	0	0
+General 3-Slot6	Empty	0	0	0
+General 3-Slot7	Empty	0	0	0
+General 3-Slot8	Empty	0	0	0
+General 4	Backpack	17005	1	8
+General 4-Slot1	Empty	0	0	0
+General 4-Slot2	Spell: Bind Affinity	15035	1	6
+General 4-Slot3	Bone Chips	13073	26	6
+General 4-Slot4	Shadow Wolf Pelt	13779	1	6
+General 4-Slot5	Empty	0	0	0
+General 4-Slot6	Empty	0	0	0
+General 4-Slot7	Empty	0	0	0
+General 4-Slot8	Empty	0	0	0
+General 5	Backpack	17005	1	8
+General 5-Slot1	Empty	0	0	0
+General 5-Slot2	Empty	0	0	0
+General 5-Slot3	Empty	0	0	0
+General 5-Slot4	Empty	0	0	0
+General 5-Slot5	Empty	0	0	0
+General 5-Slot6	Empty	0	0	0
+General 5-Slot7	Tiny Dagger	13080	90	6
+General 5-Slot8	Empty	0	0	0
+General 6	Backpack	17005	1	8
+General 6-Slot1	Empty	0	0	0
+General 6-Slot2	Empty	0	0	0
+General 6-Slot3	Empty	0	0	0
+General 6-Slot4	Empty	0	0	0
+General 6-Slot5	Spell: Ebbing Strength	15645	1	6
+General 6-Slot6	Spell: Whirl Till You Hurl	15303	1	6
+General 6-Slot7	Spell: Languid Pace	15302	1	6
+General 6-Slot8	Spell: Memory Blur	15301	1	6
+General 7	Backpack	17005	1	8
+General 7-Slot1	Spell: Choke	15521	1	6
+General 7-Slot2	Spell: Charm	15300	1	6
+General 7-Slot3	Empty	0	0	0
+General 7-Slot4	Empty	0	0	0
+General 7-Slot5	Empty	0	0	0
+General 7-Slot6	Empty	0	0	0
+General 7-Slot7	Empty	0	0	0
+General 7-Slot8	Empty	0	0	0
+General 8	Backpack	17005	1	8
+General 8-Slot1	Empty	0	0	0
+General 8-Slot2	Empty	0	0	0
+General 8-Slot3	Empty	0	0	0
+General 8-Slot4	Empty	0	0	0
+General 8-Slot5	Empty	0	0	0
+General 8-Slot6	Empty	0	0	0
+General 8-Slot7	Empty	0	0	0
+General 8-Slot8	Empty	0	0	0
+General 9	Backpack	17005	1	8
+General 9-Slot1	Empty	0	0	0
+General 9-Slot2	Empty	0	0	0
+General 9-Slot3	Empty	0	0	0
+General 9-Slot4	Empty	0	0	0
+General 9-Slot5	Empty	0	0	0
+General 9-Slot6	Empty	0	0	0
+General 9-Slot7	Empty	0	0	0
+General 9-Slot8	Empty	0	0	0
+General 10	Backpack	17005	1	8
+General 10-Slot1	Empty	0	0	0
+General 10-Slot2	Empty	0	0	0
+General 10-Slot3	Empty	0	0	0
+General 10-Slot4	Empty	0	0	0
+General 10-Slot5	Empty	0	0	0
+General 10-Slot6	Empty	0	0	0
+General 10-Slot7	Empty	0	0	0
+General 10-Slot8	Empty	0	0	0
+Held	Empty	0	0	0
+Bank1	Backpack*	32601	1	8
+Bank1-Slot1	Empty	0	0	0
+Bank1-Slot2	Empty	0	0	0
+Bank1-Slot3	Empty	0	0	0
+Bank1-Slot4	Empty	0	0	0
+Bank1-Slot5	Empty	0	0	0
+Bank1-Slot6	Empty	0	0	0
+Bank1-Slot7	Empty	0	0	0
+Bank1-Slot8	Empty	0	0	0
+Bank2	Empty	0	0	0
+Bank3	Empty	0	0	0
+Bank4	Empty	0	0	0
+Bank5	Empty	0	0	0
+Bank6	Empty	0	0	0
+Bank7	Empty	0	0	0
+Bank8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+Bank17	Empty	0	0	0
+Bank18	Empty	0	0	0
+Bank19	Empty	0	0	0
+Bank20	Empty	0	0	0
+Bank21	Empty	0	0	0
+Bank22	Empty	0	0	0
+Bank23	Empty	0	0	0
+Bank24	Empty	0	0	0
+SharedBank1	Trader's Satchel	17899	1	10
+SharedBank1-Slot1	Distillate of Skinspikes V	96424	8	6
+SharedBank1-Slot2	Distillate of Skinspikes IV	96423	8	6
+SharedBank1-Slot3	Distillate of Skinspikes VI	96425	20	6
+SharedBank1-Slot4	Distillate of Skinspikes VI	96425	20	6
+SharedBank1-Slot5	Distillate of Skinspikes VI	96425	20	6
+SharedBank1-Slot6	Distillate of Skinspikes VI	96425	20	6
+SharedBank1-Slot7	Empty	0	0	0
+SharedBank1-Slot8	Empty	0	0	0
+SharedBank1-Slot9	Empty	0	0	0
+SharedBank1-Slot10	Empty	0	0	0
+SharedBank2	Rebreather	16889	1	6
+SharedBank2-Slot1	Empty	0	0	0
+SharedBank2-Slot2	Empty	0	0	0
+SharedBank3	Sebilisian Dagger Ornamentation	43517	1	6
+SharedBank4	Empty	0	0	0
+SharedBank5	Empty	0	0	0
+SharedBank6	Empty	0	0	0

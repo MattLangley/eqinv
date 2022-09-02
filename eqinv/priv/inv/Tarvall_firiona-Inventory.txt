@@ -1,0 +1,200 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Empty	0	0	0
+Head	Helmet of Rallos Zek	25209	1	6
+Head-Slot1	Empty	0	0	0
+Head-Slot2	Empty	0	0	0
+Face	Mask of Venom	31389	1	6
+Face-Slot1	Empty	0	0	0
+Ear	Empty	0	0	0
+Neck	Yelinak's Talisman	27266	1	6
+Neck-Slot1	Empty	0	0	0
+Shoulders	Barbed Dragonscale Pauldrons	25028	1	6
+Shoulders-Slot1	Empty	0	0	0
+Arms	Cobalt Vambraces	4517	1	6
+Arms-Slot1	Empty	0	0	0
+Arms-Slot2	Empty	0	0	0
+Back	Cloak of the Maelstrom	25023	1	6
+Back-Slot1	Empty	0	0	0
+Wrist	Hero Bracers	12189	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Wrist	Cobalt Bracer	4518	1	6
+Wrist-Slot1	Empty	0	0	0
+Wrist-Slot2	Empty	0	0	0
+Range	Bow of the Huntsman	25033	1	6
+Range-Slot1	Empty	0	0	0
+Range-Slot2	Empty	0	0	0
+Hands	Velium Encrusted Gauntlets	25201	1	6
+Hands-Slot1	Empty	0	0	0
+Hands-Slot2	Empty	0	0	0
+Primary	Blade of Carnage	25210	1	6
+Primary-Slot1	Empty	0	0	0
+Primary-Slot2	Empty	0	0	0
+Secondary	Empty	0	0	0
+Fingers	Ring of Destruction	25211	1	6
+Fingers-Slot1	Empty	0	0	0
+Fingers	Empty	0	0	0
+Chest	Kizrak's Chestplate of Battle	15119	1	6
+Chest-Slot1	Empty	0	0	0
+Chest-Slot2	Empty	0	0	0
+Legs	Blood Runed Greaves	25321	1	6
+Legs-Slot1	Empty	0	0	0
+Legs-Slot2	Empty	0	0	0
+Feet	Boots of the Storm	25197	1	6
+Feet-Slot1	Empty	0	0	0
+Feet-Slot2	Empty	0	0	0
+Waist	Belt of Contention	2921	1	6
+Waist-Slot1	Empty	0	0	0
+Power Source	Empty	0	0	0
+Ammo	Empty	0	0	0
+General 1	Backpack*	32601	1	8
+General 1-Slot1	Bread Cakes*	9991	9	6
+General 1-Slot2	Skin of Milk	9990	9	6
+General 1-Slot3	Blood Point	7249	1	6
+General 1-Slot3-Slot1	Empty	0	0	0
+General 1-Slot3-Slot2	Empty	0	0	0
+General 1-Slot4	Tome of Focused Will Discipline	66412	1	6
+General 1-Slot5	Bandages*	21779	20	6
+General 1-Slot6	Empty	0	0	0
+General 1-Slot7	The Horn of Hsagra	25195	1	6
+General 1-Slot7-Slot1	Empty	0	0	0
+General 1-Slot7-Slot2	Empty	0	0	0
+General 1-Slot8	Empty	0	0	0
+General 2	Backpack*	32601	1	8
+General 2-Slot1	Empty	0	0	0
+General 2-Slot2	Empty	0	0	0
+General 2-Slot3	Empty	0	0	0
+General 2-Slot4	Empty	0	0	0
+General 2-Slot5	Empty	0	0	0
+General 2-Slot6	Empty	0	0	0
+General 2-Slot7	Empty	0	0	0
+General 2-Slot8	Empty	0	0	0
+General 3	Backpack	17005	1	8
+General 3-Slot1	Empty	0	0	0
+General 3-Slot2	Empty	0	0	0
+General 3-Slot3	Empty	0	0	0
+General 3-Slot4	Empty	0	0	0
+General 3-Slot5	Empty	0	0	0
+General 3-Slot6	Empty	0	0	0
+General 3-Slot7	Empty	0	0	0
+General 3-Slot8	Empty	0	0	0
+General 4	Backpack	17005	1	8
+General 4-Slot1	Empty	0	0	0
+General 4-Slot2	Empty	0	0	0
+General 4-Slot3	Empty	0	0	0
+General 4-Slot4	Empty	0	0	0
+General 4-Slot5	Empty	0	0	0
+General 4-Slot6	Empty	0	0	0
+General 4-Slot7	Empty	0	0	0
+General 4-Slot8	Empty	0	0	0
+General 5	Executioner's Axe	5407	1	6
+General 5-Slot1	Empty	0	0	0
+General 5-Slot2	Empty	0	0	0
+General 6	Backpack*	32601	1	8
+General 6-Slot1	Empty	0	0	0
+General 6-Slot2	Empty	0	0	0
+General 6-Slot3	Empty	0	0	0
+General 6-Slot4	Empty	0	0	0
+General 6-Slot5	Empty	0	0	0
+General 6-Slot6	Empty	0	0	0
+General 6-Slot7	Empty	0	0	0
+General 6-Slot8	Empty	0	0	0
+General 7	Gloomingdeep Lantern	9979	1	6
+General 7-Slot1	Empty	0	0	0
+General 8	Xiox's Stinging Tentacle	19723	1	6
+General 8-Slot1	Empty	0	0	0
+General 8-Slot2	Empty	0	0	0
+General 9	Felhammer	5607	1	6
+General 9-Slot1	Empty	0	0	0
+General 9-Slot2	Empty	0	0	0
+General 10	Satchel of Legacies Lost	17527	1	7
+General 10-Slot1	Package of Defiant Armor	17525	1	6
+General 10-Slot2	Package of Defiant Armor	17525	1	6
+General 10-Slot3	Package of Defiant Armor	17525	1	6
+General 10-Slot4	Scabbard of Hope	17526	1	6
+General 10-Slot5	Potion of Adventure	40605	10	6
+General 10-Slot6	Potion of Speed	40682	10	6
+General 10-Slot7	Book of Knowledge	17523	1	6
+Held	Empty	0	0	0
+Bank1	Empty	0	0	0
+Bank2	Empty	0	0	0
+Bank3	Empty	0	0	0
+Bank4	Empty	0	0	0
+Bank5	Empty	0	0	0
+Bank6	Empty	0	0	0
+Bank7	Empty	0	0	0
+Bank8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+Bank17	Empty	0	0	0
+Bank18	Empty	0	0	0
+Bank19	Cobalt Helm	4515	1	6
+Bank19-Slot1	Empty	0	0	0
+Bank19-Slot2	Empty	0	0	0
+Bank20	Cobalt Breastplate	4516	1	6
+Bank20-Slot1	Empty	0	0	0
+Bank20-Slot2	Empty	0	0	0
+Bank21	Empty	0	0	0
+Bank22	Empty	0	0	0
+Bank23	Empty	0	0	0
+Bank24	Chestplate of Vindication	25044	1	6
+Bank24-Slot1	Empty	0	0	0
+Bank24-Slot2	Empty	0	0	0
+SharedBank1	Trader's Satchel	17899	1	10
+SharedBank1-Slot1	Empty	0	0	0
+SharedBank1-Slot2	Empty	0	0	0
+SharedBank1-Slot3	Empty	0	0	0
+SharedBank1-Slot4	Empty	0	0	0
+SharedBank1-Slot5	Empty	0	0	0
+SharedBank1-Slot6	Empty	0	0	0
+SharedBank1-Slot7	Empty	0	0	0
+SharedBank1-Slot8	Empty	0	0	0
+SharedBank1-Slot9	Empty	0	0	0
+SharedBank1-Slot10	Empty	0	0	0
+SharedBank2	Trader's Satchel	17899	1	10
+SharedBank2-Slot1	Silken Gloves of Fortitude	44238	1	6
+SharedBank2-Slot1-Slot1	Empty	0	0	0
+SharedBank2-Slot1-Slot2	Empty	0	0	0
+SharedBank2-Slot2	Empty	0	0	0
+SharedBank2-Slot3	Empty	0	0	0
+SharedBank2-Slot4	Wand of Mana Tapping	10375	1	6
+SharedBank2-Slot4-Slot1	Empty	0	0	0
+SharedBank2-Slot4-Slot2	Empty	0	0	0
+SharedBank2-Slot5	Earring of Madness	61229	1	6
+SharedBank2-Slot5-Slot1	Empty	0	0	0
+SharedBank2-Slot6	Empty	0	0	0
+SharedBank2-Slot7	Ornate Rune Shield	9204	1	6
+SharedBank2-Slot7-Slot1	Empty	0	0	0
+SharedBank2-Slot7-Slot2	Empty	0	0	0
+SharedBank2-Slot8	Empty	0	0	0
+SharedBank2-Slot9	Empty	0	0	0
+SharedBank2-Slot10	Pantaloons of Derangement	61220	1	6
+SharedBank2-Slot10-Slot1	Empty	0	0	0
+SharedBank2-Slot10-Slot2	Empty	0	0	0
+SharedBank3	Satchel of Abu-Kar	40900	1	8
+SharedBank3-Slot1	Empty	0	0	0
+SharedBank3-Slot2	Empty	0	0	0
+SharedBank3-Slot3	Empty	0	0	0
+SharedBank3-Slot4	Empty	0	0	0
+SharedBank3-Slot5	Empty	0	0	0
+SharedBank3-Slot6	Empty	0	0	0
+SharedBank3-Slot7	Empty	0	0	0
+SharedBank3-Slot8	Empty	0	0	0
+SharedBank4	Backpack	17005	1	8
+SharedBank4-Slot1	Empty	0	0	0
+SharedBank4-Slot2	Empty	0	0	0
+SharedBank4-Slot3	Empty	0	0	0
+SharedBank4-Slot4	Empty	0	0	0
+SharedBank4-Slot5	Empty	0	0	0
+SharedBank4-Slot6	Empty	0	0	0
+SharedBank4-Slot7	Empty	0	0	0
+SharedBank4-Slot8	Empty	0	0	0
+SharedBank5	Empty	0	0	0
+SharedBank6	Empty	0	0	0
